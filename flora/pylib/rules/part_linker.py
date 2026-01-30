@@ -21,9 +21,9 @@ class PartLinker(Linker):
     # Class vars ----------
     children_part_subpart: ClassVar[
         list[str]
-    ] = """ color duration duration margin shape surface venation woodiness dispersal_structure """.split()
+    ] = """ color duration duration margin shape surface venation woodiness dispersal_traits """.split()
 
-    parents: ClassVar[list[str]] = ["part", "multiple_parts"]
+    parents: ClassVar[list[str]] = ["part", "multiple_parts", "fruit_type"]
     children: ClassVar[list[str]] = [*children_part_subpart, "subpart"]
     child_once: ClassVar[list[str]] = ["size", "count"]
 

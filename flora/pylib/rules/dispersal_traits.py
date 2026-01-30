@@ -13,8 +13,8 @@ from .linkable import Linkable
 
 
 @dataclass(eq=False)
-class DispersalStructure(Linkable):
-    """Extract seed/fruit dispersal structure traits (wing, pappus, hooks, etc.).
+class DispersalTraits(Linkable):
+    """Extract seed/fruit dispersal traits (wing, pappus, hooks, etc.).
     Linked to seed/fruit part (seed, fruit, drupe, achene, etc.) via PartLinker.
     """
 
@@ -30,14 +30,14 @@ class DispersalStructure(Linkable):
     )
     # ---------------------
 
-    dispersal_structure: str = None
+    dispersal_traits: str = None
 
     def to_dwc(self, dwc) -> DarwinCore:
-        return dwc.add_dyn(**{self.key: self.dispersal_structure})
+        return dwc.add_dyn(**{self.key: self.dispersal_traits})
 
     @property
     def key(self) -> str:
-        return self.key_builder("dispersal", "structure")
+        return self.key_builder("dispersal", "traits")
 
     @classmethod
     def pipe(cls, nlp: Language):
@@ -46,7 +46,7 @@ class DispersalStructure(Linkable):
             nlp,
             name="dispersal_patterns",
             compiler=cls.dispersal_patterns(),
-            overwrite=["part", "part_term", "dispersal_structure"],
+            overwrite=["part", "part_term", "dispersal_traits"],
         )
         add.cleanup_pipe(nlp, name="dispersal_cleanup")
 
@@ -59,9 +59,9 @@ class DispersalStructure(Linkable):
         }
         return [
             Compiler(
-                label="dispersal_structure",
-                on_match="dispersal_structure_match",
-                keep="dispersal_structure",
+                label="dispersal_traits",
+                on_match="dispersal_traits_match",
+                keep="dispersal_traits",
                 decoder=decoder,
                 patterns=[
                     "  dispersal ",
@@ -71,7 +71,7 @@ class DispersalStructure(Linkable):
         ]
 
     @classmethod
-    def dispersal_structure_match(cls, ent):
+    def dispersal_traits_match(cls, ent):
         # Use type from first dispersal_term token; normalize via replace
         dispersal_type = None
         for token in ent:
@@ -84,9 +84,9 @@ class DispersalStructure(Linkable):
                     dispersal_type = cls.type_.get(norm)
                 if dispersal_type is not None:
                     break
-        return cls.from_ent(ent, dispersal_structure=dispersal_type)
+        return cls.from_ent(ent, dispersal_traits=dispersal_type)
 
 
-@registry.misc("dispersal_structure_match")
-def dispersal_structure_match(ent):
-    return DispersalStructure.dispersal_structure_match(ent)
+@registry.misc("dispersal_traits_match")
+def dispersal_traits_match(ent):
+    return DispersalTraits.dispersal_traits_match(ent)

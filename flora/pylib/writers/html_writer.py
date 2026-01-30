@@ -48,8 +48,11 @@ class CssClasses:
 
     @staticmethod
     def is_highlight_trait(trait) -> bool:
-        """True if trait is dispersal_structure or fruit_type (colored; others gray)."""
-        if "dispersalstructure" in trait.key.lower():
+        """True if trait is dispersal_traits or fruit_type (colored; others gray)."""
+        key_lower = trait.key.lower()
+        if "dispersaltraits" in key_lower:
+            return True
+        if "fruittype" in key_lower:
             return True
         if getattr(trait, "type", None) == "fruit_type":
             return True
@@ -122,6 +125,16 @@ class HtmlWriter:
         text = "".join(frags)
         return text
 
+    @staticmethod
+    def _trait_row_priority(key: str) -> int:
+        """Order: fruit_type (0), dispersal_traits (1), others (2)."""
+        k = key.lower()
+        if "fruittype" in k:
+            return 0
+        if "dispersaltraits" in k:
+            return 1
+        return 2
+
     def format_traits(self, row):
         """Group traits for display in their own table."""
         traits = []
@@ -138,11 +151,15 @@ class HtmlWriter:
                 ),
             )
 
-        sortable = sorted(sortable)
+        sortable = sorted(
+            sortable,
+            key=lambda x: (self._trait_row_priority(x.key), x.key, x.start),
+        )
 
         for key, grouped in itertools.groupby(sortable, key=lambda x: x.key):
+            key_lower = key.lower()
             is_highlight = (
-                "dispersalstructure" in key.lower() or key == "fruitType"
+                "dispersaltraits" in key_lower or "fruittype" in key_lower
             )
             cls = self.css_classes[key] if is_highlight else "trait-gray"
             label = f'<span class="{cls}">{key}</span>'
