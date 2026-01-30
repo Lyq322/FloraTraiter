@@ -5,9 +5,6 @@ bad_part,plants atlas,,bad_part
 bad_part,plants inventory,,bad_part
 bad_part,plants of,,bad_part
 part_term,acephalous,corona,flower_part
-part_term,achaenocarp,achaenocarp,fruit_part
-part_term,achene,achene,fruit_part
-part_term,achenes,achene,fruit_part
 part_term,achlamydeous,achlamydeous,flower_part
 part_term,acutangular,acutangular,plant_part
 part_term,adelphous,adelphous,male_flower_part
@@ -27,8 +24,6 @@ part_term,beak,beak,fruit_part
 part_term,beaks,beak,fruit_part
 part_term,beltian bodies,beltian body,plant_part
 part_term,beltian body,beltian body,plant_part
-part_term,berries,berry,fruit_part
-part_term,berry,berry,fruit_part
 part_term,blade,leaf,leaf_part
 part_term,blades,leaf,leaf_part
 part_term,bostryx,bostryx,inflorescence
@@ -50,18 +45,14 @@ part_term,calyces,calyx,flower_part
 part_term,calyx,calyx,flower_part
 part_term,capitula,capitulum,inflorescence
 part_term,capitulum,capitulum,inflorescence
-part_term,capsule,capsule,fruit_part
-part_term,capsules,capsule,fruit_part
 part_term,carpel,carpel,flower_part
 part_term,carpellate,carpellate,female_flower_part
 part_term,carpels,carpel,flower_part
-part_term,caryopsis,caryopsis,fruit_part
 part_term,catkin,catkin,inflorescence
 part_term,catkins,catkin,inflorescence
 part_term,caudex,caudex,plant_part
 part_term,caudices,caudex,plant_part
 part_term,cincinnus,cincinnus,inflorescence
-part_term,circumscissile,circumscissile,fruit_part
 part_term,cladode,cladode,plant_part
 part_term,cladophyll,cladophyll,plant_part
 part_term,claw,claw,flower_part
@@ -101,8 +92,6 @@ part_term,disks,disk,flower_part
 part_term,double cyme ,double cyme,inflorescence
 part_term,double umbel,double umbel,inflorescence
 part_term,drepanium,drepanium,inflorescence
-part_term,drupe,drupe,fruit_part
-part_term,drupes,drupes,fruit_part
 part_term,endocarp,endocarp,fruit_part
 part_term,endodermis,,plant_part
 part_term,epicalyces,epicalyx,flower_part
@@ -203,8 +192,6 @@ part_term,leafstalk,leaf-stalk,leaf_part
 part_term,leafstalks,leaf-stalk,leaf_part
 part_term,leaved,,leaf_part
 part_term,leaves,leaf,leaf_part
-part_term,legume,legume,fruit_part
-part_term,legumes,legume,fruit_part
 part_term,lenticel,lenticel,plant_part
 part_term,lenticels,lenticel,plant_part
 part_term,lf,leaf,leaf_part
@@ -219,8 +206,6 @@ part_term,lfts,leaflet,leaf_part
 part_term,ligule,ligule,leaf_part
 part_term,locule,locule,female_flower_part
 part_term,loculus,loculus,female_flower_part
-part_term,loment,loment,fruit_part
-part_term,loments,loment,fruit_part
 part_term,lvd,leaved,leaf_part
 part_term,lvs,leaf,leaf_part
 part_term,mesocarp,mesocarp,fruit_part
@@ -239,10 +224,6 @@ part_term,non-flowering branch,branch,plant_part
 part_term,non-flowering branches,branch,plant_part
 part_term,non-flowering stem,stem,plant_part
 part_term,non-flowering stems,stem,plant_part
-part_term,nut,nut,fruit_part
-part_term,nutlet,nutlet,fruit_part
-part_term,nutlets,nutlet,fruit_part
-part_term,nuts,nut,fruit_part
 part_term,ovaries,ovary,female_flower_part
 part_term,ovary,ovary,female_flower_part
 part_term,ovule,ovary,female_flower_part
@@ -255,8 +236,6 @@ part_term,pedicel,pedicel,flower_part
 part_term,pedicels,pedicel,flower_part
 part_term,peduncle,peduncle,flower_part
 part_term,peduncles,peduncle,flower_part
-part_term,pepo,pepo,fruit_part
-part_term,pepos,pepo,fruit_part
 part_term,perianth,perianth,flower_part
 part_term,pericarp,pericarp,fruit_part
 part_term,perigonium,perianth,leaf_part
@@ -285,13 +264,9 @@ part_term,placenta,placenta,female_flower_part
 part_term,plant,plant,plant_part
 part_term,plants,plant,plant_part
 part_term,pleurogram,pleurogram,fruit_part
-part_term,pod,pod,fruit_part
-part_term,pods,pod,fruit_part
 part_term,pollen sac,pollen sac,male_flower_part
 part_term,pollen sacs,pollen sac,male_flower_part
 part_term,pollen,pollen,male_flower_part
-part_term,pome,pome,fruit_part
-part_term,pomes,pome,fruit_part
 part_term,poricidal,poricidal,male_flower_part
 part_term,pseudoraceme,pseudoraceme,inflorescence
 part_term,pseudoracemes,pseudoraceme,inflorescence
@@ -312,8 +287,6 @@ part_term,rootstock,rootstock,plant_part
 part_term,rootstocks,rootstock,plant_part
 part_term,runner,runner,plant_part
 part_term,runners,runner,plant_part
-part_term,samara,samara,fruit_part
-part_term,samaras,fruit,fruit_part
 part_term,sarcotesta,sarcotesta,fruit_part
 part_term,sclerotesta,sclerotesta,fruit_part
 part_term,seed,seed,fruit_part
@@ -370,8 +343,6 @@ part_term,stolons,stolons,plant_part
 part_term,subshrub,shrub,plant_part
 part_term,subshrubs,shrub,plant_part
 part_term,suture,suture,fruit_part
-part_term,syconium,syconium,inflorescence
-part_term,syncarp,syncarp,fruit_part
 part_term,syngenesious,syngenesious,male_flower_part
 part_term,tepal,tepal,flower_part
 part_term,tepals,tepal,flower_part
@@ -392,12 +363,9 @@ part_term,umbel,umbel,inflorescence
 part_term,umbels,umbel,inflorescence
 part_term,underbark,underbark,plant_part
 part_term,unicarpellate,unicarpellate,female_flower_part
-part_term,utricle ,utricle,fruit_part
 part_term,versatile,versatile,male_flower_part
 part_term,verticil,verticil,inflorescence
 part_term,verticillaster,verticillaster,inflorescence
-part_term,wing,wing,flower_part
-part_term,wings,wing,flower_part
 part_and,&,,
 part_and,and,,
 part_and,et,,
@@ -405,3 +373,109 @@ part_leader,alternate,,
 part_leader,palmately,,
 part_leader,primary,,
 part_leader,secondary,,
+
+part_term,achene,achene,fruit_type
+part_term,achenes,achene,fruit_type
+part_term,cypsela,achene,fruit_type
+part_term,cypselas,achene,fruit_type
+part_term,anthocarp,anthocarp,fruit_type
+part_term,anthocarps,anthocarp,fruit_type
+part_term,amphisarca,berry,fruit_type
+part_term,amphisarcas,berry,fruit_type
+part_term,arillocarpium,berry,fruit_type
+part_term,arillocarpiums,berry,fruit_type
+part_term,balausta,berry,fruit_type
+part_term,balaustas,berry,fruit_type
+part_term,balaustae,berry,fruit_type
+part_term,berry,berry,fruit_type
+part_term,berries,berry,fruit_type
+part_term,cactidium,berry,fruit_type
+part_term,cactidiums,berry,fruit_type
+part_term,epispermatium,berry,fruit_type
+part_term,epispermatiums,berry,fruit_type
+part_term,hesperidium,berry,fruit_type
+part_term,hesperidiums,berry,fruit_type
+part_term,pepo,berry,fruit_type
+part_term,pepos,berry,fruit_type
+part_term,syncarp,berry,fruit_type
+part_term,syncarps,berry,fruit_type
+part_term,capsule,capsule,fruit_type
+part_term,capsules,capsule,fruit_type
+part_term,circumscissile,capsule,fruit_type
+part_term,circumscissile,capsule,fruit_type
+part_term,loculicidal,capsule,fruit_type
+part_term,poricidal,capsule,fruit_type
+part_term,pyxis,capsule,fruit_type
+part_term,pyxides,capsule,fruit_type
+part_term,septicidal,capsule,fruit_type
+part_term,silicle,capsule,fruit_type
+part_term,silicles,capsule,fruit_type
+part_term,silique,capsule,fruit_type
+part_term,siliques,capsule,fruit_type
+part_term,caryopsis,caryopsis,fruit_type
+part_term,caryopses,caryopsis,fruit_type
+part_term,grain,caryopsis,fruit_type
+part_term,grains,caryopsis,fruit_type
+part_term,drupe,drupe,fruit_type
+part_term,drupes,drupes,fruit_type
+part_term,drupelet,drupes,fruit_type
+part_term,drupelets,drupes,fruit_type
+part_term,drupetum,drupe,fruit_type
+part_term,drupetums,drupe,fruit_type
+part_term,pseudodrupe,drupe,fruit_type
+part_term,pseudodrupes,drupe,fruit_type
+part_term,stone fruit,drupe,fruit_type
+part_term,stone fruits,drupe,fruit_type
+part_term,follicle,follicle,fruit_type
+part_term,follicles,follicle,fruit_type
+part_term,cone,gymnosperm_cone,fruit_type
+part_term,cones,gymnosperm_cone,fruit_type
+part_term,megastrobilus,gymnosperm_cone,fruit_type
+part_term,megastrobili,gymnosperm_cone,fruit_type
+part_term,microstrobilus,gymnosperm_cone,fruit_type
+part_term,microstrobili,gymnosperm_cone,fruit_type
+part_term,strobili,gymnosperm_cone,fruit_type
+part_term,strobilus,gymnosperm_cone,fruit_type
+part_term,berry-like cone,gymnosperm_fleshy_cone,fruit_type
+part_term,berry-like cones,gymnosperm_fleshy_cone,fruit_type
+part_term,cone berry,gymnosperm_fleshy_cone,fruit_type
+part_term,cone berries,gymnosperm_fleshy_cone,fruit_type
+part_term,galbulus,gymnosperm_fleshy_cone,fruit_type
+part_term,galbuli,gymnosperm_fleshy_cone,fruit_type
+part_term,legume,legume,fruit_type
+part_term,legumes,legume,fruit_type
+part_term,loment,legume,fruit_type
+part_term,loments,legume,fruit_type
+part_term,pod,legume,fruit_type
+part_term,pods,legume,fruit_type
+part_term,nut,nut,fruit_type
+part_term,nuts,nut,fruit_type
+part_term,nutlet,nutlet,fruit_type
+part_term,nutlets,nutlet,fruit_type
+part_term,nuculanium,pome,fruit_type
+part_term,nuculania,pome,fruit_type
+part_term,pome,pome,fruit_type
+part_term,pomes,pome,fruit_type
+part_term,samara,samara,fruit_type
+part_term,samaras,samara,fruit_type
+part_term,samaroid,samara,fruit_type
+part_term,samaroids,samara,fruit_type
+part_term,camara,schizocarp,fruit_type
+part_term,camaras,schizocarp,fruit_type
+part_term,carcerulus,schizocarp,fruit_type
+part_term,carceruli,schizocarp,fruit_type
+part_term,coccus,schizocarp,fruit_type
+part_term,cocci,schizocarp,fruit_type
+part_term,cremocarp,schizocarp,fruit_type
+part_term,cremocarps,schizocarp,fruit_type
+part_term,mericarp,schizocarp,fruit_type
+part_term,mericarps,schizocarp,fruit_type
+part_term,regma,schizocarp,fruit_type
+part_term,regmata,schizocarp,fruit_type
+part_term,schizocarp,schizocarp,fruit_type
+part_term,schizocarps,schizocarp,fruit_type
+part_term,sorosis,sorosis,fruit_type
+part_term,soroses,sorosis,fruit_type
+part_term,syconium,syconium,fruit_type
+part_term,syconia,syconium,fruit_type
+part_term,utricle ,utricle,fruit_type

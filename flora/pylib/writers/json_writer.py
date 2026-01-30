@@ -4,6 +4,7 @@ from pathlib import Path
 from traiter.pylib.darwin_core import DarwinCore
 
 from flora.pylib.treatments import Treatments
+from flora.pylib.writers.dispersal_format import format_dispersal_in_dynamic_properties
 
 
 def write_json(treatments: Treatments, json_dir: Path) -> None:
@@ -16,5 +17,8 @@ def write_json(treatments: Treatments, json_dir: Path) -> None:
         path = json_dir / f"{treatment.path.stem}.json"
         with path.open("w") as f:
             output = dwc.to_dict()
+            dyn = output.get("dwc:dynamicProperties")
+            if isinstance(dyn, dict):
+                format_dispersal_in_dynamic_properties(dyn)
             output["text"] = treatment.text
             json.dump(output, f, indent=4)

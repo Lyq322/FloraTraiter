@@ -45,3 +45,8 @@ pilot/
 scratch/
 old/
 experiments/
+
+test_data
+test_result
+sample_wfo_data
+sample_wfo_result

@@ -4,6 +4,7 @@ from traiter.pylib.pipes import extensions, sentence, tokenizer
 from flora.pylib.rules import delete_missing, delete_too_far, post_process
 from flora.pylib.rules.color import Color
 from flora.pylib.rules.count import Count
+from flora.pylib.rules.dispersal_structure import DispersalStructure
 from flora.pylib.rules.duration import Duration
 from flora.pylib.rules.flower_location import FlowerLocation
 from flora.pylib.rules.flower_morphology import FlowerMorphology
@@ -59,6 +60,7 @@ def build():
     LeafFolding.pipe(nlp)
     Morphology.pipe(nlp)
     Odor.pipe(nlp)
+    DispersalStructure.pipe(nlp)
     PlantDuration.pipe(nlp)
     Reproduction.pipe(nlp)
     Sex.pipe(nlp)

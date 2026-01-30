@@ -46,6 +46,15 @@ class CssClasses:
             self.classes[key] = next(BACKGROUNDS)
         return self.classes[key]
 
+    @staticmethod
+    def is_highlight_trait(trait) -> bool:
+        """True if trait is dispersal_structure or fruit_type (colored; others gray)."""
+        if "dispersalstructure" in trait.key.lower():
+            return True
+        if getattr(trait, "type", None) == "fruit_type":
+            return True
+        return False
+
 
 class HtmlWriter:
     def __init__(self, template_dir, template, html_file, spotlight=""):
@@ -87,7 +96,11 @@ class HtmlWriter:
             if prev < start:
                 frags.append(html.escape(row.text[prev:start]))
 
-            cls = self.css_classes[trait.key]
+            cls = (
+                self.css_classes[trait.key]
+                if self.css_classes.is_highlight_trait(trait)
+                else "trait-gray"
+            )
 
             dwc = DarwinCore()
             dwc = trait.to_dwc(dwc).to_dict()
@@ -128,7 +141,10 @@ class HtmlWriter:
         sortable = sorted(sortable)
 
         for key, grouped in itertools.groupby(sortable, key=lambda x: x.key):
-            cls = self.css_classes[key]
+            is_highlight = (
+                "dispersalstructure" in key.lower() or key == "fruitType"
+            )
+            cls = self.css_classes[key] if is_highlight else "trait-gray"
             label = f'<span class="{cls}">{key}</span>'
             trait_list = []
             for trait in grouped:

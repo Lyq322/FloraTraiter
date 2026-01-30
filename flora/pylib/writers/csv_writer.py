@@ -6,6 +6,7 @@ import pandas as pd
 from traiter.pylib.darwin_core import DarwinCore
 
 from flora.pylib.treatments import Treatments
+from flora.pylib.writers.dispersal_format import format_dispersal_in_flat_dict
 
 TAXON = "dwc:scientificName"
 FIRST = ["taxon", "treatment"]
@@ -48,6 +49,7 @@ def number_columns(rows, max_indexes):
 
                 new_row[name] = val
 
+        format_dispersal_in_flat_dict(new_row)
         new_rows.append(new_row)
     return new_rows
 

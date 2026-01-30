@@ -19,6 +19,21 @@ MIN_TAXON_WORD_LEN = 2  # Each word in the taxon must be this long
 
 
 # ---------------------
+# Seed dispersal trait names (binary 1/0 output columns)
+
+DISPERSAL_TRAIT_NAMES = [
+    "wing",
+    "pappus_plume_coma",
+    "fleshy_reward",
+    "hooks_barbs_spines_burrs",
+    "sticky_coating",
+    "elaiosome_carruncle",
+    "buoyant_structure",
+    "ballistic_structure",
+    "protective_tissue",
+]
+
+# ---------------------
 EFLORAS_SITE = "http://www.efloras.org"
 
 EFLORAS_DIR = DATA_DIR / "eFloras"
