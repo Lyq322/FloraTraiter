@@ -25,6 +25,6 @@ def write_json(treatments: Treatments, json_dir: Path) -> None:
                 output["dispersal"] = build_dispersal_block(dyn)
                 format_dispersal_in_dynamic_properties(dyn)
             else:
-                output["dispersal"] = {}
+                output["dispersal"] = {"keywords_found": [], "traits": {}}
             output["text"] = treatment.text
             json.dump(output, f, indent=4)

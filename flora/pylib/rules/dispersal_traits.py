@@ -1,3 +1,4 @@
+import csv
 from dataclasses import dataclass
 from pathlib import Path
 from typing import ClassVar
@@ -9,7 +10,39 @@ from traiter.pylib.darwin_core import DarwinCore
 from traiter.pylib.pattern_compiler import Compiler
 from traiter.pylib.pipes import add
 
+from flora.pylib.const import DISPERSAL_TRAIT_NAMES
 from .linkable import Linkable
+
+
+def _load_keyword_to_traits_mapping(path: Path) -> dict[str, list[str]]:
+    """Load keyword_term -> list of trait names (columns with value '1')."""
+    out = {}
+    if not path.exists():
+        return out
+    with path.open(encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        trait_cols = [
+            c for c in (reader.fieldnames or [])
+            if c not in ("keyword_term", "core_fruit_type", "description", "notes")
+        ]
+        # CSV has typo 'bouyant_structure' -> map to buoyant_structure
+        col_to_trait = {
+            c: "buoyant_structure" if c == "bouyant_structure" else c
+            for c in trait_cols
+        }
+        for row in reader:
+            kw = (row.get("keyword_term") or "").strip().lower()
+            if not kw:
+                continue
+            traits = []
+            for col in trait_cols:
+                if (row.get(col) or "").strip() == "1":
+                    trait_name = col_to_trait.get(col, col)
+                    if trait_name in DISPERSAL_TRAIT_NAMES:
+                        traits.append(trait_name)
+            if traits:
+                out[kw] = traits
+    return out
 
 
 @dataclass(eq=False)
@@ -23,6 +56,10 @@ class DispersalTraits(Linkable):
     dispersal_csv: ClassVar[Path] = terms_dir / "dispersal_terms.csv"
     dispersal_negator_csv: ClassVar[Path] = terms_dir / "dispersal_negator_terms.csv"
     dispersal_absence_csv: ClassVar[Path] = terms_dir / "dispersal_absence_terms.csv"
+    mapping_csv: ClassVar[Path] = (
+        Path(__file__).resolve().parent.parent.parent.parent
+        / "keyword_to_dispersal_traits_mapping.csv"
+    )
     all_csvs: ClassVar[list[Path]] = [
         dispersal_csv,
         dispersal_negator_csv,
@@ -35,12 +72,32 @@ class DispersalTraits(Linkable):
     type_: ClassVar[dict[str, str]] = term_util.look_up_table(
         type_csvs, "type"
     )
+    _keyword_to_traits: ClassVar[dict[str, list[str]] | None] = None
     # ---------------------
 
+    @classmethod
+    def _get_keyword_to_traits(cls) -> dict[str, list[str]]:
+        if cls._keyword_to_traits is None:
+            cls._keyword_to_traits = _load_keyword_to_traits_mapping(cls.mapping_csv)
+        return cls._keyword_to_traits
+
     dispersal_traits: str = None
+    matched_keyword: str = None
+
+    def _sanitize_keyword(self, keyword: str) -> str:
+        return (keyword or "").replace(" ", "_").replace("-", "_").lower()
 
     def to_dwc(self, dwc) -> DarwinCore:
-        return dwc.add_dyn(**{self.key: self.dispersal_traits})
+        # Use unique key per (part, keyword) so multiple matches for same part don't overwrite
+        dyn_key = self.key
+        if self.matched_keyword:
+            dyn_key = f"{self.key}_{self._sanitize_keyword(self.matched_keyword)}"
+        payload = {dyn_key: self.dispersal_traits}
+        if self.matched_keyword:
+            payload[f"dispersal_keyword_{self._sanitize_keyword(self.matched_keyword)}"] = (
+                self.matched_keyword
+            )
+        return dwc.add_dyn(**payload)
 
     @property
     def key(self) -> str:
@@ -92,17 +149,33 @@ class DispersalTraits(Linkable):
             if t._.term in ("dispersal_term", "dispersal_absence")
         ]
         dispersal_type = None
+        matched_keyword = None
         if dispersal_tokens:
             key = " ".join(t.lower_ for t in dispersal_tokens).strip()
-            dispersal_type = cls.type_.get(key)
-            if dispersal_type is None:
-                norm = cls.replace.get(key, key)
-                dispersal_type = cls.type_.get(norm)
+            norm = cls.replace.get(key, key)
+            # Prefer mapping CSV for trait(s); fall back to dispersal_terms type column
+            mapping = cls._get_keyword_to_traits()
+            if norm in mapping:
+                traits_list = mapping[norm]
+                dispersal_type = "|".join(traits_list)
+                matched_keyword = key
+            else:
+                dispersal_type = cls.type_.get(key) or cls.type_.get(norm)
         if dispersal_type is not None and negated and not dispersal_type.endswith(
             "_absent"
         ):
-            dispersal_type = dispersal_type + "_absent"
-        return cls.from_ent(ent, dispersal_traits=dispersal_type)
+            # For multiple traits, append _absent to each
+            if "|" in dispersal_type:
+                dispersal_type = "|".join(
+                    t + "_absent" for t in dispersal_type.split("|")
+                )
+            else:
+                dispersal_type = dispersal_type + "_absent"
+        return cls.from_ent(
+            ent,
+            dispersal_traits=dispersal_type,
+            matched_keyword=matched_keyword,
+        )
 
 
 @registry.misc("dispersal_traits_match")

@@ -17,9 +17,6 @@ class FloraPostProcess:
 
     def __call__(self, doc: Doc) -> Doc:
         entities = list(doc.ents)
-        for ent in entities:
-            logging.info(f"label: {ent.label_}, text: {ent.text}")
-
         # Map fruit types to their underlying part (fruit or seed)
         # Most fruit types map to "fruit", but some might map to "seed"
         fruit_type_to_part = {
