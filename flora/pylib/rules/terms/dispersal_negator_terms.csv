@@ -1,0 +1,6 @@
+label,pattern,replace,type
+dispersal_negator,no,no,
+dispersal_negator,without,without,
+dispersal_negator,lacking,lacking,
+dispersal_negator,missing,missing,
+dispersal_negator,not,not,

@@ -48,5 +48,7 @@ experiments/
 
 test_data
 test_result
+test_result_old
 sample_wfo_data
 sample_wfo_result
+sample_wfo_result_old

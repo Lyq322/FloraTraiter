@@ -19,14 +19,21 @@ class DispersalTraits(Linkable):
     """
 
     # Class vars ----------
-    dispersal_csv: ClassVar[Path] = (
-        Path(__file__).parent / "terms" / "dispersal_terms.csv"
-    )
+    terms_dir: ClassVar[Path] = Path(__file__).parent / "terms"
+    dispersal_csv: ClassVar[Path] = terms_dir / "dispersal_terms.csv"
+    dispersal_negator_csv: ClassVar[Path] = terms_dir / "dispersal_negator_terms.csv"
+    dispersal_absence_csv: ClassVar[Path] = terms_dir / "dispersal_absence_terms.csv"
+    all_csvs: ClassVar[list[Path]] = [
+        dispersal_csv,
+        dispersal_negator_csv,
+        dispersal_absence_csv,
+    ]
+    type_csvs: ClassVar[list[Path]] = [dispersal_csv, dispersal_absence_csv]
     replace: ClassVar[dict[str, str]] = term_util.look_up_table(
-        dispersal_csv, "replace"
+        all_csvs, "replace"
     )
     type_: ClassVar[dict[str, str]] = term_util.look_up_table(
-        dispersal_csv, "type"
+        type_csvs, "type"
     )
     # ---------------------
 
@@ -41,12 +48,12 @@ class DispersalTraits(Linkable):
 
     @classmethod
     def pipe(cls, nlp: Language):
-        add.term_pipe(nlp, name="dispersal_terms", path=cls.dispersal_csv)
+        add.term_pipe(nlp, name="dispersal_terms", path=cls.all_csvs)
         add.trait_pipe(
             nlp,
             name="dispersal_patterns",
             compiler=cls.dispersal_patterns(),
-            overwrite=["part", "part_term", "dispersal_traits"],
+            overwrite=["part", "part_term", "dispersal_traits", "dispersal_negator"],
         )
         add.cleanup_pipe(nlp, name="dispersal_cleanup")
 
@@ -55,7 +62,10 @@ class DispersalTraits(Linkable):
         decoder = {
             "(": {"TEXT": {"IN": t_const.OPEN}},
             ")": {"TEXT": {"IN": t_const.CLOSE}},
-            "dispersal": {"ENT_TYPE": "dispersal_term"},
+            "negator": {"ENT_TYPE": "dispersal_negator"},
+            "dispersal": {
+                "ENT_TYPE": {"IN": ["dispersal_term", "dispersal_absence"]},
+            },
         }
         return [
             Compiler(
@@ -64,26 +74,34 @@ class DispersalTraits(Linkable):
                 keep="dispersal_traits",
                 decoder=decoder,
                 patterns=[
-                    "  dispersal ",
-                    "( dispersal )",
+                    "  negator? dispersal ",
+                    "( negator? dispersal )",
                 ],
             ),
         ]
 
     @classmethod
     def dispersal_traits_match(cls, ent):
-        # Use type from first dispersal_term token; normalize via replace
+        # Negator (no, without, lacking) + dispersal_term -> type_absent
+        # Single dispersal_absence term (wingless, epappose) -> type already _absent
+        negated = any(
+            t._.term == "dispersal_negator" for t in ent
+        )
+        dispersal_tokens = [
+            t for t in ent
+            if t._.term in ("dispersal_term", "dispersal_absence")
+        ]
         dispersal_type = None
-        for token in ent:
-            if token._.term == "dispersal_term":
-                key = token.lower_
-                dispersal_type = cls.type_.get(key)
-                if dispersal_type is None:
-                    # Try replace-normalized form as key for type lookup
-                    norm = cls.replace.get(key, key)
-                    dispersal_type = cls.type_.get(norm)
-                if dispersal_type is not None:
-                    break
+        if dispersal_tokens:
+            key = " ".join(t.lower_ for t in dispersal_tokens).strip()
+            dispersal_type = cls.type_.get(key)
+            if dispersal_type is None:
+                norm = cls.replace.get(key, key)
+                dispersal_type = cls.type_.get(norm)
+        if dispersal_type is not None and negated and not dispersal_type.endswith(
+            "_absent"
+        ):
+            dispersal_type = dispersal_type + "_absent"
         return cls.from_ent(ent, dispersal_traits=dispersal_type)
 
 

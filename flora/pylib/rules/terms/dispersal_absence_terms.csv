@@ -1,0 +1,14 @@
+label,pattern,replace,type
+dispersal_absence,wingless,wingless,wing_absent
+dispersal_absence,unwinged,unwinged,wing_absent
+dispersal_absence,epappose,epappose,pappus_plume_coma_absent
+dispersal_absence,epappous,epappous,pappus_plume_coma_absent
+dispersal_absence,awnless,awnless,pappus_plume_coma_absent
+dispersal_absence,dry fruit,dry fruit,fleshy_reward_absent
+dispersal_absence,dry fruits,dry fruits,fleshy_reward_absent
+dispersal_absence,non-fleshy,non-fleshy,fleshy_reward_absent
+dispersal_absence,unarmed,unarmed,hooks_barbs_spines_burrs_absent
+dispersal_absence,non-sticky,non-sticky,sticky_coating_absent
+dispersal_absence,ecarunculate,ecarunculate,elaiosome_carruncle_absent
+dispersal_absence,non-buoyant,non-buoyant,buoyant_structure_absent
+dispersal_absence,sinking,sinking,buoyant_structure_absent
