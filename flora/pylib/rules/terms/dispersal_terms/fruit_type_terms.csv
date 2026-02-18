@@ -1,0 +1,689 @@
+label,pattern,replace
+fruit_type_term,achene,achene
+fruit_type_term,achenes,achene
+fruit_type_term,cypsela,achene
+fruit_type_term,cypselas,achene
+fruit_type_term,anthocarp,anthocarp
+fruit_type_term,anthocarps,anthocarp
+fruit_type_term,amphisarca,berry
+fruit_type_term,amphisarcas,berry
+fruit_type_term,arillocarpium,berry
+fruit_type_term,arillocarpiums,berry
+fruit_type_term,balausta,berry
+fruit_type_term,balaustas,berry
+fruit_type_term,balaustae,berry
+fruit_type_term,berry,berry
+fruit_type_term,berries,berry
+fruit_type_term,cactidium,berry
+fruit_type_term,cactidiums,berry
+fruit_type_term,epispermatium,berry
+fruit_type_term,epispermatiums,berry
+fruit_type_term,hesperidium,berry
+fruit_type_term,hesperidiums,berry
+fruit_type_term,pepo,berry
+fruit_type_term,pepos,berry
+fruit_type_term,syncarp,berry
+fruit_type_term,syncarps,berry
+fruit_type_term,capsule,capsule
+fruit_type_term,capsules,capsule
+fruit_type_term,circumscissile,capsule
+fruit_type_term,circumscissile,capsule
+fruit_type_term,loculicidal,capsule
+fruit_type_term,poricidal,capsule
+fruit_type_term,pyxis,capsule
+fruit_type_term,pyxides,capsule
+fruit_type_term,septicidal,capsule
+fruit_type_term,silicle,capsule
+fruit_type_term,silicles,capsule
+fruit_type_term,silique,capsule
+fruit_type_term,siliques,capsule
+fruit_type_term,caryopsis,caryopsis
+fruit_type_term,caryopses,caryopsis
+fruit_type_term,grain,caryopsis
+fruit_type_term,grains,caryopsis
+fruit_type_term,drupe,drupe
+fruit_type_term,drupes,drupes
+fruit_type_term,drupelet,drupes
+fruit_type_term,drupelets,drupes
+fruit_type_term,drupetum,drupe
+fruit_type_term,drupetums,drupe
+fruit_type_term,pseudodrupe,drupe
+fruit_type_term,pseudodrupes,drupe
+fruit_type_term,stone fruit,drupe
+fruit_type_term,stone fruits,drupe
+fruit_type_term,follicle,follicle
+fruit_type_term,follicles,follicle
+fruit_type_term,cone,gymnosperm_cone
+fruit_type_term,cones,gymnosperm_cone
+fruit_type_term,megastrobilus,gymnosperm_cone
+fruit_type_term,megastrobili,gymnosperm_cone
+fruit_type_term,microstrobilus,gymnosperm_cone
+fruit_type_term,microstrobili,gymnosperm_cone
+fruit_type_term,strobili,gymnosperm_cone
+fruit_type_term,strobilus,gymnosperm_cone
+fruit_type_term,berry-like cone,gymnosperm_fleshy_cone
+fruit_type_term,berry-like cones,gymnosperm_fleshy_cone
+fruit_type_term,cone berry,gymnosperm_fleshy_cone
+fruit_type_term,cone berries,gymnosperm_fleshy_cone
+fruit_type_term,galbulus,gymnosperm_fleshy_cone
+fruit_type_term,galbuli,gymnosperm_fleshy_cone
+fruit_type_term,legume,legume
+fruit_type_term,legumes,legume
+fruit_type_term,loment,legume
+fruit_type_term,loments,legume
+fruit_type_term,pod,legume
+fruit_type_term,pods,legume
+fruit_type_term,nut,nut
+fruit_type_term,nuts,nut
+fruit_type_term,nutlet,nutlet
+fruit_type_term,nutlets,nutlet
+fruit_type_term,nuculanium,pome
+fruit_type_term,nuculania,pome
+fruit_type_term,pome,pome
+fruit_type_term,pomes,pome
+fruit_type_term,samara,samara
+fruit_type_term,samaras,samara
+fruit_type_term,samaroid,samara
+fruit_type_term,samaroids,samara
+fruit_type_term,camara,schizocarp
+fruit_type_term,camaras,schizocarp
+fruit_type_term,carcerulus,schizocarp
+fruit_type_term,carceruli,schizocarp
+fruit_type_term,coccus,schizocarp
+fruit_type_term,cocci,schizocarp
+fruit_type_term,cremocarp,schizocarp
+fruit_type_term,cremocarps,schizocarp
+fruit_type_term,mericarp,schizocarp
+fruit_type_term,mericarps,schizocarp
+fruit_type_term,regma,schizocarp
+fruit_type_term,regmata,schizocarp
+fruit_type_term,schizocarp,schizocarp
+fruit_type_term,schizocarps,schizocarp
+fruit_type_term,sorosis,sorosis
+fruit_type_term,soroses,sorosis
+fruit_type_term,syconium,syconium
+fruit_type_term,syconia,syconium
+fruit_type_term,utricle,utricle
+
+fruit_type_term,aquenio alado,achene
+fruit_type_term,aquenios alados,achene
+fruit_type_term,aquénio alado,achene
+fruit_type_term,akène ailé,achene
+fruit_type_term,achaenia alata,achene
+fruit_type_term,achaenium alatum,achene
+fruit_type_term,geflügelte Achäne,achene
+fruit_type_term,geflügelte Achänen,achene
+fruit_type_term,kanatlı aken,achene
+fruit_type_term,kanatlı akenler,achene
+fruit_type_term,aquenio,achene
+fruit_type_term,aquenios,achene
+fruit_type_term,aquénio,achene
+fruit_type_term,akène,achene
+fruit_type_term,achaenia,achene
+fruit_type_term,achaenium,achene
+fruit_type_term,Achäne,achene
+fruit_type_term,Achänen,achene
+fruit_type_term,aken,achene
+fruit_type_term,akenler,achene
+fruit_type_term,cipsela,achene
+fruit_type_term,cipselas,achene
+fruit_type_term,cypsèle,achene
+fruit_type_term,cypsela,achene
+fruit_type_term,cypselae,achene
+fruit_type_term,Zypsele,achene
+fruit_type_term,Zypselen,achene
+fruit_type_term,sipsela,achene
+fruit_type_term,sipselalar,achene
+fruit_type_term,antocarpo,anthocarp
+fruit_type_term,antocarpos,anthocarp
+fruit_type_term,anthocarpe,anthocarp
+fruit_type_term,anthocarpia,anthocarp
+fruit_type_term,anthocarpium,anthocarp
+fruit_type_term,Anthokarp,anthocarp
+fruit_type_term,Anthokarpe,anthocarp
+fruit_type_term,antokarp,anthocarp
+fruit_type_term,antokarplar,anthocarp
+fruit_type_term,anfisarca,berry
+fruit_type_term,anfisarcas,berry
+fruit_type_term,amphisarque,berry
+fruit_type_term,amphisarca,berry
+fruit_type_term,amphisarcae,berry
+fruit_type_term,Amphisarc(en),berry
+fruit_type_term,Amphisarca,berry
+fruit_type_term,amfisarka,berry
+fruit_type_term,amfisarkalar,berry
+fruit_type_term,arilocarpio,berry
+fruit_type_term,arilocarpios,berry
+fruit_type_term,arilocárpio,berry
+fruit_type_term,arillocarpe,berry
+fruit_type_term,arillocarpia,berry
+fruit_type_term,arillocarpium,berry
+fruit_type_term,Arillocarpien,berry
+fruit_type_term,Arillocarpium,berry
+fruit_type_term,arillokarpyum,berry
+fruit_type_term,arillokarpyumlar,berry
+fruit_type_term,balausta,berry
+fruit_type_term,balaustas,berry
+fruit_type_term,balauste,berry
+fruit_type_term,balaustae,berry
+fruit_type_term,Balausta,berry
+fruit_type_term,Balausten,berry
+fruit_type_term,balaustalar,berry
+fruit_type_term,baya,berry
+fruit_type_term,bayas,berry
+fruit_type_term,baga,berry
+fruit_type_term,baie,berry
+fruit_type_term,bacca,berry
+fruit_type_term,baccae,berry
+fruit_type_term,Beere,berry
+fruit_type_term,Beeren,berry
+fruit_type_term,bakka,berry
+fruit_type_term,bakkalar,berry
+fruit_type_term,cactidio,berry
+fruit_type_term,cactidios,berry
+fruit_type_term,cactídio,berry
+fruit_type_term,cactidium,berry
+fruit_type_term,cactidia,berry
+fruit_type_term,Cactidien,berry
+fruit_type_term,Cactidium,berry
+fruit_type_term,kaktidyum,berry
+fruit_type_term,kaktidyumlar,berry
+fruit_type_term,epispermatio,berry
+fruit_type_term,epispermatios,berry
+fruit_type_term,epispermátio,berry
+fruit_type_term,épispermatium,berry
+fruit_type_term,epispermati a,berry
+fruit_type_term,epispermatium,berry
+fruit_type_term,Epispermatien,berry
+fruit_type_term,Epispermatium,berry
+fruit_type_term,epispermatyum,berry
+fruit_type_term,epispermatyumlar,berry
+fruit_type_term,baya carnosa,berry
+fruit_type_term,bayas carnosas,berry
+fruit_type_term,baga carnosa,berry
+fruit_type_term,baie charnue,berry
+fruit_type_term,bacca carnosa,berry
+fruit_type_term,baccae carnosae,berry
+fruit_type_term,fleischige Beere,berry
+fruit_type_term,fleischige Beeren,berry
+fruit_type_term,etli bakka,berry
+fruit_type_term,etli bakkalar,berry
+fruit_type_term,hesperidio,berry
+fruit_type_term,hesperidios,berry
+fruit_type_term,hespéridio,berry
+fruit_type_term,hespéride,berry
+fruit_type_term,hesperidia,berry
+fruit_type_term,hesperidium,berry
+fruit_type_term,Hesperidie,berry
+fruit_type_term,Hesperidien,berry
+fruit_type_term,hesperidyum,berry
+fruit_type_term,hesperidyumlar,berry
+fruit_type_term,pepo,berry
+fruit_type_term,pepos,berry
+fruit_type_term,pepones,berry
+fruit_type_term,Pepo,berry
+fruit_type_term,Pepos,berry
+fruit_type_term,pepolar,berry
+fruit_type_term,baya pulposa,berry
+fruit_type_term,bayas pulposas,berry
+fruit_type_term,baga polposa,berry
+fruit_type_term,baie pulpeuse,berry
+fruit_type_term,bacca pulposa,berry
+fruit_type_term,baccae pulposae,berry
+fruit_type_term,pulpose Beere,berry
+fruit_type_term,pulpose Beeren,berry
+fruit_type_term,pulplu bakka,berry
+fruit_type_term,pulplu bakkalar,berry
+fruit_type_term,sincarpo,berry
+fruit_type_term,sincarpos,berry
+fruit_type_term,syncarpe,berry
+fruit_type_term,syncarpia,berry
+fruit_type_term,syncarpium,berry
+fruit_type_term,Syncarp,berry
+fruit_type_term,Syncarpe,berry
+fruit_type_term,sinkarp,berry
+fruit_type_term,sinkarplar,berry
+fruit_type_term,cápsula,capsule
+fruit_type_term,cápsulas,capsule
+fruit_type_term,capsule,capsule
+fruit_type_term,capsula,capsule
+fruit_type_term,capsulae,capsule
+fruit_type_term,Kapsel,capsule
+fruit_type_term,Kapseln,capsule
+fruit_type_term,kapsül,capsule
+fruit_type_term,kapsüller,capsule
+fruit_type_term,circuncísil,capsule
+fruit_type_term,circuncísiles,capsule
+fruit_type_term,circumscissile,capsule
+fruit_type_term,circumscissa,capsule
+fruit_type_term,circumscissi,capsule
+fruit_type_term,circumscissum,capsule
+fruit_type_term,circumscissus,capsule
+fruit_type_term,zirkumzissil,capsule
+fruit_type_term,zirkumzissile,capsule
+fruit_type_term,sirkumskisil,capsule
+fruit_type_term,sirkumskisiller,capsule
+fruit_type_term,cápsula circuncísil,capsule
+fruit_type_term,cápsulas circuncísiles,capsule
+fruit_type_term,capsule circumscissile,capsule
+fruit_type_term,capsula circumscissa,capsule
+fruit_type_term,capsulae circumscissae,capsule
+fruit_type_term,zirkumzissile Kapsel,capsule
+fruit_type_term,zirkumzissile Kapseln,capsule
+fruit_type_term,sirkumskisil kapsül,capsule
+fruit_type_term,sirkumskisil kapsüller,capsule
+fruit_type_term,loculicida,capsule
+fruit_type_term,loculicidas,capsule
+fruit_type_term,loculicide,capsule
+fruit_type_term,loculicidi,capsule
+fruit_type_term,loculicidum,capsule
+fruit_type_term,loculicidus,capsule
+fruit_type_term,lokulizid,capsule
+fruit_type_term,lokulizide,capsule
+fruit_type_term,lokulisidal,capsule
+fruit_type_term,lokulisidaller,capsule
+fruit_type_term,cápsula loculicida,capsule
+fruit_type_term,cápsulas loculicidas,capsule
+fruit_type_term,capsule loculicide,capsule
+fruit_type_term,capsula loculicida,capsule
+fruit_type_term,capsulae loculicidae,capsule
+fruit_type_term,lokulizide Kapsel,capsule
+fruit_type_term,lokulizide Kapseln,capsule
+fruit_type_term,lokulisidal kapsül,capsule
+fruit_type_term,lokulisidal kapsüller,capsule
+fruit_type_term,poricida,capsule
+fruit_type_term,poricidas,capsule
+fruit_type_term,poricide,capsule
+fruit_type_term,poricidi,capsule
+fruit_type_term,poricidum,capsule
+fruit_type_term,poricidus,capsule
+fruit_type_term,porizid,capsule
+fruit_type_term,porizide,capsule
+fruit_type_term,porisidal,capsule
+fruit_type_term,porisidaller,capsule
+fruit_type_term,cápsula poricida,capsule
+fruit_type_term,cápsulas poricidas,capsule
+fruit_type_term,capsule poricide,capsule
+fruit_type_term,capsula poricida,capsule
+fruit_type_term,capsulae poricidae,capsule
+fruit_type_term,porizide Kapsel,capsule
+fruit_type_term,porizide Kapseln,capsule
+fruit_type_term,porisidal kapsül,capsule
+fruit_type_term,porisidal kapsüller,capsule
+fruit_type_term,pixidio,capsule
+fruit_type_term,pixidios,capsule
+fruit_type_term,pixídio,capsule
+fruit_type_term,pyxide,capsule
+fruit_type_term,pyxides,capsule
+fruit_type_term,pyxis,capsule
+fruit_type_term,Pyxiden,capsule
+fruit_type_term,Pyxis,capsule
+fruit_type_term,piksis,capsule
+fruit_type_term,piksisler,capsule
+fruit_type_term,septícida,capsule
+fruit_type_term,septícidas,capsule
+fruit_type_term,septicide,capsule
+fruit_type_term,septicida,capsule
+fruit_type_term,septicidi,capsule
+fruit_type_term,septicidum,capsule
+fruit_type_term,septicidus,capsule
+fruit_type_term,septizid,capsule
+fruit_type_term,septizide,capsule
+fruit_type_term,septisidal,capsule
+fruit_type_term,septisidaller,capsule
+fruit_type_term,cápsula septícida,capsule
+fruit_type_term,cápsulas septícidas,capsule
+fruit_type_term,capsule septicide,capsule
+fruit_type_term,capsula septicida,capsule
+fruit_type_term,capsulae septicidae,capsule
+fruit_type_term,septizide Kapsel,capsule
+fruit_type_term,septizide Kapseln,capsule
+fruit_type_term,septisidal kapsül,capsule
+fruit_type_term,septisidal kapsüller,capsule
+fruit_type_term,silícula,capsule
+fruit_type_term,silículas,capsule
+fruit_type_term,silicule,capsule
+fruit_type_term,silicula,capsule
+fruit_type_term,siliculae,capsule
+fruit_type_term,Schötchen,capsule
+fruit_type_term,silikula,capsule
+fruit_type_term,silikulalar,capsule
+fruit_type_term,siliqua,capsule
+fruit_type_term,siliquas,capsule
+fruit_type_term,silique,capsule
+fruit_type_term,siliquae,capsule
+fruit_type_term,Schote,capsule
+fruit_type_term,Schoten,capsule
+fruit_type_term,siliqualar,capsule
+fruit_type_term,cariopses,caryopsis
+fruit_type_term,cariopsis,caryopsis
+fruit_type_term,cariopse,caryopsis
+fruit_type_term,caryopse,caryopsis
+fruit_type_term,caryopses,caryopsis
+fruit_type_term,caryopsis,caryopsis
+fruit_type_term,Karyopse,caryopsis
+fruit_type_term,Karyopsen,caryopsis
+fruit_type_term,karyopsis,caryopsis
+fruit_type_term,karyopsisler,caryopsis
+fruit_type_term,drupa agregada,drupe
+fruit_type_term,drupas agregadas,drupe
+fruit_type_term,drupe agrégée,drupe
+fruit_type_term,drupa aggregata,drupe
+fruit_type_term,drupae aggregatae,drupe
+fruit_type_term,aggregierte Steinfrucht,drupe
+fruit_type_term,aggregierte Steinfrüchte,drupe
+fruit_type_term,agregat drupa,drupe
+fruit_type_term,agregat drupalar,drupe
+fruit_type_term,drupa compuesta,drupe
+fruit_type_term,drupas compuestas,drupe
+fruit_type_term,drupa composta,drupe
+fruit_type_term,drupe composée,drupe
+fruit_type_term,drupa composita,drupe
+fruit_type_term,drupae compositae,drupe
+fruit_type_term,zusammengesetzte Steinfrucht,drupe
+fruit_type_term,zusammengesetzte Steinfrüchte,drupe
+fruit_type_term,kompozit drupa,drupe
+fruit_type_term,kompozit drupalar,drupe
+fruit_type_term,drupa,drupe
+fruit_type_term,drupas,drupe
+fruit_type_term,drupe,drupe
+fruit_type_term,drupae,drupe
+fruit_type_term,Steinfrucht,drupe
+fruit_type_term,Steinfrüchte,drupe
+fruit_type_term,drupalar,drupe
+fruit_type_term,drupéola,drupe
+fruit_type_term,drupéolas,drupe
+fruit_type_term,drupéole,drupe
+fruit_type_term,drupella,drupe
+fruit_type_term,drupellae,drupe
+fruit_type_term,Steinfrüchtchen,drupe
+fruit_type_term,drupçuk,drupe
+fruit_type_term,drupçuklar,drupe
+fruit_type_term,drupeto,drupe
+fruit_type_term,drupetos,drupe
+fruit_type_term,drupétum,drupe
+fruit_type_term,drupeta,drupe
+fruit_type_term,drupetum,drupe
+fruit_type_term,Drupeta,drupe
+fruit_type_term,Drupetum,drupe
+fruit_type_term,drupetumlar,drupe
+fruit_type_term,pseudodrupa,drupe
+fruit_type_term,pseudodrupas,drupe
+fruit_type_term,pseudodrupe,drupe
+fruit_type_term,pseudodrupae,drupe
+fruit_type_term,Pseudosteinfrucht,drupe
+fruit_type_term,Pseudosteinfrüchte,drupe
+fruit_type_term,psödodrupa,drupe
+fruit_type_term,psödodrupalar,drupe
+fruit_type_term,fruto drupáceo,drupe
+fruit_type_term,frutos drupáceos,drupe
+fruit_type_term,fruit drupacé,drupe
+fruit_type_term,fructus drupacei,drupe
+fruit_type_term,fructus drupaceus,drupe
+fruit_type_term,taş çekirdekli meyve,drupe
+fruit_type_term,taş çekirdekli meyveler,drupe
+fruit_type_term,folículo,follicle
+fruit_type_term,folículos,follicle
+fruit_type_term,follicule,follicle
+fruit_type_term,folliculi,follicle
+fruit_type_term,folliculus,follicle
+fruit_type_term,Balgfrucht,follicle
+fruit_type_term,Balgfrüchte,follicle
+fruit_type_term,folikül,follicle
+fruit_type_term,foliküller,follicle
+fruit_type_term,cono,gymnosperm_cone
+fruit_type_term,conos,gymnosperm_cone
+fruit_type_term,cone,gymnosperm_cone
+fruit_type_term,cône,gymnosperm_cone
+fruit_type_term,strobili,gymnosperm_cone
+fruit_type_term,strobilus,gymnosperm_cone
+fruit_type_term,Zapfen,gymnosperm_cone
+fruit_type_term,strobiluslar,gymnosperm_cone
+fruit_type_term,megastrobilo,gymnosperm_cone
+fruit_type_term,megastrobilos,gymnosperm_cone
+fruit_type_term,megastróbilo,gymnosperm_cone
+fruit_type_term,mégastrobile,gymnosperm_cone
+fruit_type_term,megastrobili,gymnosperm_cone
+fruit_type_term,megastrobilus,gymnosperm_cone
+fruit_type_term,Megastrobili,gymnosperm_cone
+fruit_type_term,Megastrobilus,gymnosperm_cone
+fruit_type_term,megastrobiluslar,gymnosperm_cone
+fruit_type_term,microstrobilo,gymnosperm_cone
+fruit_type_term,microstrobilos,gymnosperm_cone
+fruit_type_term,microstróbilo,gymnosperm_cone
+fruit_type_term,microstrobile,gymnosperm_cone
+fruit_type_term,microstrobili,gymnosperm_cone
+fruit_type_term,microstrobilus,gymnosperm_cone
+fruit_type_term,Mikrostrobili,gymnosperm_cone
+fruit_type_term,Mikrostrobilus,gymnosperm_cone
+fruit_type_term,mikrostrobilus,gymnosperm_cone
+fruit_type_term,mikrostrobiluslar,gymnosperm_cone
+fruit_type_term,cono ovulífero,gymnosperm_cone
+fruit_type_term,conos ovulíferos,gymnosperm_cone
+fruit_type_term,cone ovulífero,gymnosperm_cone
+fruit_type_term,cône ovulifère,gymnosperm_cone
+fruit_type_term,strobili ovuliferi,gymnosperm_cone
+fruit_type_term,strobilus ovulifer,gymnosperm_cone
+fruit_type_term,Samen-Zapfen,gymnosperm_cone
+fruit_type_term,ovül taşıyan kozalak,gymnosperm_cone
+fruit_type_term,ovül taşıyan kozalaklar,gymnosperm_cone
+fruit_type_term,cono polinífero,gymnosperm_cone
+fruit_type_term,conos poliníferos,gymnosperm_cone
+fruit_type_term,cone polinífero,gymnosperm_cone
+fruit_type_term,cône pollinifère,gymnosperm_cone
+fruit_type_term,strobili polliniferi,gymnosperm_cone
+fruit_type_term,strobilus pollinifer,gymnosperm_cone
+fruit_type_term,Pollen-Zapfen,gymnosperm_cone
+fruit_type_term,polen kozalak,gymnosperm_cone
+fruit_type_term,polen kozalaklar,gymnosperm_cone
+fruit_type_term,cono seminífero,gymnosperm_cone
+fruit_type_term,conos seminíferos,gymnosperm_cone
+fruit_type_term,cone seminífero,gymnosperm_cone
+fruit_type_term,cône séminifère,gymnosperm_cone
+fruit_type_term,strobili seminiferi,gymnosperm_cone
+fruit_type_term,strobilus seminifer,gymnosperm_cone
+fruit_type_term,tohum kozalak,gymnosperm_cone
+fruit_type_term,tohum kozalaklar,gymnosperm_cone
+fruit_type_term,estróbilo,gymnosperm_cone
+fruit_type_term,estróbilos,gymnosperm_cone
+fruit_type_term,strobile,gymnosperm_cone
+fruit_type_term,Strobili,gymnosperm_cone
+fruit_type_term,Strobilus,gymnosperm_cone
+fruit_type_term,cono bacciforme,gymnosperm_fleshy_cone
+fruit_type_term,conos bacciformes,gymnosperm_fleshy_cone
+fruit_type_term,cone baciforme,gymnosperm_fleshy_cone
+fruit_type_term,cône bacciforme,gymnosperm_fleshy_cone
+fruit_type_term,strobili bacciformes,gymnosperm_fleshy_cone
+fruit_type_term,strobilus bacciformis,gymnosperm_fleshy_cone
+fruit_type_term,beerenartige Zapfen,gymnosperm_fleshy_cone
+fruit_type_term,beerenartiger Zapfen,gymnosperm_fleshy_cone
+fruit_type_term,bakkamsı kozalak,gymnosperm_fleshy_cone
+fruit_type_term,bakkamsı kozalaklar,gymnosperm_fleshy_cone
+fruit_type_term,gálbulo,gymnosperm_fleshy_cone
+fruit_type_term,gálbulos,gymnosperm_fleshy_cone
+fruit_type_term,galbule,gymnosperm_fleshy_cone
+fruit_type_term,galbuli,gymnosperm_fleshy_cone
+fruit_type_term,galbulus,gymnosperm_fleshy_cone
+fruit_type_term,Galbuli,gymnosperm_fleshy_cone
+fruit_type_term,Galbulus,gymnosperm_fleshy_cone
+fruit_type_term,galbuluslar,gymnosperm_fleshy_cone
+fruit_type_term,legumbre,legume
+fruit_type_term,legumbres,legume
+fruit_type_term,legume,legume
+fruit_type_term,gousse,legume
+fruit_type_term,legumen,legume
+fruit_type_term,legumina,legume
+fruit_type_term,Hülse,legume
+fruit_type_term,Hülsen,legume
+fruit_type_term,legüm,legume
+fruit_type_term,legümler,legume
+fruit_type_term,lomento,legume
+fruit_type_term,lomentos,legume
+fruit_type_term,loment,legume
+fruit_type_term,lomenta,legume
+fruit_type_term,lomentum,legume
+fruit_type_term,Loment,legume
+fruit_type_term,Lomente,legume
+fruit_type_term,lomentler,legume
+fruit_type_term,vaina,legume
+fruit_type_term,vainas,legume
+fruit_type_term,vagem,legume
+fruit_type_term,bakla,legume
+fruit_type_term,baklalar,legume
+fruit_type_term,nueces aladas,nut
+fruit_type_term,nuez alada,nut
+fruit_type_term,noz alada,nut
+fruit_type_term,noix ailée,nut
+fruit_type_term,nuces alatae,nut
+fruit_type_term,nux alata,nut
+fruit_type_term,geflügelte Nuss,nut
+fruit_type_term,geflügelte Nüsse,nut
+fruit_type_term,kanatlı nut,nut
+fruit_type_term,kanatlı nutlar,nut
+fruit_type_term,nueces,nut
+fruit_type_term,nuez,nut
+fruit_type_term,noz,nut
+fruit_type_term,noix,nut
+fruit_type_term,nuces,nut
+fruit_type_term,nux,nut
+fruit_type_term,Nuss,nut
+fruit_type_term,Nüsse,nut
+fruit_type_term,nut,nut
+fruit_type_term,nutlar,nut
+fruit_type_term,núcula,nut
+fruit_type_term,núculas,nut
+fruit_type_term,nucule,nut
+fruit_type_term,nucula,nut
+fruit_type_term,nuculae,nut
+fruit_type_term,Nüsschen,nut
+fruit_type_term,nutçuk,nut
+fruit_type_term,nutçuklar,nut
+fruit_type_term,nuculanio,pome
+fruit_type_term,nuculanios,pome
+fruit_type_term,nuculânio,pome
+fruit_type_term,nuculanium,pome
+fruit_type_term,nuculania,pome
+fruit_type_term,Nuculanien,pome
+fruit_type_term,Nuculanium,pome
+fruit_type_term,nukulanyum,pome
+fruit_type_term,nukulanyumlar,pome
+fruit_type_term,pomo,pome
+fruit_type_term,pomos,pome
+fruit_type_term,pomme,pome
+fruit_type_term,poma,pome
+fruit_type_term,pomum,pome
+fruit_type_term,Kernfrucht,pome
+fruit_type_term,Kernfrüchte,pome
+fruit_type_term,pom,pome
+fruit_type_term,pomlar,pome
+fruit_type_term,sámara,samara
+fruit_type_term,sámaras,samara
+fruit_type_term,sâmara,samara
+fruit_type_term,samare,samara
+fruit_type_term,samara,samara
+fruit_type_term,samarae,samara
+fruit_type_term,Samara,samara
+fruit_type_term,Samaras,samara
+fruit_type_term,samaralar,samara
+fruit_type_term,samaroide,samara
+fruit_type_term,samaroides,samara
+fruit_type_term,samaroïde,samara
+fruit_type_term,samaroidea,samara
+fruit_type_term,samaroid,samara
+fruit_type_term,samaroidler,samara
+fruit_type_term,sámara alada,samara
+fruit_type_term,sámaras aladas,samara
+fruit_type_term,sâmara alada,samara
+fruit_type_term,samare ailée,samara
+fruit_type_term,samara alata,samara
+fruit_type_term,samarae alatae,samara
+fruit_type_term,geflügelte Samara,samara
+fruit_type_term,geflügelte Samaras,samara
+fruit_type_term,kanatlı samara,samara
+fruit_type_term,kanatlı samaralar,samara
+fruit_type_term,cámara,schizocarp
+fruit_type_term,cámaras,schizocarp
+fruit_type_term,câmara,schizocarp
+fruit_type_term,camara,schizocarp
+fruit_type_term,camerae,schizocarp
+fruit_type_term,Camara,schizocarp
+fruit_type_term,Camaras,schizocarp
+fruit_type_term,kamara,schizocarp
+fruit_type_term,kamaralar,schizocarp
+fruit_type_term,cárcerulo,schizocarp
+fruit_type_term,cárcerulos,schizocarp
+fruit_type_term,carcérule,schizocarp
+fruit_type_term,carceruli,schizocarp
+fruit_type_term,carcerulus,schizocarp
+fruit_type_term,Carceruli,schizocarp
+fruit_type_term,Carcerulus,schizocarp
+fruit_type_term,karserulus,schizocarp
+fruit_type_term,karseruluslar,schizocarp
+fruit_type_term,coco,schizocarp
+fruit_type_term,cocos,schizocarp
+fruit_type_term,coccus,schizocarp
+fruit_type_term,cocci,schizocarp
+fruit_type_term,Cocci,schizocarp
+fruit_type_term,Coccus,schizocarp
+fruit_type_term,kokkus,schizocarp
+fruit_type_term,kokkuslar,schizocarp
+fruit_type_term,cremocarpo,schizocarp
+fruit_type_term,cremocarpos,schizocarp
+fruit_type_term,crémocarpe,schizocarp
+fruit_type_term,cremocarpia,schizocarp
+fruit_type_term,cremocarpium,schizocarp
+fruit_type_term,Cremocarp,schizocarp
+fruit_type_term,Cremocarpe,schizocarp
+fruit_type_term,kremokarp,schizocarp
+fruit_type_term,kremokarplar,schizocarp
+fruit_type_term,mericarpio,schizocarp
+fruit_type_term,mericarpos,schizocarp
+fruit_type_term,mericárpio,schizocarp
+fruit_type_term,méricarpe,schizocarp
+fruit_type_term,mericarpia,schizocarp
+fruit_type_term,mericarpium,schizocarp
+fruit_type_term,Merikarp,schizocarp
+fruit_type_term,Merikarpe,schizocarp
+fruit_type_term,merikarp,schizocarp
+fruit_type_term,merikarplar,schizocarp
+fruit_type_term,regma,schizocarp
+fruit_type_term,regmas,schizocarp
+fruit_type_term,regmata,schizocarp
+fruit_type_term,Regma,schizocarp
+fruit_type_term,Regmen,schizocarp
+fruit_type_term,regmalar,schizocarp
+fruit_type_term,esquizocarpo,schizocarp
+fruit_type_term,esquizocarpos,schizocarp
+fruit_type_term,schizocarpe,schizocarp
+fruit_type_term,schizocarpia,schizocarp
+fruit_type_term,schizocarpium,schizocarp
+fruit_type_term,Spaltfrucht,schizocarp
+fruit_type_term,Spaltfrüchte,schizocarp
+fruit_type_term,şizokarp,schizocarp
+fruit_type_term,şizokarplar,schizocarp
+fruit_type_term,sorosis,sorosis
+fruit_type_term,sorose,sorosis
+fruit_type_term,soroses,sorosis
+fruit_type_term,Sorosen,sorosis
+fruit_type_term,Sorosis,sorosis
+fruit_type_term,sorozis,sorosis
+fruit_type_term,sorozisler,sorosis
+fruit_type_term,sicono,syconium
+fruit_type_term,siconos,syconium
+fruit_type_term,sicônio,syconium
+fruit_type_term,sycone,syconium
+fruit_type_term,syconia,syconium
+fruit_type_term,syconium,syconium
+fruit_type_term,Syconien,syconium
+fruit_type_term,Syconium,syconium
+fruit_type_term,sikonyum,syconium
+fruit_type_term,sikonyumlar,syconium
+fruit_type_term,utrículo,utricle
+fruit_type_term,utrículos,utricle
+fruit_type_term,utricule,utricle
+fruit_type_term,utriculi,utricle
+fruit_type_term,utriculus,utricle
+fruit_type_term,Utriculi,utricle
+fruit_type_term,Utriculus,utricle
+fruit_type_term,utrikel,utricle
+fruit_type_term,utrikeller,utricle
