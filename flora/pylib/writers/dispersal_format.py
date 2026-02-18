@@ -17,7 +17,7 @@ DISPERSAL_KEY_SUFFIX = "DispersalTraits"
 DISPERSAL_KEY_SUFFIX_LEN = len(DISPERSAL_KEY_SUFFIX)
 
 # Fruit type terms path (replace column = canonical fruit type names)
-_FRUIT_TYPE_TERMS_PATH = Path(__file__).resolve().parent.parent / "rules" / "terms" / "fruit_type_terms.csv"
+_FRUIT_TYPE_TERMS_PATH = Path(__file__).resolve().parent.parent / "rules" / "terms" / "dispersal_terms" / "fruit_type_terms.csv"
 # Mapping: keyword -> core_fruit_type and trait columns (wing, fleshy_reward, etc.)
 _MAPPING_CSV = Path(__file__).resolve().parent.parent.parent.parent / "keyword_to_dispersal_traits_mapping.csv"
 

@@ -37,7 +37,7 @@ class FruitType(Linkable):
     """
 
     fruit_type_csv: ClassVar[Path] = (
-        Path(__file__).parent / "terms" / "fruit_type_terms.csv"
+        Path(__file__).parent / "terms" / "dispersal_terms" / "fruit_type_terms.csv"
     )
     mapping_csv: ClassVar[Path] = (
         Path(__file__).resolve().parent.parent.parent.parent

@@ -53,9 +53,10 @@ class DispersalTraits(Linkable):
 
     # Class vars ----------
     terms_dir: ClassVar[Path] = Path(__file__).parent / "terms"
-    dispersal_csv: ClassVar[Path] = terms_dir / "dispersal_terms.csv"
-    dispersal_negator_csv: ClassVar[Path] = terms_dir / "dispersal_negator_terms.csv"
-    dispersal_absence_csv: ClassVar[Path] = terms_dir / "dispersal_absence_terms.csv"
+    dispersal_terms_dir: ClassVar[Path] = terms_dir / "dispersal_terms"
+    dispersal_csv: ClassVar[Path] = dispersal_terms_dir / "dispersal_terms.csv"
+    dispersal_negator_csv: ClassVar[Path] = dispersal_terms_dir / "dispersal_negator_terms.csv"
+    dispersal_absence_csv: ClassVar[Path] = dispersal_terms_dir / "dispersal_absence_terms.csv"
     mapping_csv: ClassVar[Path] = (
         Path(__file__).resolve().parent.parent.parent.parent
         / "keyword_to_dispersal_traits_mapping.csv"
