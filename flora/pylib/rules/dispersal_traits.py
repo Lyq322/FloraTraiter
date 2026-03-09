@@ -66,7 +66,7 @@ class DispersalTraits(Linkable):
         dispersal_negator_csv,
         dispersal_absence_csv,
     ]
-    type_csvs: ClassVar[list[Path]] = [dispersal_csv, dispersal_absence_csv]
+    type_csvs: ClassVar[list[Path]] = [dispersal_absence_csv]
     replace: ClassVar[dict[str, str]] = term_util.look_up_table(
         all_csvs, "replace"
     )
@@ -154,14 +154,14 @@ class DispersalTraits(Linkable):
         if dispersal_tokens:
             key = " ".join(t.lower_ for t in dispersal_tokens).strip()
             norm = cls.replace.get(key, key)
-            # Prefer mapping CSV for trait(s); fall back to dispersal_terms type column
+            # Use mapping CSV for trait(s); absence terms use type_; otherwise unknown
             mapping = cls._get_keyword_to_traits()
             if norm in mapping:
                 traits_list = mapping[norm]
                 dispersal_type = "|".join(traits_list)
                 matched_keyword = key
             else:
-                dispersal_type = cls.type_.get(key) or cls.type_.get(norm)
+                dispersal_type = cls.type_.get(key) or cls.type_.get(norm) or "unknown"
         if dispersal_type is not None and negated and not dispersal_type.endswith(
             "_absent"
         ):
