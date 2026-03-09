@@ -4,3 +4,50 @@ dispersal_negator,without,without,
 dispersal_negator,lacking,lacking,
 dispersal_negator,missing,missing,
 dispersal_negator,not,not,
+
+dispersal_negator,no,no
+dispersal_negator,sin,without
+dispersal_negator,carente de,lacking
+dispersal_negator,falta de,lacking
+dispersal_negator,ausente,missing
+dispersal_negator,ausencia de,missing
+dispersal_negator,no,not
+
+dispersal_negator,kein,no,
+dispersal_negator,keine,no,
+dispersal_negator,ohne,without,
+dispersal_negator,fehlend,missing,
+dispersal_negator,fehlt,missing,
+dispersal_negator,ohne,lacking,
+dispersal_negator,nicht,not,
+
+dispersal_negator,não,no,
+dispersal_negator,sem,without,
+dispersal_negator,carente de,lacking,
+dispersal_negator,falta de,lacking,
+dispersal_negator,ausente,missing,
+dispersal_negator,ausência de,missing,
+dispersal_negator,não,not,
+
+dispersal_negator,non,no,
+dispersal_negator,sine,without,
+dispersal_negator,carens,lacking,
+dispersal_negator,carentia,lacking,
+dispersal_negator,absens,missing,
+dispersal_negator,absentia,missing,
+dispersal_negator,non,not,
+
+dispersal_negator,yok,no,
+dispersal_negator,olmadan,without,
+dispersal_negator,-siz,lacking,
+dispersal_negator,eksik,missing,
+dispersal_negator,eksik olan,missing,
+dispersal_negator,değil,not,
+
+dispersal_negator,non,no,
+dispersal_negator,sans,without,
+dispersal_negator,dépourvu de,lacking,
+dispersal_negator,dépourvue de,lacking,
+dispersal_negator,manquant,missing,
+dispersal_negator,manquante,missing,
+dispersal_negator,ne…pas,not,
