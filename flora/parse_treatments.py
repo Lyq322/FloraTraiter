@@ -14,25 +14,62 @@ def main():
     log.started()
     args = parse_args()
 
-    treatments: Treatments = Treatments(args.treatment_dir, args.limit, args.offset)
-    treatments.parse(encoding=args.encoding)
+    batch_dirs = _batch_dirs(args.treatment_dir)
+    single_batch = len(batch_dirs) == 1 and batch_dirs[0] == args.treatment_dir
 
-    if args.html_file:
-        writer = HtmlWriter(
-            template_dir=f"{const.ROOT_DIR}/flora/pylib/writers/templates",
-            template="treatment_html_writer.html",
-            html_file=args.html_file,
-            spotlight=args.spotlight,
+    for batch_dir in batch_dirs:
+        treatments: Treatments = Treatments(batch_dir, args.limit, args.offset)
+        treatments.parse(encoding=args.encoding)
+
+        html_path = (
+            args.html_file
+            if (single_batch and args.html_file)
+            else _batch_output_path(args.html_file, batch_dir, ".html")
         )
-        writer.write(treatments, args)
+        if html_path:
+            html_path.parent.mkdir(parents=True, exist_ok=True)
+            writer = HtmlWriter(
+                template_dir=f"{const.ROOT_DIR}/flora/pylib/writers/templates",
+                template="treatment_html_writer.html",
+                html_file=html_path,
+                spotlight=args.spotlight,
+            )
+            writer.write(treatments, args)
 
-    if args.csv_file:
-        write_csv(treatments, args.csv_file)
+        csv_path = (
+            args.csv_file
+            if (single_batch and args.csv_file)
+            else _batch_output_path(args.csv_file, batch_dir, ".csv")
+        )
+        if csv_path:
+            csv_path.parent.mkdir(parents=True, exist_ok=True)
+            write_csv(treatments, csv_path)
 
-    if args.json_dir:
-        write_json(treatments, args.json_dir)
+        if args.json_dir:
+            json_batch_dir = (
+                args.json_dir
+                if single_batch
+                else args.json_dir / batch_dir.name
+            )
+            json_batch_dir.mkdir(parents=True, exist_ok=True)
+            write_json(treatments, json_batch_dir)
 
     log.finished()
+
+
+def _batch_dirs(treatment_dir: Path) -> list[Path]:
+    """If treatment_dir contains only subdirectories, return them as batches; else treat the dir itself as one batch."""
+    subdirs = sorted(p for p in treatment_dir.iterdir() if p.is_dir())
+    if subdirs:
+        return subdirs
+    return [treatment_dir]
+
+
+def _batch_output_path(output_file: Path | None, batch_dir: Path, suffix: str) -> Path | None:
+    """Per-batch output path: same parent as output_file, filename is batch_dir.name + suffix."""
+    if output_file is None:
+        return None
+    return output_file.parent / f"{batch_dir.name}{suffix}"
 
 
 def parse_args() -> argparse.Namespace:
