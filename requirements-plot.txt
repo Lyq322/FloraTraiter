@@ -1,0 +1,3 @@
+# For plot_dispersal_traits.py
+matplotlib>=3.5
+numpy>=1.20
