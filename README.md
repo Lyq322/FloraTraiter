@@ -1,5 +1,7 @@
 # FloraTraiter ![Python application](https://github.com/rafelafrance/FloraTraiter/workflows/CI/badge.svg)[![DOI](https://zenodo.org/badge/649758239.svg)](https://zenodo.org/badge/latestdoi/649758239)
 
+**This repository is a fork of [FloraTraiter](https://github.com/rafelafrance/FloraTraiter).** The fork is mainly for **seed dispersal traits**: it adds scripts and options to analyze dispersal keywords (language frequencies, stats, pie charts), improves dispersal trait assignment for multilingual terms, and documents workarounds when parsing hangs or runs slowly. See [Fork: additional features and usage](#fork-additional-features-and-usage) below.
+
 ## Note to people wanting to use these scripts.
 
 These modules were written before the Large Language Model (LLM) revolution occurred. The most recent LLMs, even the smaller ones like Gemma3 etc., get you about (guessing) 90% of the way to what this set of scripts does, they often do it better, and they most definitely do it much with less work. LLMs are great at pattern recognition and that's all that these modules do. So, if you want to start a trait/information extraction project of your own I'd recommend that you consider a LLM-based approach first.
