@@ -106,6 +106,17 @@ class FruitType(Linkable):
         ]
 
     @classmethod
+    def _replace_get(cls, keyword: str) -> str | None:
+        """Case-insensitive replace lookup so e.g. 'hülsen' finds CSV key 'Hülsen' -> 'legume'."""
+        v = cls.replace.get(keyword)
+        if v is not None:
+            return v
+        for k, v in cls.replace.items():
+            if k.lower() == keyword:
+                return v
+        return None
+
+    @classmethod
     def fruit_type_match(cls, ent):
         keyword = None
         canonical = None
@@ -114,7 +125,7 @@ class FruitType(Linkable):
                 keyword = token.lower_
                 # Prefer mapping CSV (keyword -> core_fruit_type); fall back to fruit_type_terms replace
                 mapping = cls._get_keyword_to_core_fruit_type()
-                canonical = mapping.get(keyword) or cls.replace.get(keyword, keyword)
+                canonical = mapping.get(keyword) or cls._replace_get(keyword) or keyword
                 break
         if keyword is None or canonical is None:
             return None
