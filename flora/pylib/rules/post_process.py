@@ -115,7 +115,6 @@ class FloraPostProcess:
                                 if p.lower() in ("fruit", "seed", "fruits", "seeds"):
                                     fruit_seed_parts.append((ent, p.lower()))
                                     break
-        logging.info(f"fruit_seed_parts: {fruit_seed_parts}")
         # Second pass: for subparts linked to fruit_types, also link to fruit/seed
         for ent in entities:
             if ent.label_ == "subpart" and hasattr(ent, "_trait"):
