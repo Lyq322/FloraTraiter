@@ -1,6 +1,6 @@
 # FloraTraiter ![Python application](https://github.com/rafelafrance/FloraTraiter/workflows/CI/badge.svg)[![DOI](https://zenodo.org/badge/649758239.svg)](https://zenodo.org/badge/latestdoi/649758239)
 
-**This repository is a fork of [FloraTraiter](https://github.com/rafelafrance/FloraTraiter).** The fork is mainly for **seed dispersal traits**: it adds scripts and options to analyze dispersal keywords (language frequencies, stats, pie charts), improves dispersal trait assignment for multilingual terms, and documents workarounds when parsing hangs or runs slowly. See [Fork: additional features and usage](#fork-additional-features-and-usage) below.
+**This repository is a fork of [FloraTraiter](https://github.com/rafelafrance/FloraTraiter).** The fork is mainly for **seed dispersal traits**: it adds scripts and options to analyze dispersal keywords (language frequencies, stats, pie charts), improves dispersal trait assignment for multilingual terms, and adds batch run scripts. See [Fork: additional features and usage](#fork-additional-features-and-usage) below.
 
 ## Note to people wanting to use these scripts.
 
@@ -118,6 +118,28 @@ The output formats --json-dir & --html-file are optional. An example of the HTML
     "text": "..."
 }
 ```
+
+### Fork: additional features and usage
+
+#### What’s in the fork
+
+**Seed dispersal extraction**
+- **`flora/pylib/rules/dispersal_traits.py`** – Extracts dispersal keywords (wing, pappus, fleshy reward, etc.), maps them to traits via `keyword_to_dispersal_traits_mapping.csv`, and supports negators and explicit absence terms.
+- **`flora/pylib/rules/fruit_type.py`** – Fruit type (berry, capsule, legume, etc.) as a separate linkable rule.
+- **`flora/pylib/writers/dispersal_format.py`** – Builds the `dispersal` block (`keywords_found`, traits as 0/1), filters by fruit/seed/fruit-type parts, and writes `dispersal_traits.csv`.
+- **Pipeline & HTML** – DispersalTraits and FruitType added to the pipeline; seed dispersal traits highlighted in HTML output.
+
+**Term vocabularies (multilingual)**
+- Terms live under `flora/pylib/rules/terms/dispersal_terms/`: `dispersal_terms.csv`, `fruit_type_terms.csv`, `dispersal_negator_terms.csv`, `dispersal_absence_terms.csv`.
+- Multilingual terms added (French, German, Latin, Spanish, Portuguese, Turkish). Part terms (`part_terms.csv`) extended with foreign-language seed/fruit words.
+
+**Output and batching**
+- JSON output includes a `dispersal` block and per–output-dir `dispersal_traits.csv`. `parse_treatments` can treat subdirs of `--treatment-dir` as batches and write per-batch HTML/CSV/JSON.
+
+**Scripts and tooling**
+- **`scripts/dispersal_keyword_stats.py`** – Language frequency of dispersal keywords, top keywords overall and per language, optional example file names.
+- **`scripts/dispersal_keyword_piecharts.py`** – One image with one pie per subfolder (keyword language frequency), shared legend, full language names (needs `matplotlib`).
+- **`plot_dispersal_traits.py`** – Plots presence/absence/unknown percent of traits (`pip install -r requirements-plot.txt`).
 
 ### Taxon database
 
