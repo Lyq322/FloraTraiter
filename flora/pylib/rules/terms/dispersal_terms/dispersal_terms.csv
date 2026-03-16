@@ -1,1149 +1,1968 @@
-label,pattern,replace
-dispersal_term,winged achene,winged achene
-dispersal_term,amphisarca,amphisarca
-dispersal_term,arillocarpium,arillocarpium
-dispersal_term,balausta,balausta
-dispersal_term,berry,berry
-dispersal_term,cactidium,cactidium
-dispersal_term,epispermatium,epispermatium
-dispersal_term,fleshy berry,fleshy berry
-dispersal_term,hesperidium,hesperidium
-dispersal_term,pepo,pepo
-dispersal_term,pulpy berry,pulpy berry
-dispersal_term,syncarp,syncarp
-dispersal_term,aggregate drupe,aggregate drupe
-dispersal_term,compound drupe,compound drupe
-dispersal_term,drupe,drupe
-dispersal_term,drupelet,drupelet
-dispersal_term,drupetum,drupetum
-dispersal_term,pseudodrupe,pseudodrupe
-dispersal_term,stone fruit,stone fruit
-dispersal_term,berry-like cone,berry-like cone
-dispersal_term,cone berry,cone berry
-dispersal_term,galbulus,galbulus
-dispersal_term,winged nut,winged nut
-dispersal_term,nut,nut
-dispersal_term,nuculanium,nuculanium
-dispersal_term,pome,pome
-dispersal_term,samara,samara
-dispersal_term,samaras,samaras
-dispersal_term,samaroid,samaroid
-dispersal_term,winged samara,winged samara
-dispersal_term,sorosis,sorosis
-dispersal_term,syconium,syconium
-dispersal_term,alate,alate
-dispersal_term,wing,wing
-dispersal_term,winged,winged
-dispersal_term,winged fruit,winged fruit
-dispersal_term,winged seed,winged seed
-dispersal_term,awn,awn
-dispersal_term,awned,awned
-dispersal_term,coma,coma
-dispersal_term,comose,comose
-dispersal_term,feathery,feathery
-dispersal_term,pappose,pappose
-dispersal_term,pappus,pappus
-dispersal_term,plumed,plumed
-dispersal_term,plumose,plumose
-dispersal_term,seed hairs,seed hairs
-dispersal_term,silky hairs,silky hairs
-dispersal_term,tuft of hairs,tuft of hairs
-dispersal_term,aril,aril
-dispersal_term,arillate,arillate
-dispersal_term,arillate seed,arillate seed
-dispersal_term,arillode,arillode
-dispersal_term,edible pulp,edible pulp
-dispersal_term,fleshy,fleshy
-dispersal_term,fleshy fruit,fleshy fruit
-dispersal_term,fleshy mesocarp,fleshy mesocarp
-dispersal_term,fleshy pericarp,fleshy pericarp
-dispersal_term,fleshy seed coat,fleshy seed coat
-dispersal_term,fleshy testa,fleshy testa
-dispersal_term,juicy,juicy
-dispersal_term,juicy fruit,juicy fruit
-dispersal_term,pulpy,pulpy
-dispersal_term,pulpy fruit,pulpy fruit
-dispersal_term,sarcotesta,sarcotesta
-dispersal_term,seed enclosed in aril,seed enclosed in aril
-dispersal_term,succulent,succulent
-dispersal_term,succulent fruit,succulent fruit
-dispersal_term,sweet pulp,sweet pulp
-dispersal_term,barbed,barbed
-dispersal_term,barbs,barbs
-dispersal_term,burr,burr
-dispersal_term,burr-like,burr-like
-dispersal_term,burrs,burrs
-dispersal_term,clinging,clinging
-dispersal_term,glochid,glochid
-dispersal_term,glochidia,glochidia
-dispersal_term,hooked,hooked
-dispersal_term,hooks,hooks
-dispersal_term,retrorse,retrorse
-dispersal_term,spines,spines
-dispersal_term,spiny,spiny
-dispersal_term,uncinate,uncinate
-dispersal_term,adhesive,adhesive
-dispersal_term,glutinous,glutinous
-dispersal_term,gummy,gummy
-dispersal_term,mucilage,mucilage
-dispersal_term,mucilaginous,mucilaginous
-dispersal_term,resinous,resinous
-dispersal_term,sticky,sticky
-dispersal_term,sticky seed,sticky seed
-dispersal_term,viscid,viscid
-dispersal_term,viscid seed,viscid seed
-dispersal_term,ant-dispersed,ant-dispersed
-dispersal_term,caruncle,caruncle
-dispersal_term,carunculate,carunculate
-dispersal_term,elaiosome,elaiosome
-dispersal_term,myrmecochory,myrmecochory
-dispersal_term,air chambers,air chambers
-dispersal_term,air-filled,air-filled
-dispersal_term,bladdery,bladdery
-dispersal_term,buoyant,buoyant
-dispersal_term,buoyant pericarp,buoyant pericarp
-dispersal_term,corky,corky
-dispersal_term,fibrous pericarp,fibrous pericarp
-dispersal_term,float,float
-dispersal_term,floating,floating
-dispersal_term,floats,floats
-dispersal_term,inflated fruit,inflated fruit
-dispersal_term,spongy,spongy
-dispersal_term,ballistic,ballistic
-dispersal_term,catapult,catapult
-dispersal_term,elastically dehiscent,elastically dehiscent
-dispersal_term,explosive,explosive
-dispersal_term,explosive dehiscence,explosive dehiscence
-dispersal_term,forcefully dehiscent,forcefully dehiscent
-dispersal_term,seed ejection,seed ejection
-dispersal_term,seeds ejected,seeds ejected
-dispersal_term,acorn,acorn
-dispersal_term,coriaceous testa,coriaceous testa
-dispersal_term,fibrous endocarp,fibrous endocarp
-dispersal_term,hard seed coat,hard seed coat
-dispersal_term,hard testa,hard testa
-dispersal_term,leathery pericarp,leathery pericarp
-dispersal_term,lignified endocarp,lignified endocarp
-dispersal_term,sclerified pericarp,sclerified pericarp
-dispersal_term,shell-like,shell-like
-dispersal_term,stone,stone
-dispersal_term,stony endocarp,stony endocarp
-dispersal_term,thick seed coat,thick seed coat
-dispersal_term,thick testa,thick testa
-dispersal_term,thick-walled fruit,thick-walled fruit
-dispersal_term,woody endocarp,woody endocarp
-label,pattern,replace
-dispersal_term,aquenio alado,winged achene
-dispersal_term,aquenios alados,winged achene
-dispersal_term,anfisarca,amphisarca
-dispersal_term,anfisarcas,amphisarca
-dispersal_term,arilocarpio,arillocarpium
-dispersal_term,arilocarpios,arillocarpium
-dispersal_term,balausta,balausta
-dispersal_term,balaustas,balausta
-dispersal_term,baya,berry
-dispersal_term,bayas,berry
-dispersal_term,cactidio,cactidium
-dispersal_term,cactidios,cactidium
-dispersal_term,epispermatio,epispermatium
-dispersal_term,epispermatios,epispermatium
-dispersal_term,baya carnosa,fleshy berry
-dispersal_term,bayas carnosas,fleshy berry
-dispersal_term,hesperidio,hesperidium
-dispersal_term,hesperidios,hesperidium
-dispersal_term,pepo,pepo
-dispersal_term,pepos,pepo
-dispersal_term,baya pulposa,pulpy berry
-dispersal_term,bayas pulposas,pulpy berry
-dispersal_term,sincarpo,syncarp
-dispersal_term,sincarpos,syncarp
-dispersal_term,drupa agregada,aggregate drupe
-dispersal_term,drupas agregadas,aggregate drupe
-dispersal_term,drupa compuesta,compound drupe
-dispersal_term,drupas compuestas,compound drupe
-dispersal_term,drupa,drupe
-dispersal_term,drupas,drupe
-dispersal_term,drupéola,drupelet
-dispersal_term,drupéolas,drupelet
-dispersal_term,drupeto,drupetum
-dispersal_term,drupetos,drupetum
-dispersal_term,pseudodrupa,pseudodrupe
-dispersal_term,pseudodrupas,pseudodrupe
-dispersal_term,fruto drupáceo,stone fruit
-dispersal_term,frutos drupáceos,stone fruit
-dispersal_term,cono bacciforme,berry-like cone
-dispersal_term,conos bacciformes,berry-like cone
-dispersal_term,gálbulo,galbulus
-dispersal_term,gálbulos,galbulus
-dispersal_term,nuez alada,winged nut
-dispersal_term,nueces aladas,winged nut
-dispersal_term,nuez,nut
-dispersal_term,nueces,nut
-dispersal_term,nuculanio,nuculanium
-dispersal_term,nuculanios,nuculanium
-dispersal_term,pomo,pome
-dispersal_term,pomos,pome
-dispersal_term,sámara,samaras
-dispersal_term,sámaras,samaras
-dispersal_term,samaroide,samaroid
-dispersal_term,samaroides,samaroid
-dispersal_term,sámara alada,winged samara
-dispersal_term,sámaras aladas,winged samara
-dispersal_term,sorosis,sorosis
-dispersal_term,sicono,syconium
-dispersal_term,siconos,syconium
-dispersal_term,alado,winged
-dispersal_term,alada,winged
-dispersal_term,alados,winged
-dispersal_term,aladas,winged
-dispersal_term,ala,wing
-dispersal_term,alas,wing
-dispersal_term,fruto alado,winged fruit
-dispersal_term,frutos alados,winged fruit
-dispersal_term,semilla alada,winged seed
-dispersal_term,semillas aladas,winged seed
-dispersal_term,arista,awn
-dispersal_term,aristas,awn
-dispersal_term,aristado,awned
-dispersal_term,aristada,awned
-dispersal_term,aristados,awned
-dispersal_term,aristadas,awned
-dispersal_term,coma,coma
-dispersal_term,comas,coma
-dispersal_term,comoso,comose
-dispersal_term,comosa,comose
-dispersal_term,comosos,comose
-dispersal_term,comosas,comose
-dispersal_term,plumoso,plumose
-dispersal_term,plumosa,plumose
-dispersal_term,plumosos,plumose
-dispersal_term,plumosas,plumose
-dispersal_term,paposo,pappose
-dispersal_term,paposa,pappose
-dispersal_term,paposos,pappose
-dispersal_term,paposas,pappose
-dispersal_term,papo,pappus
-dispersal_term,papos,pappus
-dispersal_term,plumado,plumed
-dispersal_term,plumada,plumed
-dispersal_term,plumados,plumed
-dispersal_term,plumadas,plumed
-dispersal_term,pelos seminales,seed hairs
-dispersal_term,pelo seminal,seed hairs
-dispersal_term,pelos sedosos,silky hairs
-dispersal_term,pelo sedoso,silky hairs
-dispersal_term,penacho de pelos,tuft of hairs
-dispersal_term,penachos de pelos,tuft of hairs
-dispersal_term,arilo,aril
-dispersal_term,arilos,aril
-dispersal_term,arilado,arillate
-dispersal_term,arilada,arillate
-dispersal_term,arilados,arillate
-dispersal_term,ariladas,arillate
-dispersal_term,semilla arilada,arillate seed
-dispersal_term,semillas ariladas,arillate seed
-dispersal_term,arilodio,arillode
-dispersal_term,arilodios,arillode
-dispersal_term,pulpa comestible,edible pulp
-dispersal_term,pulpas comestibles,edible pulp
-dispersal_term,carnoso,fleshy
-dispersal_term,carnosa,fleshy
-dispersal_term,carnosos,fleshy
-dispersal_term,carnosas,fleshy
-dispersal_term,fruto carnoso,fleshy fruit
-dispersal_term,frutos carnosos,fleshy fruit
-dispersal_term,mesocarpo carnoso,fleshy mesocarp
-dispersal_term,mesocarpos carnosos,fleshy mesocarp
-dispersal_term,pericarpo carnoso,fleshy pericarp
-dispersal_term,pericarpos carnosos,fleshy pericarp
-dispersal_term,cubierta seminal carnosa,fleshy seed coat
-dispersal_term,cubiertas seminales carnosas,fleshy seed coat
-dispersal_term,testa carnosa,fleshy testa
-dispersal_term,testas carnosas,fleshy testa
-dispersal_term,jugoso,juicy
-dispersal_term,jugosa,juicy
-dispersal_term,jugosos,juicy
-dispersal_term,jugosas,juicy
-dispersal_term,fruto jugoso,juicy fruit
-dispersal_term,frutos jugosos,juicy fruit
-dispersal_term,pulposo,pulpy
-dispersal_term,pulposa,pulpy
-dispersal_term,pulposos,pulpy
-dispersal_term,pulposas,pulpy
-dispersal_term,fruto pulposo,pulpy fruit
-dispersal_term,frutos pulposos,pulpy fruit
-dispersal_term,sarcotesta,sarcotesta
-dispersal_term,sarcotestas,sarcotesta
-dispersal_term,semilla incluida en arilo,seed enclosed in aril
-dispersal_term,semillas incluidas en arilo,seed enclosed in aril
-dispersal_term,suculento,succulent
-dispersal_term,suculenta,succulent
-dispersal_term,suculentos,succulent
-dispersal_term,suculentas,succulent
-dispersal_term,fruto suculento,succulent fruit
-dispersal_term,frutos suculentos,succulent fruit
-dispersal_term,pulpa dulce,sweet pulp
-dispersal_term,pulpas dulces,sweet pulp
-dispersal_term,barbado,barbed
-dispersal_term,barbada,barbed
-dispersal_term,barbados,barbed
-dispersal_term,barbadas,barbed
-dispersal_term,barba,barbs
-dispersal_term,barbas,barbs
-dispersal_term,cadillo,burrs
-dispersal_term,cadillos,burrs
-dispersal_term,cadilloso,burr-like
-dispersal_term,cadillosa,burr-like
-dispersal_term,cadillosos,burr-like
-dispersal_term,cadillosas,burr-like
-dispersal_term,adherente,clinging
-dispersal_term,adherentes,clinging
-dispersal_term,gloquidio,glochidia
-dispersal_term,gloquidios,glochidia
-dispersal_term,uncinado,uncinate
-dispersal_term,uncinada,uncinate
-dispersal_term,uncinados,uncinate
-dispersal_term,uncinadas,uncinate
-dispersal_term,gancho,hooks
-dispersal_term,ganchos,hooks
-dispersal_term,retrorso,retrorse
-dispersal_term,retrorsa,retrorse
-dispersal_term,retrorsos,retrorse
-dispersal_term,retrorsas,retrorse
-dispersal_term,espina,spines
-dispersal_term,espinas,spines
-dispersal_term,espinoso,spiny
-dispersal_term,espinosa,spiny
-dispersal_term,espinosos,spiny
-dispersal_term,espinosas,spiny
-dispersal_term,adhesivo,adhesive
-dispersal_term,adhesiva,adhesive
-dispersal_term,adhesivos,adhesive
-dispersal_term,adhesivas,adhesive
-dispersal_term,glutinoso,glutinous
-dispersal_term,glutinosa,glutinous
-dispersal_term,glutinosos,glutinous
-dispersal_term,glutinosas,glutinous
-dispersal_term,gomoso,gummy
-dispersal_term,gomosa,gummy
-dispersal_term,gomosos,gummy
-dispersal_term,gomosas,gummy
-dispersal_term,mucílago,mucilage
-dispersal_term,mucílagos,mucilage
-dispersal_term,mucilaginoso,mucilaginous
-dispersal_term,mucilaginosa,mucilaginous
-dispersal_term,mucilaginosos,mucilaginous
-dispersal_term,mucilaginosas,mucilaginous
-dispersal_term,resinoso,resinous
-dispersal_term,resinosa,resinous
-dispersal_term,resinosos,resinous
-dispersal_term,resinosas,resinous
-dispersal_term,pegajoso,sticky
-dispersal_term,pegajosa,sticky
-dispersal_term,pegajosos,sticky
-dispersal_term,pegajosas,sticky
-dispersal_term,semilla pegajosa,sticky seed
-dispersal_term,semillas pegajosas,sticky seed
-dispersal_term,viscoso,viscid
-dispersal_term,viscosa,viscid
-dispersal_term,viscosos,viscid
-dispersal_term,viscosas,viscid
-dispersal_term,semilla viscosa,viscid seed
-dispersal_term,semillas viscosas,viscid seed
-dispersal_term,mirmecócoro,ant-dispersed
-dispersal_term,mirmecócoros,ant-dispersed
-dispersal_term,carúncula,caruncle
-dispersal_term,carúnculas,caruncle
-dispersal_term,carunculado,carunculate
-dispersal_term,carunculada,carunculate
-dispersal_term,carunculados,carunculate
-dispersal_term,carunculadas,carunculate
-dispersal_term,elaiósoma,elaiosome
-dispersal_term,elaiósomas,elaiosome
-dispersal_term,mirmecocoria,myrmecochory
-dispersal_term,mirmecocorias,myrmecochory
-dispersal_term,cámaras de aire,air chambers
-dispersal_term,cámara de aire,air chambers
-dispersal_term,lleno de aire,air-filled
-dispersal_term,llena de aire,air-filled
-dispersal_term,vesiculoso,bladdery
-dispersal_term,vesiculosa,bladdery
-dispersal_term,vesiculosos,bladdery
-dispersal_term,vesiculosas,bladdery
-dispersal_term,flotante,floating
-dispersal_term,flotantes,floating
-dispersal_term,pericarpo flotante,buoyant pericarp
-dispersal_term,pericarpos flotantes,buoyant pericarp
-dispersal_term,corchoso,corky
-dispersal_term,corchosa,corky
-dispersal_term,corchosos,corky
-dispersal_term,corchosas,corky
-dispersal_term,pericarpo fibroso,fibrous pericarp
-dispersal_term,pericarpos fibrosos,fibrous pericarp
-dispersal_term,flotar,float
-dispersal_term,flotando,float
-dispersal_term,flota,floats
-dispersal_term,flotan,floats
-dispersal_term,fruto inflado,inflated fruit
-dispersal_term,frutos inflados,inflated fruit
-dispersal_term,esponjoso,spongy
-dispersal_term,esponjosa,spongy
-dispersal_term,esponjosos,spongy
-dispersal_term,esponjosas,spongy
-dispersal_term,balístico,ballistic
-dispersal_term,balística,ballistic
-dispersal_term,balísticos,ballistic
-dispersal_term,balísticas,ballistic
-dispersal_term,catapulta,catapult
-dispersal_term,catapultas,catapult
-dispersal_term,dehiscente elásticamente,elastically dehiscent
-dispersal_term,dehiscentes elásticamente,elastically dehiscent
-dispersal_term,explosivo,explosive
-dispersal_term,explosiva,explosive
-dispersal_term,explosivos,explosive
-dispersal_term,explosivas,explosive
-dispersal_term,dehiscencia explosiva,explosive dehiscence
-dispersal_term,dehiscencias explosivas,explosive dehiscence
-dispersal_term,dehiscente a la fuerza,forcefully dehiscent
-dispersal_term,dehiscentes a la fuerza,forcefully dehiscent
-dispersal_term,eyección de semillas,seed ejection
-dispersal_term,eyecciones de semillas,seed ejection
-dispersal_term,semillas eyectadas,seeds ejected
-dispersal_term,semilla eyectada,seeds ejected
-dispersal_term,bellota,acorn
-dispersal_term,bellotas,acorn
-dispersal_term,testa coriácea,coriaceous testa
-dispersal_term,testas coriáceas,coriaceous testa
-dispersal_term,endocarpo fibroso,fibrous endocarp
-dispersal_term,endocarpos fibrosos,fibrous endocarp
-dispersal_term,cubierta seminal dura,hard seed coat
-dispersal_term,cubiertas seminales duras,hard seed coat
-dispersal_term,testa dura,hard testa
-dispersal_term,testas duras,hard testa
-dispersal_term,pericarpo coriáceo,leathery pericarp
-dispersal_term,pericarpos coriáceos,leathery pericarp
-dispersal_term,endocarpo lignificado,lignified endocarp
-dispersal_term,endocarpos lignificados,lignified endocarp
-dispersal_term,pericarpo esclerificado,sclerified pericarp
-dispersal_term,pericarpos esclerificados,sclerified pericarp
-dispersal_term,conchiforme,shell-like
-dispersal_term,conchiformes,shell-like
-dispersal_term,hueso,stone
-dispersal_term,huesos,stone
-dispersal_term,endocarpo pétreo,stony endocarp
-dispersal_term,endocarpos pétreos,stony endocarp
-dispersal_term,cubierta seminal gruesa,thick seed coat
-dispersal_term,cubiertas seminales gruesas,thick seed coat
-dispersal_term,testa gruesa,thick testa
-dispersal_term,testas gruesas,thick testa
-dispersal_term,fruto de pared gruesa,thick-walled fruit
-dispersal_term,frutos de pared gruesa,thick-walled fruit
-dispersal_term,endocarpo leñoso,woody endocarp
-dispersal_term,endocarpos leñosos,woody endocarp
-dispersal_term,sorose,sorosis
-dispersal_term,soroses,sorosis
-dispersal_term,achaenium alatum,winged achene
-dispersal_term,achaenia alata,winged achene
-dispersal_term,amphisarca,amphisarca
-dispersal_term,amphisarcae,amphisarca
-dispersal_term,arillocarpium,arillocarpium
-dispersal_term,arillocarpia,arillocarpium
-dispersal_term,balaustae,balausta
-dispersal_term,bacca,berry
-dispersal_term,baccae,berry
-dispersal_term,cactidium,cactidium
-dispersal_term,cactidia,cactidium
-dispersal_term,epispermatium,epispermatium
-dispersal_term,epispermati a,epispermatium
-dispersal_term,bacca carnosa,fleshy berry
-dispersal_term,baccae carnosae,fleshy berry
-dispersal_term,hesperidium,hesperidium
-dispersal_term,hesperidia,hesperidium
-dispersal_term,pepones,pepo
-dispersal_term,bacca pulposa,pulpy berry
-dispersal_term,baccae pulposae,pulpy berry
-dispersal_term,syncarpium,syncarp
-dispersal_term,syncarpia,syncarp
-dispersal_term,drupa aggregata,aggregate drupe
-dispersal_term,drupae aggregatae,aggregate drupe
-dispersal_term,drupa composita,compound drupe
-dispersal_term,drupae compositae,compound drupe
-dispersal_term,drupae,drupe
-dispersal_term,drupella,drupelet
-dispersal_term,drupellae,drupelet
-dispersal_term,drupetum,drupetum
-dispersal_term,drupeta,drupetum
-dispersal_term,pseudodrupae,pseudodrupe
-dispersal_term,fructus drupaceus,stone fruit
-dispersal_term,fructus drupacei,stone fruit
-dispersal_term,strobilus bacciformis,berry-like cone
-dispersal_term,strobili bacciformes,berry-like cone
-dispersal_term,galbulus,galbulus
-dispersal_term,galbuli,galbulus
-dispersal_term,nux alata,winged nut
-dispersal_term,nuces alatae,winged nut
-dispersal_term,nux,nut
-dispersal_term,nuces,nut
-dispersal_term,nuculanium,nuculanium
-dispersal_term,nuculania,nuculanium
-dispersal_term,pomum,pome
-dispersal_term,poma,pome
-dispersal_term,samara,samaras
-dispersal_term,samarae,samaras
-dispersal_term,samaroidea,samaroid
-dispersal_term,samara alata,winged samara
-dispersal_term,samarae alatae,winged samara
-dispersal_term,syconium,syconium
-dispersal_term,syconia,syconium
-dispersal_term,alatus,winged
-dispersal_term,alata,winged
-dispersal_term,alatum,winged
-dispersal_term,alati,winged
-dispersal_term,alae,wing
-dispersal_term,fructus alatus,winged fruit
-dispersal_term,fructus alati,winged fruit
-dispersal_term,semen alatum,winged seed
-dispersal_term,semina alata,winged seed
-dispersal_term,aristae,awn
-dispersal_term,aristatus,awned
-dispersal_term,aristata,awned
-dispersal_term,aristatum,awned
-dispersal_term,aristati,awned
-dispersal_term,comae,coma
-dispersal_term,comosus,comose
-dispersal_term,comosum,comose
-dispersal_term,comosi,comose
-dispersal_term,plumosus,plumose
-dispersal_term,plumosum,plumose
-dispersal_term,plumosi,plumose
-dispersal_term,papposus,pappose
-dispersal_term,papposa,pappose
-dispersal_term,papposum,pappose
-dispersal_term,papposi,pappose
-dispersal_term,pappus,pappus
-dispersal_term,pappi,pappus
-dispersal_term,plumatus,plumed
-dispersal_term,plumata,plumed
-dispersal_term,plumatum,plumed
-dispersal_term,plumati,plumed
-dispersal_term,pili seminales,seed hairs
-dispersal_term,pilus seminalis,seed hairs
-dispersal_term,pili sericei,silky hairs
-dispersal_term,pilus sericeus,silky hairs
-dispersal_term,fasciculus pilorum,tuft of hairs
-dispersal_term,fasciculi pilorum,tuft of hairs
-dispersal_term,arillus,aril
-dispersal_term,arilli,aril
-dispersal_term,arillatus,arillate
-dispersal_term,arillata,arillate
-dispersal_term,arillatum,arillate
-dispersal_term,arillati,arillate
-dispersal_term,semen arillatum,arillate seed
-dispersal_term,semina arillata,arillate seed
-dispersal_term,arilloideum,arillode
-dispersal_term,arilloidea,arillode
-dispersal_term,pulpa edulis,edible pulp
-dispersal_term,pulpae edules,edible pulp
-dispersal_term,carnosus,fleshy
-dispersal_term,carnosum,fleshy
-dispersal_term,carnosi,fleshy
-dispersal_term,fructus carnosus,fleshy fruit
-dispersal_term,fructus carnosi,fleshy fruit
-dispersal_term,mesocarpium carnosum,fleshy mesocarp
-dispersal_term,mesocarpia carnosa,fleshy mesocarp
-dispersal_term,pericarpium carnosum,fleshy pericarp
-dispersal_term,pericarpia carnosa,fleshy pericarp
-dispersal_term,testae carnosae,fleshy testa
-dispersal_term,succosus,juicy
-dispersal_term,succosa,juicy
-dispersal_term,succosum,juicy
-dispersal_term,succosi,juicy
-dispersal_term,fructus succosus,juicy fruit
-dispersal_term,fructus succosi,juicy fruit
-dispersal_term,pulposus,pulpy
-dispersal_term,pulposum,pulpy
-dispersal_term,pulposi,pulpy
-dispersal_term,fructus pulposus,pulpy fruit
-dispersal_term,fructus pulposi,pulpy fruit
-dispersal_term,sarcotestae,sarcotesta
-dispersal_term,semen arillo inclusum,seed enclosed in aril
-dispersal_term,semina arillo inclusa,seed enclosed in aril
-dispersal_term,succulentus,succulent
-dispersal_term,succulenta,succulent
-dispersal_term,succulentum,succulent
-dispersal_term,succulenti,succulent
-dispersal_term,fructus succulentus,succulent fruit
-dispersal_term,fructus succulenti,succulent fruit
-dispersal_term,pulpa dulcis,sweet pulp
-dispersal_term,pulpae dulces,sweet pulp
-dispersal_term,barbatus,barbed
-dispersal_term,barbata,barbed
-dispersal_term,barbatum,barbed
-dispersal_term,barbati,barbed
-dispersal_term,barbae,barbs
-dispersal_term,glomus,burrs
-dispersal_term,glomera,burrs
-dispersal_term,glomosus,burr-like
-dispersal_term,glomosa,burr-like
-dispersal_term,glomosum,burr-like
-dispersal_term,glomosi,burr-like
-dispersal_term,adhaerens,clinging
-dispersal_term,adhaerentes,clinging
-dispersal_term,glochidium,glochidia
-dispersal_term,glochidia,glochidia
-dispersal_term,uncinatus,uncinate
-dispersal_term,uncinata,uncinate
-dispersal_term,uncinatum,uncinate
-dispersal_term,uncinati,uncinate
-dispersal_term,uncinus,hooks
-dispersal_term,uncini,hooks
-dispersal_term,retrorsus,retrorse
-dispersal_term,retrorsum,retrorse
-dispersal_term,retrorsi,retrorse
-dispersal_term,spina,spines
-dispersal_term,spinae,spines
-dispersal_term,spinosus,spiny
-dispersal_term,spinosa,spiny
-dispersal_term,spinosum,spiny
-dispersal_term,spinosi,spiny
-dispersal_term,adhaesivus,adhesive
-dispersal_term,adhaesiva,adhesive
-dispersal_term,adhaesivum,adhesive
-dispersal_term,adhaesivi,adhesive
-dispersal_term,glutinosus,glutinous
-dispersal_term,glutinosum,glutinous
-dispersal_term,glutinosi,glutinous
-dispersal_term,gummosus,gummy
-dispersal_term,gummosa,gummy
-dispersal_term,gummosum,gummy
-dispersal_term,gummosi,gummy
-dispersal_term,mucilago,mucilage
-dispersal_term,mucilagines,mucilage
-dispersal_term,mucilaginosus,mucilaginous
-dispersal_term,mucilaginosum,mucilaginous
-dispersal_term,mucilaginosi,mucilaginous
-dispersal_term,resinosus,resinous
-dispersal_term,resinosum,resinous
-dispersal_term,resinosi,resinous
-dispersal_term,adhaesus,sticky
-dispersal_term,adhaesa,sticky
-dispersal_term,adhaesum,sticky
-dispersal_term,adhaesi,sticky
-dispersal_term,semen adhaesum,sticky seed
-dispersal_term,semina adhaesa,sticky seed
-dispersal_term,viscosus,viscid
-dispersal_term,viscosum,viscid
-dispersal_term,viscosi,viscid
-dispersal_term,semen viscosum,viscid seed
-dispersal_term,semina viscosa,viscid seed
-dispersal_term,myrmecochorus,ant-dispersed
-dispersal_term,myrmecochora,ant-dispersed
-dispersal_term,myrmecochorum,ant-dispersed
-dispersal_term,myrmecochori,ant-dispersed
-dispersal_term,caruncula,caruncle
-dispersal_term,carunculae,caruncle
-dispersal_term,carunculatus,carunculate
-dispersal_term,carunculata,carunculate
-dispersal_term,carunculatum,carunculate
-dispersal_term,carunculati,carunculate
-dispersal_term,elaiosoma,elaiosome
-dispersal_term,elaiosomata,elaiosome
-dispersal_term,myrmecochoria,myrmecochory
-dispersal_term,myrmecochoriae,myrmecochory
-dispersal_term,camerae aeris,air chambers
-dispersal_term,camera aeris,air chambers
-dispersal_term,aere plenus,air-filled
-dispersal_term,aere plenum,air-filled
-dispersal_term,aere plena,air-filled
-dispersal_term,vesiculosus,bladdery
-dispersal_term,vesiculosum,bladdery
-dispersal_term,vesiculosi,bladdery
-dispersal_term,natans,floating
-dispersal_term,natantes,floating
-dispersal_term,pericarpium natans,buoyant pericarp
-dispersal_term,pericarpia natantia,buoyant pericarp
-dispersal_term,suberosus,corky
-dispersal_term,suberosa,corky
-dispersal_term,suberosum,corky
-dispersal_term,suberosi,corky
-dispersal_term,pericarpium fibrosum,fibrous pericarp
-dispersal_term,pericarpia fibrosa,fibrous pericarp
-dispersal_term,natare,float
-dispersal_term,natans,float
-dispersal_term,natat,floats
-dispersal_term,natant,floats
-dispersal_term,fructus inflatus,inflated fruit
-dispersal_term,fructus inflati,inflated fruit
-dispersal_term,spongiosus,spongy
-dispersal_term,spongiosa,spongy
-dispersal_term,spongiosum,spongy
-dispersal_term,spongiosi,spongy
-dispersal_term,ballisticus,ballistic
-dispersal_term,ballistica,ballistic
-dispersal_term,ballisticum,ballistic
-dispersal_term,ballistici,ballistic
-dispersal_term,catapultae,catapult
-dispersal_term,elasticodehiscens,elastically dehiscent
-dispersal_term,elasticodehiscentes,elastically dehiscent
-dispersal_term,explosivus,explosive
-dispersal_term,explosivum,explosive
-dispersal_term,explosivi,explosive
-dispersal_term,dehiscentia explosiva,explosive dehiscence
-dispersal_term,dehiscentiae explosivae,explosive dehiscence
-dispersal_term,vi dehiscens,forcefully dehiscent
-dispersal_term,vi dehiscentes,forcefully dehiscent
-dispersal_term,ejaculatio seminum,seed ejection
-dispersal_term,ejaculationes seminum,seed ejection
-dispersal_term,seminalia ejecta,seeds ejected
-dispersal_term,glans,acorn
-dispersal_term,glandes,acorn
-dispersal_term,testa coriacea,coriaceous testa
-dispersal_term,testae coriaceae,coriaceous testa
-dispersal_term,endocarpium fibrosum,fibrous endocarp
-dispersal_term,endocarpia fibrosa,fibrous endocarp
-dispersal_term,testae durae,hard testa
-dispersal_term,pericarpium coriaceum,leathery pericarp
-dispersal_term,pericarpia coriacea,leathery pericarp
-dispersal_term,endocarpium lignificatum,lignified endocarp
-dispersal_term,endocarpia lignificata,lignified endocarp
-dispersal_term,pericarpium sclerificatum,sclerified pericarp
-dispersal_term,pericarpia sclerificata,sclerified pericarp
-dispersal_term,conchiformis,shell-like
-dispersal_term,putamen,stone
-dispersal_term,putamina,stone
-dispersal_term,endocarpium lapideum,stony endocarp
-dispersal_term,endocarpia lapidea,stony endocarp
-dispersal_term,testa crassa,thick testa
-dispersal_term,testae crassae,thick testa
-dispersal_term,fructus pariete crasso,thick-walled fruit
-dispersal_term,endocarpium ligneum,woody endocarp
-dispersal_term,endocarpia lignea,woody endocarp
-dispersal_term,geflügelte Achäne,winged achene
-dispersal_term,geflügelte Achänen,winged achene
-dispersal_term,Amphisarca,amphisarca
-dispersal_term,Amphisarc(en),amphisarca
-dispersal_term,Arillocarpium,arillocarpium
-dispersal_term,Arillocarpien,arillocarpium
-dispersal_term,Balausta,balausta
-dispersal_term,Balausten,balausta
-dispersal_term,Beere,berry
-dispersal_term,Beeren,berry
-dispersal_term,Cactidium,cactidium
-dispersal_term,Cactidien,cactidium
-dispersal_term,Epispermatium,epispermatium
-dispersal_term,Epispermatien,epispermatium
-dispersal_term,fleischige Beere,fleshy berry
-dispersal_term,fleischige Beeren,fleshy berry
-dispersal_term,Hesperidie,hesperidium
-dispersal_term,Hesperidien,hesperidium
-dispersal_term,Pepo,pepo
-dispersal_term,Pepos,pepo
-dispersal_term,pulpose Beere,pulpy berry
-dispersal_term,pulpose Beeren,pulpy berry
-dispersal_term,Syncarp,syncarp
-dispersal_term,Syncarpe,syncarp
-dispersal_term,aggregierte Steinfrucht,aggregate drupe
-dispersal_term,aggregierte Steinfrüchte,aggregate drupe
-dispersal_term,zusammengesetzte Steinfrucht,compound drupe
-dispersal_term,zusammengesetzte Steinfrüchte,compound drupe
-dispersal_term,Steinfrucht,stone fruit
-dispersal_term,Steinfrüchte,stone fruit
-dispersal_term,Steinfrüchtchen,drupelet
-dispersal_term,Drupetum,drupetum
-dispersal_term,Drupeta,drupetum
-dispersal_term,Pseudosteinfrucht,pseudodrupe
-dispersal_term,Pseudosteinfrüchte,pseudodrupe
-dispersal_term,beerenartiger Zapfen,berry-like cone
-dispersal_term,beerenartige Zapfen,berry-like cone
-dispersal_term,Galbulus,galbulus
-dispersal_term,Galbuli,galbulus
-dispersal_term,geflügelte Nuss,winged nut
-dispersal_term,geflügelte Nüsse,winged nut
-dispersal_term,Nuss,nut
-dispersal_term,Nüsse,nut
-dispersal_term,Nuculanium,nuculanium
-dispersal_term,Nuculanien,nuculanium
-dispersal_term,Kernfrucht,pome
-dispersal_term,Kernfrüchte,pome
-dispersal_term,Samara,samaras
-dispersal_term,Samaras,samaras
-dispersal_term,samaroid,samaroid
-dispersal_term,geflügelte Samara,winged samara
-dispersal_term,geflügelte Samaras,winged samara
-dispersal_term,Sorosis,sorosis
-dispersal_term,Sorosen,sorosis
-dispersal_term,Syconium,syconium
-dispersal_term,Syconien,syconium
-dispersal_term,geflügelt,winged
-dispersal_term,geflügelte,winged
-dispersal_term,geflügelten,winged
-dispersal_term,Flügel,wing
-dispersal_term,geflügelte Frucht,winged fruit
-dispersal_term,geflügelte Früchte,winged fruit
-dispersal_term,geflügelter Samen,winged seed
-dispersal_term,geflügelte Samen,winged seed
-dispersal_term,Granne,awn
-dispersal_term,Grannen,awn
-dispersal_term,gegrannt,awned
-dispersal_term,gegrannte,awned
-dispersal_term,Koma,coma
-dispersal_term,Komas,coma
-dispersal_term,komös,comose
-dispersal_term,komöse,comose
-dispersal_term,fiederig,plumose
-dispersal_term,fiederige,plumose
-dispersal_term,pappös,pappose
-dispersal_term,pappöse,pappose
-dispersal_term,Pappus,pappus
-dispersal_term,Pappi,pappus
-dispersal_term,gefiedert,plumed
-dispersal_term,gefiederte,plumed
-dispersal_term,Samenschopfhaare,seed hairs
-dispersal_term,Samenschopfhaar,seed hairs
-dispersal_term,seidige Haare,silky hairs
-dispersal_term,seidiges Haar,silky hairs
-dispersal_term,Haarbüschel,tuft of hairs
-dispersal_term,Arillus,aril
-dispersal_term,Arilli,aril
-dispersal_term,arilliert,arillate
-dispersal_term,arillierte,arillate
-dispersal_term,arillierter Samen,arillate seed
-dispersal_term,arillierte Samen,arillate seed
-dispersal_term,Arillode,arillode
-dispersal_term,Arilloden,arillode
-dispersal_term,essbare Pulpa,edible pulp
-dispersal_term,essbare Pulpas,edible pulp
-dispersal_term,fleischig,fleshy
-dispersal_term,fleischige,fleshy
-dispersal_term,fleischige Frucht,fleshy fruit
-dispersal_term,fleischige Früchte,fleshy fruit
-dispersal_term,fleischiger Mesokarp,fleshy mesocarp
-dispersal_term,fleischige Mesokarpe,fleshy mesocarp
-dispersal_term,fleischiger Perikarp,fleshy pericarp
-dispersal_term,fleischige Perikarpe,fleshy pericarp
-dispersal_term,fleischige Samenschale,fleshy seed coat
-dispersal_term,fleischige Samenschalen,fleshy seed coat
-dispersal_term,fleischige Testa,fleshy testa
-dispersal_term,fleischige Testae,fleshy testa
-dispersal_term,saftig,juicy
-dispersal_term,saftige,juicy
-dispersal_term,saftige Frucht,juicy fruit
-dispersal_term,saftige Früchte,juicy fruit
-dispersal_term,pulpos,pulpy
-dispersal_term,pulpose,pulpy
-dispersal_term,pulpose Frucht,pulpy fruit
-dispersal_term,pulpose Früchte,pulpy fruit
-dispersal_term,Sarcotesta,sarcotesta
-dispersal_term,Sarcotestae,sarcotesta
-dispersal_term,im Arillus eingeschlossener Samen,seed enclosed in aril
-dispersal_term,im Arillus eingeschlossene Samen,seed enclosed in aril
-dispersal_term,sukkulent,succulent
-dispersal_term,sukkulente,succulent
-dispersal_term,sukkulente Frucht,succulent fruit
-dispersal_term,sukkulente Früchte,succulent fruit
-dispersal_term,süße Pulpa,sweet pulp
-dispersal_term,süße Pulpas,sweet pulp
-dispersal_term,borstig,barbed
-dispersal_term,borstige,barbed
-dispersal_term,Barbe,barbs
-dispersal_term,Barben,barbs
-dispersal_term,Klette,burrs
-dispersal_term,Kletten,burrs
-dispersal_term,klettrig,burr-like
-dispersal_term,klettrige,burr-like
-dispersal_term,anhaftend,clinging
-dispersal_term,anhaftende,clinging
-dispersal_term,Glochide,glochidia
-dispersal_term,Glochiden,glochidia
-dispersal_term,hakig,hooked
-dispersal_term,hakige,hooked
-dispersal_term,Haken,hooks
-dispersal_term,rückwärtsgerichtet,retrorse
-dispersal_term,rückwärtsgerichtete,retrorse
-dispersal_term,Stachel,spines
-dispersal_term,Stacheln,spines
-dispersal_term,stachelig,spiny
-dispersal_term,stachelige,spiny
-dispersal_term,uncinat,uncinate
-dispersal_term,uncinate,uncinate
-dispersal_term,adhäsiv,adhesive
-dispersal_term,adhäsive,adhesive
-dispersal_term,glutinös,glutinous
-dispersal_term,glutinöse,glutinous
-dispersal_term,gummiartig,gummy
-dispersal_term,gummiartige,gummy
-dispersal_term,Mucilage,mucilage
-dispersal_term,Mucilagen,mucilage
-dispersal_term,mucilaginös,mucilaginous
-dispersal_term,mucilaginöse,mucilaginous
-dispersal_term,harzig,resinous
-dispersal_term,harzige,resinous
-dispersal_term,klebrig,sticky
-dispersal_term,klebrige,sticky
-dispersal_term,klebriger Samen,sticky seed
-dispersal_term,klebrige Samen,sticky seed
-dispersal_term,viskos,viscid
-dispersal_term,viskose,viscid
-dispersal_term,viskoser Samen,viscid seed
-dispersal_term,viskose Samen,viscid seed
-dispersal_term,myrmekochor,ant-dispersed
-dispersal_term,myrmekochore,ant-dispersed
-dispersal_term,Karunkel,caruncle
-dispersal_term,Karunkeln,caruncle
-dispersal_term,karunkuliert,carunculate
-dispersal_term,karunkulierte,carunculate
-dispersal_term,Elaiosom,elaiosome
-dispersal_term,Elaiosome,elaiosome
-dispersal_term,Myrmekochorie,myrmecochory
-dispersal_term,Myrmekochorien,myrmecochory
-dispersal_term,Luftkammer,air chambers
-dispersal_term,Luftkammern,air chambers
-dispersal_term,luftgefüllt,air-filled
-dispersal_term,luftgefüllte,air-filled
-dispersal_term,blasig,bladdery
-dispersal_term,blasige,bladdery
-dispersal_term,schwimmfähig,buoyant
-dispersal_term,schwimmfähige,buoyant
-dispersal_term,schwimmfähiger Perikarp,buoyant pericarp
-dispersal_term,schwimmfähige Perikarpe,buoyant pericarp
-dispersal_term,korkig,corky
-dispersal_term,korkige,corky
-dispersal_term,faseriger Perikarp,fibrous pericarp
-dispersal_term,faserige Perikarpe,fibrous pericarp
-dispersal_term,schwimmen,float
-dispersal_term,schwimmend,float
-dispersal_term,schwimmend,floating
-dispersal_term,schwimmende,floating
-dispersal_term,schwimmt,floats
-dispersal_term,schwimmen,floats
-dispersal_term,aufgeblasene Frucht,inflated fruit
-dispersal_term,aufgeblasene Früchte,inflated fruit
-dispersal_term,schwammig,spongy
-dispersal_term,schwammige,spongy
-dispersal_term,ballistisch,ballistic
-dispersal_term,ballistische,ballistic
-dispersal_term,Katapult,catapult
-dispersal_term,Katapulte,catapult
-dispersal_term,elastisch dehiszent,elastically dehiscent
-dispersal_term,elastisch dehiszente,elastically dehiscent
-dispersal_term,explosiv,explosive
-dispersal_term,explosive,explosive
-dispersal_term,explosive Dehiszenz,explosive dehiscence
-dispersal_term,explosive Dehiszenzen,explosive dehiscence
-dispersal_term,gewaltsam dehiszent,forcefully dehiscent
-dispersal_term,gewaltsam dehiszente,forcefully dehiscent
-dispersal_term,Samenabschuss,seed ejection
-dispersal_term,Samenabschüsse,seed ejection
-dispersal_term,Samen abgeschleudert,seeds ejected
-dispersal_term,Samen abgeschleuderte,seeds ejected
-dispersal_term,Eichel,acorn
-dispersal_term,Eicheln,acorn
-dispersal_term,lederige Testa,coriaceous testa
-dispersal_term,lederige Testae,coriaceous testa
-dispersal_term,faseriger Endokarp,fibrous endocarp
-dispersal_term,faserige Endokarpe,fibrous endocarp
-dispersal_term,harte Samenschale,hard seed coat
-dispersal_term,harte Samenschalen,hard seed coat
-dispersal_term,harte Testa,hard testa
-dispersal_term,harte Testae,hard testa
-dispersal_term,lederiger Perikarp,leathery pericarp
-dispersal_term,lederige Perikarpe,leathery pericarp
-dispersal_term,lignifizierter Endokarp,lignified endocarp
-dispersal_term,lignifizierte Endokarpe,lignified endocarp
-dispersal_term,sklerifizierter Perikarp,sclerified pericarp
-dispersal_term,sklerifizierte Perikarpe,sclerified pericarp
-dispersal_term,schalenförmig,shell-like
-dispersal_term,schalenförmige,shell-like
-dispersal_term,Steinkern,stone
-dispersal_term,Steinkerne,stone
-dispersal_term,steiniger Endokarp,stony endocarp
-dispersal_term,steinige Endokarpe,stony endocarp
-dispersal_term,dicke Samenschale,thick seed coat
-dispersal_term,dicke Samenschalen,thick seed coat
-dispersal_term,dicke Testa,thick testa
-dispersal_term,dicke Testae,thick testa
-dispersal_term,dickwandige Frucht,thick-walled fruit
-dispersal_term,dickwandige Früchte,thick-walled fruit
-dispersal_term,holziger Endokarp,woody endocarp
-dispersal_term,holzige Endokarpe,woody endocarp
-dispersal_term,kanatlı aken,winged achene
-dispersal_term,kanatlı akenler,winged achene
-dispersal_term,amfisarka,amphisarca
-dispersal_term,amfisarkalar,amphisarca
-dispersal_term,arillokarpyum,arillocarpium
-dispersal_term,arillokarpyumlar,arillocarpium
-dispersal_term,balaustalar,balausta
-dispersal_term,bakka,berry
-dispersal_term,bakkalar,berry
-dispersal_term,kaktidyum,cactidium
-dispersal_term,kaktidyumlar,cactidium
-dispersal_term,epispermatyum,epispermatium
-dispersal_term,epispermatyumlar,epispermatium
-dispersal_term,etli bakka,fleshy berry
-dispersal_term,etli bakkalar,fleshy berry
-dispersal_term,hesperidyum,hesperidium
-dispersal_term,hesperidyumlar,hesperidium
-dispersal_term,pepolar,pepo
-dispersal_term,pulplu bakka,pulpy berry
-dispersal_term,pulplu bakkalar,pulpy berry
-dispersal_term,sinkarp,syncarp
-dispersal_term,sinkarplar,syncarp
-dispersal_term,agregat drupa,aggregate drupe
-dispersal_term,agregat drupalar,aggregate drupe
-dispersal_term,kompozit drupa,compound drupe
-dispersal_term,kompozit drupalar,compound drupe
-dispersal_term,drupalar,drupe
-dispersal_term,drupçuk,drupelet
-dispersal_term,drupçuklar,drupelet
-dispersal_term,drupetumlar,drupetum
-dispersal_term,psödodrupa,pseudodrupe
-dispersal_term,psödodrupalar,pseudodrupe
-dispersal_term,taş çekirdekli meyve,stone fruit
-dispersal_term,taş çekirdekli meyveler,stone fruit
-dispersal_term,bakkamsı kozalak,berry-like cone
-dispersal_term,bakkamsı kozalaklar,berry-like cone
-dispersal_term,galbuluslar,galbulus
-dispersal_term,kanatlı nut,winged nut
-dispersal_term,kanatlı nutlar,winged nut
-dispersal_term,nut,nut
-dispersal_term,nutlar,nut
-dispersal_term,nukulanyum,nuculanium
-dispersal_term,nukulanyumlar,nuculanium
-dispersal_term,pom,pome
-dispersal_term,pomlar,pome
-dispersal_term,samaralar,samaras
-dispersal_term,samaroidler,samaroid
-dispersal_term,kanatlı samara,winged samara
-dispersal_term,kanatlı samaralar,winged samara
-dispersal_term,sorozis,sorosis
-dispersal_term,sorozisler,sorosis
-dispersal_term,sikonyum,syconium
-dispersal_term,sikonyumlar,syconium
-dispersal_term,kanat,wing
-dispersal_term,kanatlar,wing
-dispersal_term,kanatlı,winged
-dispersal_term,kanatlı meyve,winged fruit
-dispersal_term,kanatlı meyveler,winged fruit
-dispersal_term,kanatlı tohum,winged seed
-dispersal_term,kanatlı tohumlar,winged seed
-dispersal_term,aristalar,awn
-dispersal_term,aristalı,awned
-dispersal_term,koma,coma
-dispersal_term,komalar,coma
-dispersal_term,komoz,comose
-dispersal_term,plumoz,plumose
-dispersal_term,pappoz,pappose
-dispersal_term,pappuslar,pappus
-dispersal_term,plümlü,plumed
-dispersal_term,tohum kılı,seed hairs
-dispersal_term,tohum kılları,seed hairs
-dispersal_term,ipeksi kıl,silky hairs
-dispersal_term,ipeksi kıllar,silky hairs
-dispersal_term,kıl demeti,tuft of hairs
-dispersal_term,kıl demetleri,tuft of hairs
-dispersal_term,aril,aril
-dispersal_term,ariller,aril
-dispersal_term,arilli,arillate
-dispersal_term,arilli tohum,arillate seed
-dispersal_term,arilli tohumlar,arillate seed
-dispersal_term,arillod,arillode
-dispersal_term,arillodlar,arillode
-dispersal_term,yenilebilir pulpa,edible pulp
-dispersal_term,yenilebilir pulpalar,edible pulp
-dispersal_term,etli,fleshy
-dispersal_term,etli meyve,fleshy fruit
-dispersal_term,etli meyveler,fleshy fruit
-dispersal_term,etli mezokarp,fleshy mesocarp
-dispersal_term,etli mezokarplar,fleshy mesocarp
-dispersal_term,etli perikarp,fleshy pericarp
-dispersal_term,etli perikarplar,fleshy pericarp
-dispersal_term,etli tohum kabuğu,fleshy seed coat
-dispersal_term,etli tohum kabukları,fleshy seed coat
-dispersal_term,etli testa,fleshy testa
-dispersal_term,etli testalar,fleshy testa
-dispersal_term,sulu,juicy
-dispersal_term,sulu meyve,juicy fruit
-dispersal_term,sulu meyveler,juicy fruit
-dispersal_term,pulplu,pulpy
-dispersal_term,pulplu meyve,pulpy fruit
-dispersal_term,pulplu meyveler,pulpy fruit
-dispersal_term,sarkotesta,sarcotesta
-dispersal_term,sarkotestalar,sarcotesta
-dispersal_term,aril içinde tohum,seed enclosed in aril
-dispersal_term,aril içinde tohumlar,seed enclosed in aril
-dispersal_term,sukulent,succulent
-dispersal_term,sukulentler,succulent
-dispersal_term,sukulent meyve,succulent fruit
-dispersal_term,sukulent meyveler,succulent fruit
-dispersal_term,tatlı pulpa,sweet pulp
-dispersal_term,tatlı pulpalar,sweet pulp
-dispersal_term,barbalı,barbed
-dispersal_term,barbalar,barbs
-dispersal_term,pıtrak,burrs
-dispersal_term,pıtraklar,burrs
-dispersal_term,pıtraklı,burr-like
-dispersal_term,yapışıcı,clinging
-dispersal_term,yapışıcılar,clinging
-dispersal_term,glokid,glochidia
-dispersal_term,glokidler,glochidia
-dispersal_term,kancalı,hooked
-dispersal_term,kanca,hooks
-dispersal_term,kancalar,hooks
-dispersal_term,diken,spines
-dispersal_term,dikenler,spines
-dispersal_term,dikenli,spiny
-dispersal_term,müsilaj,mucilage
-dispersal_term,müsilajlar,mucilage
-dispersal_term,müsilajlı,mucilaginous
-dispersal_term,reçineli,resinous
-dispersal_term,yapışkan,sticky
-dispersal_term,yapışkanlar,sticky
-dispersal_term,yapışkan tohum,sticky seed
-dispersal_term,yapışkan tohumlar,sticky seed
-dispersal_term,viskoz,viscid
-dispersal_term,viskozlar,viscid
-dispersal_term,mirmekoşor,ant-dispersed
-dispersal_term,mirmekoşorlar,ant-dispersed
-dispersal_term,karunkül,caruncle
-dispersal_term,karunküller,caruncle
-dispersal_term,karunküllü,carunculate
-dispersal_term,elayozom,elaiosome
-dispersal_term,elayozomlar,elaiosome
-dispersal_term,mirmekoşori,myrmecochory
-dispersal_term,mirmekoşoriler,myrmecochory
-dispersal_term,hava odacığı,air chambers
-dispersal_term,hava odacıkları,air chambers
-dispersal_term,hava dolu,air-filled
-dispersal_term,veziküler,bladdery
-dispersal_term,yüzer,floats
-dispersal_term,yüzen,floats
-dispersal_term,yüzer perikarp,buoyant pericarp
-dispersal_term,yüzer perikarplar,buoyant pericarp
-dispersal_term,mantarımsı,corky
-dispersal_term,lifli perikarp,fibrous pericarp
-dispersal_term,lifli perikarplar,fibrous pericarp
-dispersal_term,yüzmek,float
-dispersal_term,yüzerek,float
-dispersal_term,şişkin meyve,inflated fruit
-dispersal_term,şişkin meyveler,inflated fruit
-dispersal_term,süngersi,spongy
-dispersal_term,balistik,ballistic
-dispersal_term,balistikler,ballistic
-dispersal_term,katapult,catapult
-dispersal_term,katapultlar,catapult
-dispersal_term,elastik dehisent,elastically dehiscent
-dispersal_term,elastik dehisentler,elastically dehiscent
-dispersal_term,eksploziv,explosive
-dispersal_term,eksplozivler,explosive
-dispersal_term,eksploziv dehissens,explosive dehiscence
-dispersal_term,eksploziv dehissensler,explosive dehiscence
-dispersal_term,şiddetli dehisent,forcefully dehiscent
-dispersal_term,şiddetli dehisentler,forcefully dehiscent
-dispersal_term,tohum fırlatma,seed ejection
-dispersal_term,tohum fırlatmalar,seed ejection
-dispersal_term,palamut,acorn
-dispersal_term,palamutlar,acorn
-dispersal_term,sert tohum kabuğu,hard seed coat
-dispersal_term,sert tohum kabukları,hard seed coat
-dispersal_term,kalın duvarlı meyve,thick-walled fruit
-dispersal_term,kalın duvarlı meyveler,thick-walled fruit
+label,pattern,replace,language
+dispersal_term,alate,alate,english
+dispersal_term,wing,wing,english
+dispersal_term,wings,wing,english
+dispersal_term,winged,winged,english
+dispersal_term,winged fruit,winged fruit,english
+dispersal_term,winged fruits,winged fruit,english
+dispersal_term,winged seed,winged seed,english
+dispersal_term,winged seeds,winged seed,english
+dispersal_term,awn,awn,english
+dispersal_term,awns,awn,english
+dispersal_term,awned,awned,english
+dispersal_term,coma,coma,english
+dispersal_term,comas,coma,english
+dispersal_term,comose,comose,english
+dispersal_term,feathery,feathery,english
+dispersal_term,pappose,pappose,english
+dispersal_term,pappus,pappus,english
+dispersal_term,pappi,pappus,english
+dispersal_term,plumed,plumed,english
+dispersal_term,plumose,plumose,english
+dispersal_term,seed hairs,seed hairs,english
+dispersal_term,seed hair,seed hairs,english
+dispersal_term,silky hairs,silky hairs,english
+dispersal_term,silky hair,silky hairs,english
+dispersal_term,tuft of hairs,tuft of hairs,english
+dispersal_term,tuft of hair,tuft of hairs,english
+dispersal_term,aril,aril,english
+dispersal_term,arils,aril,english
+dispersal_term,arillate,arillate,english
+dispersal_term,arillate seed,arillate seed,english
+dispersal_term,arillate seeds,arillate seed,english
+dispersal_term,arillode,arillode,english
+dispersal_term,arillodes,arillode,english
+dispersal_term,edible pulp,edible pulp,english
+dispersal_term,fleshy,fleshy,english
+dispersal_term,fleshy fruit,fleshy fruit,english
+dispersal_term,fleshy fruits,fleshy fruit,english
+dispersal_term,fleshy mesocarp,fleshy mesocarp,english
+dispersal_term,fleshy mesocarps,fleshy mesocarp,english
+dispersal_term,fleshy pericarp,fleshy pericarp,english
+dispersal_term,fleshy pericarps,fleshy pericarp,english
+dispersal_term,fleshy seed coat,fleshy seed coat,english
+dispersal_term,fleshy seed coats,fleshy seed coat,english
+dispersal_term,fleshy testa,fleshy testa,english
+dispersal_term,fleshy testas,fleshy testa,english
+dispersal_term,juicy,juicy,english
+dispersal_term,juicy fruit,juicy fruit,english
+dispersal_term,juicy fruits,juicy fruit,english
+dispersal_term,pulpy,pulpy,english
+dispersal_term,pulpy fruit,pulpy fruit,english
+dispersal_term,pulpy fruits,pulpy fruit,english
+dispersal_term,sarcotesta,sarcotesta,english
+dispersal_term,sarcotestas,sarcotesta,english
+dispersal_term,seed enclosed in aril,seed enclosed in aril,english
+dispersal_term,seeds enclosed in aril,seed enclosed in aril,english
+dispersal_term,succulent,succulent,english
+dispersal_term,succulent fruit,succulent fruit,english
+dispersal_term,succulent fruits,succulent fruit,english
+dispersal_term,sweet pulp,sweet pulp,english
+dispersal_term,barbed,barbed,english
+dispersal_term,barbs,barbs,english
+dispersal_term,barb,barbs,english
+dispersal_term,burr,burr,english
+dispersal_term,burrs,burr,english
+dispersal_term,burr-like,burr-like,english
+dispersal_term,clinging,clinging,english
+dispersal_term,glochid,glochid,english
+dispersal_term,glochidia,glochidia,english
+dispersal_term,hooked,hooked,english
+dispersal_term,hooks,hooks,english
+dispersal_term,hook,hooks,english
+dispersal_term,retrorse,retrorse,english
+dispersal_term,spines,spines,english
+dispersal_term,spine,spines,english
+dispersal_term,spiny,spiny,english
+dispersal_term,uncinate,uncinate,english
+dispersal_term,adhesive,adhesive,english
+dispersal_term,glutinous,glutinous,english
+dispersal_term,gummy,gummy,english
+dispersal_term,mucilage,mucilage,english
+dispersal_term,mucilaginous,mucilaginous,english
+dispersal_term,resinous,resinous,english
+dispersal_term,sticky,sticky,english
+dispersal_term,sticky seed,sticky seed,english
+dispersal_term,sticky seeds,sticky seed,english
+dispersal_term,viscid,viscid,english
+dispersal_term,viscid seed,viscid seed,english
+dispersal_term,viscid seeds,viscid seed,english
+dispersal_term,ant-dispersed,ant-dispersed,english
+dispersal_term,caruncle,caruncle,english
+dispersal_term,caruncles,caruncle,english
+dispersal_term,carunculate,carunculate,english
+dispersal_term,elaiosome,elaiosome,english
+dispersal_term,elaiosomes,elaiosome,english
+dispersal_term,myrmecochory,myrmecochory,english
+dispersal_term,air chambers,air chambers,english
+dispersal_term,air chamber,air chambers,english
+dispersal_term,air-filled,air-filled,english
+dispersal_term,bladdery,bladdery,english
+dispersal_term,buoyant,buoyant,english
+dispersal_term,buoyant pericarp,buoyant pericarp,english
+dispersal_term,buoyant pericarps,buoyant pericarp,english
+dispersal_term,corky,corky,english
+dispersal_term,fibrous pericarp,fibrous pericarp,english
+dispersal_term,fibrous pericarps,fibrous pericarp,english
+dispersal_term,float,float,english
+dispersal_term,floats,float,english
+dispersal_term,floating,floating,english
+dispersal_term,inflated fruit,inflated fruit,english
+dispersal_term,inflated fruits,inflated fruit,english
+dispersal_term,spongy,spongy,english
+dispersal_term,ballistic,ballistic,english
+dispersal_term,catapult,catapult,english
+dispersal_term,elastically dehiscent,elastically dehiscent,english
+dispersal_term,explosive,explosive,english
+dispersal_term,explosive dehiscence,explosive dehiscence,english
+dispersal_term,forcefully dehiscent,forcefully dehiscent,english
+dispersal_term,seed ejection,seed ejection,english
+dispersal_term,seeds ejected,seed ejection,english
+dispersal_term,acorn,acorn,english
+dispersal_term,acorns,acorn,english
+dispersal_term,coriaceous testa,coriaceous testa,english
+dispersal_term,fibrous endocarp,fibrous endocarp,english
+dispersal_term,fibrous endocarps,fibrous endocarp,english
+dispersal_term,hard seed coat,hard seed coat,english
+dispersal_term,hard seed coats,hard seed coat,english
+dispersal_term,hard testa,hard testa,english
+dispersal_term,hard testas,hard testa,english
+dispersal_term,leathery pericarp,leathery pericarp,english
+dispersal_term,leathery pericarps,leathery pericarp,english
+dispersal_term,lignified endocarp,lignified endocarp,english
+dispersal_term,lignified endocarps,lignified endocarp,english
+dispersal_term,sclerified pericarp,sclerified pericarp,english
+dispersal_term,sclerified pericarps,sclerified pericarp,english
+dispersal_term,shell-like,shell-like,english
+dispersal_term,stone,stone,english
+dispersal_term,stones,stone,english
+dispersal_term,stony endocarp,stony endocarp,english
+dispersal_term,stony endocarps,stony endocarp,english
+dispersal_term,thick seed coat,thick seed coat,english
+dispersal_term,thick seed coats,thick seed coat,english
+dispersal_term,thick testa,thick testa,english
+dispersal_term,thick testas,thick testa,english
+dispersal_term,thick-walled fruit,thick-walled fruit,english
+dispersal_term,thick-walled fruits,thick-walled fruit,english
+dispersal_term,woody endocarp,woody endocarp,english
+dispersal_term,woody endocarps,woody endocarp,english
+dispersal_term,accessory fruit,accessory fruit,english
+dispersal_term,accessory fruits,accessory fruit,english
+dispersal_term,aggregate fruit,aggregate fruit,english
+dispersal_term,aggregate fruits,aggregate fruit,english
+dispersal_term,compound fruit,compound fruit,english
+dispersal_term,compound fruits,compound fruit,english
+dispersal_term,multiple fruit,multiple fruit,english
+dispersal_term,multiple fruits,multiple fruit,english
+
+dispersal_term,akène ailé,winged achene,french
+dispersal_term,akènes ailés,winged achene,french
+dispersal_term,akène,achene,french
+dispersal_term,akènes,achene,french
+dispersal_term,cypsèle,cypsela,french
+dispersal_term,cypsèles,cypsela,french
+dispersal_term,anthocarpe,anthocarp,french
+dispersal_term,anthocarpes,anthocarp,french
+dispersal_term,amphis arques,amphisarca,french
+dispersal_term,amphisarque,amphisarca,french
+dispersal_term,arillocarpe,arillocarpium,french
+dispersal_term,arillocarpes,arillocarpium,french
+dispersal_term,balauste,balausta,french
+dispersal_term,balaustes,balausta,french
+dispersal_term,baie,berry,french
+dispersal_term,baies,berry,french
+dispersal_term,cactidium,cactidium,french
+dispersal_term,cactidiums,cactidium,french
+dispersal_term,épispermatium,epispermatium,french
+dispersal_term,épispermatiums,epispermatium,french
+dispersal_term,baie charnue,fleshy berry,french
+dispersal_term,baies charnues,fleshy berry,french
+dispersal_term,hespéride,hesperidium,french
+dispersal_term,hespérides,hesperidium,french
+dispersal_term,baie pulpeuse,pulpy berry,french
+dispersal_term,baies pulpeuses,pulpy berry,french
+dispersal_term,syncarpe,syncarp,french
+dispersal_term,syncarpes,syncarp,french
+dispersal_term,capsule,capsule,french
+dispersal_term,capsules,capsule,french
+dispersal_term,circumscissile,circumscissile,french
+dispersal_term,circumscissiles,circumscissile,french
+dispersal_term,capsule circumscissile,circumscissile capsule,french
+dispersal_term,capsules circumscissiles,circumscissile capsule,french
+dispersal_term,loculicide,loculicidal,french
+dispersal_term,loculicides,loculicidal,french
+dispersal_term,capsule loculicide,loculicidal capsule,french
+dispersal_term,capsules loculicides,loculicidal capsule,french
+dispersal_term,poricide,poricidal,french
+dispersal_term,poricides,poricidal,french
+dispersal_term,capsule poricide,poricidal capsule,french
+dispersal_term,capsules poricides,poricidal capsule,french
+dispersal_term,pyxide,pyxis,french
+dispersal_term,pyxides,pyxis,french
+dispersal_term,septicide,septicidal,french
+dispersal_term,septicides,septicidal,french
+dispersal_term,capsule septicide,septicidal capsule,french
+dispersal_term,capsules septicides,septicidal capsule,french
+dispersal_term,silicule,silicle,french
+dispersal_term,silicules,silicle,french
+dispersal_term,silique,silique,french
+dispersal_term,siliques,silique,french
+dispersal_term,caryopse,grain,french
+dispersal_term,caryopses,grain,french
+dispersal_term,drupe agrégée,aggregate drupe,french
+dispersal_term,drupes agrégées,aggregate drupe,french
+dispersal_term,drupe composée,compound drupe,french
+dispersal_term,drupes composées,compound drupe,french
+dispersal_term,drupe,drupe,french
+dispersal_term,drupes,drupe,french
+dispersal_term,drupéole,drupelet,french
+dispersal_term,drupéoles,drupelet,french
+dispersal_term,drupéta,drupetum,french
+dispersal_term,drupétum,drupetum,french
+dispersal_term,pseudodrupe,pseudodrupe,french
+dispersal_term,pseudodrupes,pseudodrupe,french
+dispersal_term,fruit drupacé,stone fruit,french
+dispersal_term,fruits drupacés,stone fruit,french
+dispersal_term,follicule,follicle,french
+dispersal_term,follicules,follicle,french
+dispersal_term,cône,cone,french
+dispersal_term,cônes,cone,french
+dispersal_term,mégastrobile,megastrobilus,french
+dispersal_term,mégastrobiles,megastrobilus,french
+dispersal_term,microstrobile,microstrobilus,french
+dispersal_term,microstrobiles,microstrobilus,french
+dispersal_term,cône ovulifère,ovulate cone,french
+dispersal_term,cônes ovulifères,ovulate cone,french
+dispersal_term,cône pollinifère,pollen cone,french
+dispersal_term,cônes pollinifères,pollen cone,french
+dispersal_term,cône séminifère,seed cone,french
+dispersal_term,cônes séminifères,seed cone,french
+dispersal_term,strobile,strobilus,french
+dispersal_term,strobiles,strobilus,french
+dispersal_term,cône bacciforme,berry-like cone,french
+dispersal_term,cônes bacciformes,berry-like cone,french
+dispersal_term,galbule,galbulus,french
+dispersal_term,galbules,galbulus,french
+dispersal_term,loment,loment,french
+dispersal_term,loments,loment,french
+dispersal_term,gousse,pod,french
+dispersal_term,gousses,pod,french
+dispersal_term,noix ailée,winged nut,french
+dispersal_term,noix ailées,winged nut,french
+dispersal_term,noix,nut,french
+dispersal_term,nucule,nutlet,french
+dispersal_term,nucules,nutlet,french
+dispersal_term,nuculanium,nuculanium,french
+dispersal_term,nuculaniums,nuculanium,french
+dispersal_term,pomme,pome,french
+dispersal_term,pommes,pome,french
+dispersal_term,samare,samaras,french
+dispersal_term,samares,samaras,french
+dispersal_term,samaroïde,samaroid,french
+dispersal_term,samaroïdes,samaroid,french
+dispersal_term,samare ailée,winged samara,french
+dispersal_term,samares ailées,winged samara,french
+dispersal_term,camara,camara,french
+dispersal_term,camaras,camara,french
+dispersal_term,carcérule,carcerulus,french
+dispersal_term,carcérules,carcerulus,french
+dispersal_term,cocci,coccus,french
+dispersal_term,coccus,coccus,french
+dispersal_term,crémocarpe,cremocarp,french
+dispersal_term,crémocarpes,cremocarp,french
+dispersal_term,méricarpe,mericarp,french
+dispersal_term,méricarpes,mericarp,french
+dispersal_term,schizocarpe,schizocarp,french
+dispersal_term,schizocarpes,schizocarp,french
+dispersal_term,sycone,syconium,french
+dispersal_term,sycones,syconium,french
+dispersal_term,utricule,utricle,french
+dispersal_term,utricules,utricle,french
+dispersal_term,aile,wing,french
+dispersal_term,ailes,wing,french
+dispersal_term,ailé,winged,french
+dispersal_term,ailée,winged,french
+dispersal_term,ailées,winged,french
+dispersal_term,ailés,winged,french
+dispersal_term,fruit ailé,winged fruit,french
+dispersal_term,fruits ailés,winged fruit,french
+dispersal_term,graine ailée,winged seed,french
+dispersal_term,graines ailées,winged seed,french
+dispersal_term,arête,awn,french
+dispersal_term,arêtes,awn,french
+dispersal_term,arêté,awned,french
+dispersal_term,arêtée,awned,french
+dispersal_term,arêtées,awned,french
+dispersal_term,arêtés,awned,french
+dispersal_term,comose,comose,french
+dispersal_term,comoses,comose,french
+dispersal_term,pappifère,pappose,french
+dispersal_term,pappifères,pappose,french
+dispersal_term,pappus,pappus,french
+dispersal_term,plumé,plumed,french
+dispersal_term,plumée,plumed,french
+dispersal_term,plumées,plumed,french
+dispersal_term,plumés,plumed,french
+dispersal_term,plumeuse,plumose,french
+dispersal_term,plumeuses,plumose,french
+dispersal_term,plumeux,plumose,french
+dispersal_term,poil séminal,seed hairs,french
+dispersal_term,poils séminaux,seed hairs,french
+dispersal_term,poil soyeux,silky hairs,french
+dispersal_term,poils soyeux,silky hairs,french
+dispersal_term,touffe de poils,tuft of hairs,french
+dispersal_term,touffes de poils,tuft of hairs,french
+dispersal_term,arille,aril,french
+dispersal_term,arilles,aril,french
+dispersal_term,arillé,arillate,french
+dispersal_term,arillée,arillate,french
+dispersal_term,arillées,arillate,french
+dispersal_term,arillés,arillate,french
+dispersal_term,graine arillée,arillate seed,french
+dispersal_term,graines arillées,arillate seed,french
+dispersal_term,arilloïde,arillode,french
+dispersal_term,arilloïdes,arillode,french
+dispersal_term,pulpe comestible,edible pulp,french
+dispersal_term,pulpes comestibles,edible pulp,french
+dispersal_term,charnu,fleshy,french
+dispersal_term,charnue,fleshy,french
+dispersal_term,charnues,fleshy,french
+dispersal_term,charnus,fleshy,french
+dispersal_term,fruit charnu,fleshy fruit,french
+dispersal_term,fruits charnus,fleshy fruit,french
+dispersal_term,mésocarpe charnu,fleshy mesocarp,french
+dispersal_term,mésocarpes charnus,fleshy mesocarp,french
+dispersal_term,péricarpe charnu,fleshy pericarp,french
+dispersal_term,péricarpes charnus,fleshy pericarp,french
+dispersal_term,tégument séminal charnu,fleshy seed coat,french
+dispersal_term,téguments séminaux charnus,fleshy seed coat,french
+dispersal_term,testa charnue,fleshy testa,french
+dispersal_term,testas charnues,fleshy testa,french
+dispersal_term,juteuse,juicy,french
+dispersal_term,juteuses,juicy,french
+dispersal_term,juteux,juicy,french
+dispersal_term,fruit juteux,juicy fruit,french
+dispersal_term,fruits juteux,juicy fruit,french
+dispersal_term,pulpeuse,pulpy,french
+dispersal_term,pulpeuses,pulpy,french
+dispersal_term,pulpeux,pulpy,french
+dispersal_term,fruit pulpeux,pulpy fruit,french
+dispersal_term,fruits pulpeux,pulpy fruit,french
+dispersal_term,graine incluse dans l’arille,seed enclosed in aril,french
+dispersal_term,graines incluses dans l’arille,seed enclosed in aril,french
+dispersal_term,succulent,succulent,french
+dispersal_term,succulente,succulent,french
+dispersal_term,succulentes,succulent,french
+dispersal_term,succulents,succulent,french
+dispersal_term,fruit succulent,succulent fruit,french
+dispersal_term,fruits succulents,succulent fruit,french
+dispersal_term,pulpe sucrée,sweet pulp,french
+dispersal_term,pulpes sucrées,sweet pulp,french
+dispersal_term,barbé,barbed,french
+dispersal_term,barbée,barbed,french
+dispersal_term,barbées,barbed,french
+dispersal_term,barbés,barbed,french
+dispersal_term,barbe,barbs,french
+dispersal_term,barbes,barbs,french
+dispersal_term,adhérent,clinging,french
+dispersal_term,adhérente,clinging,french
+dispersal_term,adhérentes,clinging,french
+dispersal_term,adhérents,clinging,french
+dispersal_term,glochide,glochidia,french
+dispersal_term,glochides,glochidia,french
+dispersal_term,crochu,hooked,french
+dispersal_term,crochue,hooked,french
+dispersal_term,crochues,hooked,french
+dispersal_term,crochus,hooked,french
+dispersal_term,crochet,hooks,french
+dispersal_term,crochets,hooks,french
+dispersal_term,rétrose,retrorse,french
+dispersal_term,rétroses,retrorse,french
+dispersal_term,épine,spines,french
+dispersal_term,épines,spines,french
+dispersal_term,épineuse,spiny,french
+dispersal_term,épineuses,spiny,french
+dispersal_term,épineux,spiny,french
+dispersal_term,unciné,uncinate,french
+dispersal_term,uncinée,uncinate,french
+dispersal_term,uncinées,uncinate,french
+dispersal_term,uncinés,uncinate,french
+dispersal_term,adhésif,adhesive,french
+dispersal_term,adhésifs,adhesive,french
+dispersal_term,adhésive,adhesive,french
+dispersal_term,adhésives,adhesive,french
+dispersal_term,glutineuse,glutinous,french
+dispersal_term,glutineuses,glutinous,french
+dispersal_term,glutineux,glutinous,french
+dispersal_term,gommeuse,gummy,french
+dispersal_term,gommeuses,gummy,french
+dispersal_term,gommeux,gummy,french
+dispersal_term,mucilage,mucilage,french
+dispersal_term,mucilages,mucilage,french
+dispersal_term,mucilagineuse,mucilaginous,french
+dispersal_term,mucilagineuses,mucilaginous,french
+dispersal_term,mucilagineux,mucilaginous,french
+dispersal_term,collant,sticky,french
+dispersal_term,collante,sticky,french
+dispersal_term,collantes,sticky,french
+dispersal_term,collants,sticky,french
+dispersal_term,graine collante,sticky seed,french
+dispersal_term,graines collantes,sticky seed,french
+dispersal_term,visqueuse,viscid,french
+dispersal_term,visqueuses,viscid,french
+dispersal_term,visqueux,viscid,french
+dispersal_term,graine visqueuse,viscid seed,french
+dispersal_term,graines visqueuses,viscid seed,french
+dispersal_term,myrmécochore,ant-dispersed,french
+dispersal_term,myrmécochores,ant-dispersed,french
+dispersal_term,caroncule,caruncle,french
+dispersal_term,caroncules,caruncle,french
+dispersal_term,caronculé,carunculate,french
+dispersal_term,caronculée,carunculate,french
+dispersal_term,caronculées,carunculate,french
+dispersal_term,caronculés,carunculate,french
+dispersal_term,élaiosome,elaiosome,french
+dispersal_term,élaiosomes,elaiosome,french
+dispersal_term,myrmécochorie,myrmecochory,french
+dispersal_term,myrmécochories,myrmecochory,french
+dispersal_term,chambre aérifère,air chambers,french
+dispersal_term,chambres aérifères,air chambers,french
+dispersal_term,aérifère,air-filled,french
+dispersal_term,aérifères,air-filled,french
+dispersal_term,vésiculeuse,bladdery,french
+dispersal_term,vésiculeuses,bladdery,french
+dispersal_term,vésiculeux,bladdery,french
+dispersal_term,péricarpe flottant,buoyant pericarp,french
+dispersal_term,péricarpes flottants,buoyant pericarp,french
+dispersal_term,subéreuse,corky,french
+dispersal_term,subéreuses,corky,french
+dispersal_term,subéreux,corky,french
+dispersal_term,péricarpe fibreux,fibrous pericarp,french
+dispersal_term,péricarpes fibreux,fibrous pericarp,french
+dispersal_term,flottant,float,french
+dispersal_term,flotter,float,french
+dispersal_term,flottant,floating,french
+dispersal_term,flottante,floating,french
+dispersal_term,flottantes,floating,french
+dispersal_term,flottants,floating,french
+dispersal_term,flotte,floats,french
+dispersal_term,flottent,floats,french
+dispersal_term,fruit gonflé,inflated fruit,french
+dispersal_term,fruits gonflés,inflated fruit,french
+dispersal_term,spongieuse,spongy,french
+dispersal_term,spongieuses,spongy,french
+dispersal_term,spongieux,spongy,french
+dispersal_term,balistique,ballistic,french
+dispersal_term,balistiques,ballistic,french
+dispersal_term,catapulte,catapult,french
+dispersal_term,catapultes,catapult,french
+dispersal_term,déhiscent élastiquement,elastically dehiscent,french
+dispersal_term,déhiscents élastiquement,elastically dehiscent,french
+dispersal_term,explosif,explosive,french
+dispersal_term,explosifs,explosive,french
+dispersal_term,explosive,explosive,french
+dispersal_term,explosives,explosive,french
+dispersal_term,déhiscence explosive,explosive dehiscence,french
+dispersal_term,déhiscences explosives,explosive dehiscence,french
+dispersal_term,déhiscent violemment,forcefully dehiscent,french
+dispersal_term,déhiscents violemment,forcefully dehiscent,french
+dispersal_term,éjection des graines,seed ejection,french
+dispersal_term,éjections des graines,seed ejection,french
+dispersal_term,graine éjectée,seeds ejected,french
+dispersal_term,graines éjectées,seeds ejected,french
+dispersal_term,gland,acorn,french
+dispersal_term,glands,acorn,french
+dispersal_term,testa coriace,coriaceous testa,french
+dispersal_term,testas coriaces,coriaceous testa,french
+dispersal_term,endocarpe fibreux,fibrous endocarp,french
+dispersal_term,endocarpes fibreux,fibrous endocarp,french
+dispersal_term,tégument séminal dur,hard seed coat,french
+dispersal_term,téguments séminaux durs,hard seed coat,french
+dispersal_term,testa dure,hard testa,french
+dispersal_term,testas dures,hard testa,french
+dispersal_term,péricarpe coriace,leathery pericarp,french
+dispersal_term,péricarpes coriaces,leathery pericarp,french
+dispersal_term,endocarpe lignifié,lignified endocarp,french
+dispersal_term,endocarpes lignifiés,lignified endocarp,french
+dispersal_term,péricarpe sclérifié,sclerified pericarp,french
+dispersal_term,péricarpes sclérifiés,sclerified pericarp,french
+dispersal_term,noyau,stone,french
+dispersal_term,noyaux,stone,french
+dispersal_term,endocarpe pierreux,stony endocarp,french
+dispersal_term,endocarpes pierreux,stony endocarp,french
+dispersal_term,tégument séminal épais,thick seed coat,french
+dispersal_term,téguments séminaux épais,thick seed coat,french
+dispersal_term,testa épaisse,thick testa,french
+dispersal_term,testas épaisses,thick testa,french
+dispersal_term,fruit à paroi épaisse,thick-walled fruit,french
+dispersal_term,fruits à paroi épaisse,thick-walled fruit,french
+dispersal_term,endocarpe ligneux,woody endocarp,french
+dispersal_term,endocarpes ligneux,woody endocarp,french
+dispersal_term,fruit accessoire,accessory fruit,french
+dispersal_term,fruits accessoires,accessory fruit,french
+dispersal_term,fruit agrégé,aggregate fruit,french
+dispersal_term,fruits agrégés,aggregate fruit,french
+dispersal_term,fruit composé,compound fruit,french
+dispersal_term,fruits composés,compound fruit,french
+dispersal_term,fruit multiple,multiple fruit,french
+dispersal_term,fruits multiples,multiple fruit,french
+dispersal_term,geflügelte Achäne,winged achene,german
+dispersal_term,geflügelte Achänen,winged achene,german
+dispersal_term,Achäne,achene,german
+dispersal_term,Achänen,achene,german
+dispersal_term,Zypsele,cypsela,german
+dispersal_term,Zypselen,cypsela,german
+dispersal_term,Anthokarp,anthocarp,german
+dispersal_term,Anthokarpe,anthocarp,german
+dispersal_term,Amphisarc(en),amphisarca,german
+dispersal_term,Amphisarca,amphisarca,german
+dispersal_term,Arillocarpien,arillocarpium,german
+dispersal_term,Arillocarpium,arillocarpium,german
+dispersal_term,Balausta,balausta,german
+dispersal_term,Balausten,balausta,german
+dispersal_term,Beere,berry,german
+dispersal_term,Beeren,berry,german
+dispersal_term,Cactidien,cactidium,german
+dispersal_term,Cactidium,cactidium,german
+dispersal_term,Epispermatien,epispermatium,german
+dispersal_term,Epispermatium,epispermatium,german
+dispersal_term,fleischige Beere,fleshy berry,german
+dispersal_term,fleischige Beeren,fleshy berry,german
+dispersal_term,Hesperidie,hesperidium,german
+dispersal_term,Hesperidien,hesperidium,german
+dispersal_term,Pepo,pepo,german
+dispersal_term,Pepos,pepo,german
+dispersal_term,pulpose Beere,pulpy berry,german
+dispersal_term,pulpose Beeren,pulpy berry,german
+dispersal_term,Syncarp,syncarp,german
+dispersal_term,Syncarpe,syncarp,german
+dispersal_term,Kapsel,capsule,german
+dispersal_term,Kapseln,capsule,german
+dispersal_term,zirkumzissil,circumscissile,german
+dispersal_term,zirkumzissile,circumscissile,german
+dispersal_term,zirkumzissile Kapsel,circumscissile capsule,german
+dispersal_term,zirkumzissile Kapseln,circumscissile capsule,german
+dispersal_term,lokulizid,loculicidal,german
+dispersal_term,lokulizide,loculicidal,german
+dispersal_term,lokulizide Kapsel,loculicidal capsule,german
+dispersal_term,lokulizide Kapseln,loculicidal capsule,german
+dispersal_term,porizid,poricidal,german
+dispersal_term,porizide,poricidal,german
+dispersal_term,porizide Kapsel,poricidal capsule,german
+dispersal_term,porizide Kapseln,poricidal capsule,german
+dispersal_term,Pyxiden,pyxis,german
+dispersal_term,Pyxis,pyxis,german
+dispersal_term,septizid,septicidal,german
+dispersal_term,septizide,septicidal,german
+dispersal_term,septizide Kapsel,septicidal capsule,german
+dispersal_term,septizide Kapseln,septicidal capsule,german
+dispersal_term,Schote,silique,german
+dispersal_term,Schoten,silique,german
+dispersal_term,Karyopse,grain,german
+dispersal_term,Karyopsen,grain,german
+dispersal_term,aggregierte Steinfrucht,aggregate drupe,german
+dispersal_term,aggregierte Steinfrüchte,aggregate drupe,german
+dispersal_term,zusammengesetzte Steinfrucht,compound drupe,german
+dispersal_term,zusammengesetzte Steinfrüchte,compound drupe,german
+dispersal_term,Steinfrüchtchen,drupelet,german
+dispersal_term,Drupeta,drupetum,german
+dispersal_term,Drupetum,drupetum,german
+dispersal_term,Pseudosteinfrucht,pseudodrupe,german
+dispersal_term,Pseudosteinfrüchte,pseudodrupe,german
+dispersal_term,Steinfrucht,stone fruit,german
+dispersal_term,Steinfrüchte,stone fruit,german
+dispersal_term,Balgfrucht,follicle,german
+dispersal_term,Balgfrüchte,follicle,german
+dispersal_term,Megastrobili,megastrobilus,german
+dispersal_term,Megastrobilus,megastrobilus,german
+dispersal_term,Mikrostrobili,microstrobilus,german
+dispersal_term,Mikrostrobilus,microstrobilus,german
+dispersal_term,Strobili,strobilus,german
+dispersal_term,Strobilus,strobilus,german
+dispersal_term,beerenartige Zapfen,berry-like cone,german
+dispersal_term,beerenartiger Zapfen,berry-like cone,german
+dispersal_term,Galbuli,galbulus,german
+dispersal_term,Galbulus,galbulus,german
+dispersal_term,Loment,loment,german
+dispersal_term,Lomente,loment,german
+dispersal_term,Hülse,pod,german
+dispersal_term,Hülsen,pod,german
+dispersal_term,geflügelte Nuss,winged nut,german
+dispersal_term,geflügelte Nüsse,winged nut,german
+dispersal_term,Nuss,nut,german
+dispersal_term,Nüsse,nut,german
+dispersal_term,Nuculanien,nuculanium,german
+dispersal_term,Nuculanium,nuculanium,german
+dispersal_term,Kernfrucht,pome,german
+dispersal_term,Kernfrüchte,pome,german
+dispersal_term,Samara,samaras,german
+dispersal_term,Samaras,samaras,german
+dispersal_term,samaroid,samaroid,german
+dispersal_term,geflügelte Samara,winged samara,german
+dispersal_term,geflügelte Samaras,winged samara,german
+dispersal_term,Camara,camara,german
+dispersal_term,Camaras,camara,german
+dispersal_term,Carceruli,carcerulus,german
+dispersal_term,Carcerulus,carcerulus,german
+dispersal_term,Cocci,coccus,german
+dispersal_term,Coccus,coccus,german
+dispersal_term,Cremocarp,cremocarp,german
+dispersal_term,Cremocarpe,cremocarp,german
+dispersal_term,Merikarp,mericarp,german
+dispersal_term,Merikarpe,mericarp,german
+dispersal_term,Regma,regma,german
+dispersal_term,Regmen,regma,german
+dispersal_term,Spaltfrucht,schizocarp,german
+dispersal_term,Spaltfrüchte,schizocarp,german
+dispersal_term,Sorosen,sorosis,german
+dispersal_term,Sorosis,sorosis,german
+dispersal_term,Syconien,syconium,german
+dispersal_term,Syconium,syconium,german
+dispersal_term,Utriculi,utricle,german
+dispersal_term,Utriculus,utricle,german
+dispersal_term,Flügel,wing,german
+dispersal_term,geflügelt,winged,german
+dispersal_term,geflügelte,winged,german
+dispersal_term,geflügelten,winged,german
+dispersal_term,geflügelte Frucht,winged fruit,german
+dispersal_term,geflügelte Früchte,winged fruit,german
+dispersal_term,geflügelte Samen,winged seed,german
+dispersal_term,geflügelter Samen,winged seed,german
+dispersal_term,Granne,awn,german
+dispersal_term,Grannen,awn,german
+dispersal_term,gegrannt,awned,german
+dispersal_term,gegrannte,awned,german
+dispersal_term,Koma,coma,german
+dispersal_term,Komas,coma,german
+dispersal_term,komös,comose,german
+dispersal_term,komöse,comose,german
+dispersal_term,pappös,pappose,german
+dispersal_term,pappöse,pappose,german
+dispersal_term,Pappi,pappus,german
+dispersal_term,Pappus,pappus,german
+dispersal_term,gefiedert,plumed,german
+dispersal_term,gefiederte,plumed,german
+dispersal_term,fiederig,plumose,german
+dispersal_term,fiederige,plumose,german
+dispersal_term,Samenschopfhaar,seed hairs,german
+dispersal_term,Samenschopfhaare,seed hairs,german
+dispersal_term,seidige Haare,silky hairs,german
+dispersal_term,seidiges Haar,silky hairs,german
+dispersal_term,Haarbüschel,tuft of hairs,german
+dispersal_term,Arilli,aril,german
+dispersal_term,Arillus,aril,german
+dispersal_term,arilliert,arillate,german
+dispersal_term,arillierte,arillate,german
+dispersal_term,arillierte Samen,arillate seed,german
+dispersal_term,arillierter Samen,arillate seed,german
+dispersal_term,Arillode,arillode,german
+dispersal_term,Arilloden,arillode,german
+dispersal_term,essbare Pulpa,edible pulp,german
+dispersal_term,essbare Pulpas,edible pulp,german
+dispersal_term,fleischig,fleshy,german
+dispersal_term,fleischige,fleshy,german
+dispersal_term,fleischige Frucht,fleshy fruit,german
+dispersal_term,fleischige Früchte,fleshy fruit,german
+dispersal_term,fleischige Mesokarpe,fleshy mesocarp,german
+dispersal_term,fleischiger Mesokarp,fleshy mesocarp,german
+dispersal_term,fleischige Perikarpe,fleshy pericarp,german
+dispersal_term,fleischiger Perikarp,fleshy pericarp,german
+dispersal_term,fleischige Samenschale,fleshy seed coat,german
+dispersal_term,fleischige Samenschalen,fleshy seed coat,german
+dispersal_term,fleischige Testa,fleshy testa,german
+dispersal_term,fleischige Testae,fleshy testa,german
+dispersal_term,saftig,juicy,german
+dispersal_term,saftige,juicy,german
+dispersal_term,saftige Frucht,juicy fruit,german
+dispersal_term,saftige Früchte,juicy fruit,german
+dispersal_term,pulpos,pulpy,german
+dispersal_term,pulpose,pulpy,german
+dispersal_term,pulpose Frucht,pulpy fruit,german
+dispersal_term,pulpose Früchte,pulpy fruit,german
+dispersal_term,Sarcotesta,sarcotesta,german
+dispersal_term,Sarcotestae,sarcotesta,german
+dispersal_term,im Arillus eingeschlossene Samen,seed enclosed in aril,german
+dispersal_term,im Arillus eingeschlossener Samen,seed enclosed in aril,german
+dispersal_term,sukkulent,succulent,german
+dispersal_term,sukkulente,succulent,german
+dispersal_term,sukkulente Frucht,succulent fruit,german
+dispersal_term,sukkulente Früchte,succulent fruit,german
+dispersal_term,süße Pulpa,sweet pulp,german
+dispersal_term,süße Pulpas,sweet pulp,german
+dispersal_term,borstig,barbed,german
+dispersal_term,borstige,barbed,german
+dispersal_term,Barbe,barbs,german
+dispersal_term,Barben,barbs,german
+dispersal_term,klettrig,burr-like,german
+dispersal_term,klettrige,burr-like,german
+dispersal_term,Klette,burrs,german
+dispersal_term,Kletten,burrs,german
+dispersal_term,anhaftend,clinging,german
+dispersal_term,anhaftende,clinging,german
+dispersal_term,Glochide,glochidia,german
+dispersal_term,Glochiden,glochidia,german
+dispersal_term,hakig,hooked,german
+dispersal_term,hakige,hooked,german
+dispersal_term,Haken,hooks,german
+dispersal_term,rückwärtsgerichtet,retrorse,german
+dispersal_term,rückwärtsgerichtete,retrorse,german
+dispersal_term,Stachel,spines,german
+dispersal_term,Stacheln,spines,german
+dispersal_term,stachelig,spiny,german
+dispersal_term,stachelige,spiny,german
+dispersal_term,uncinat,uncinate,german
+dispersal_term,uncinate,uncinate,german
+dispersal_term,adhäsiv,adhesive,german
+dispersal_term,adhäsive,adhesive,german
+dispersal_term,glutinös,glutinous,german
+dispersal_term,glutinöse,glutinous,german
+dispersal_term,gummiartig,gummy,german
+dispersal_term,gummiartige,gummy,german
+dispersal_term,Mucilage,mucilage,german
+dispersal_term,Mucilagen,mucilage,german
+dispersal_term,mucilaginös,mucilaginous,german
+dispersal_term,mucilaginöse,mucilaginous,german
+dispersal_term,harzig,resinous,german
+dispersal_term,harzige,resinous,german
+dispersal_term,klebrig,sticky,german
+dispersal_term,klebrige,sticky,german
+dispersal_term,klebrige Samen,sticky seed,german
+dispersal_term,klebriger Samen,sticky seed,german
+dispersal_term,viskos,viscid,german
+dispersal_term,viskose,viscid,german
+dispersal_term,viskose Samen,viscid seed,german
+dispersal_term,viskoser Samen,viscid seed,german
+dispersal_term,myrmekochor,ant-dispersed,german
+dispersal_term,myrmekochore,ant-dispersed,german
+dispersal_term,Karunkel,caruncle,german
+dispersal_term,Karunkeln,caruncle,german
+dispersal_term,karunkuliert,carunculate,german
+dispersal_term,karunkulierte,carunculate,german
+dispersal_term,Elaiosom,elaiosome,german
+dispersal_term,Elaiosome,elaiosome,german
+dispersal_term,Myrmekochorie,myrmecochory,german
+dispersal_term,Myrmekochorien,myrmecochory,german
+dispersal_term,Luftkammer,air chambers,german
+dispersal_term,Luftkammern,air chambers,german
+dispersal_term,luftgefüllt,air-filled,german
+dispersal_term,luftgefüllte,air-filled,german
+dispersal_term,blasig,bladdery,german
+dispersal_term,blasige,bladdery,german
+dispersal_term,schwimmfähig,buoyant,german
+dispersal_term,schwimmfähige,buoyant,german
+dispersal_term,schwimmfähige Perikarpe,buoyant pericarp,german
+dispersal_term,schwimmfähiger Perikarp,buoyant pericarp,german
+dispersal_term,korkig,corky,german
+dispersal_term,korkige,corky,german
+dispersal_term,faserige Perikarpe,fibrous pericarp,german
+dispersal_term,faseriger Perikarp,fibrous pericarp,german
+dispersal_term,schwimmen,float,german
+dispersal_term,schwimmend,float,german
+dispersal_term,schwimmend,floating,german
+dispersal_term,schwimmende,floating,german
+dispersal_term,schwimmen,floats,german
+dispersal_term,schwimmt,floats,german
+dispersal_term,aufgeblasene Frucht,inflated fruit,german
+dispersal_term,aufgeblasene Früchte,inflated fruit,german
+dispersal_term,schwammig,spongy,german
+dispersal_term,schwammige,spongy,german
+dispersal_term,ballistisch,ballistic,german
+dispersal_term,ballistische,ballistic,german
+dispersal_term,Katapult,catapult,german
+dispersal_term,Katapulte,catapult,german
+dispersal_term,elastisch dehiszent,elastically dehiscent,german
+dispersal_term,elastisch dehiszente,elastically dehiscent,german
+dispersal_term,explosiv,explosive,german
+dispersal_term,explosive Dehiszenz,explosive dehiscence,german
+dispersal_term,explosive Dehiszenzen,explosive dehiscence,german
+dispersal_term,gewaltsam dehiszent,forcefully dehiscent,german
+dispersal_term,gewaltsam dehiszente,forcefully dehiscent,german
+dispersal_term,Samenabschuss,seed ejection,german
+dispersal_term,Samenabschüsse,seed ejection,german
+dispersal_term,Samen abgeschleudert,seeds ejected,german
+dispersal_term,Samen abgeschleuderte,seeds ejected,german
+dispersal_term,Eichel,acorn,german
+dispersal_term,Eicheln,acorn,german
+dispersal_term,lederige Testa,coriaceous testa,german
+dispersal_term,lederige Testae,coriaceous testa,german
+dispersal_term,faserige Endokarpe,fibrous endocarp,german
+dispersal_term,faseriger Endokarp,fibrous endocarp,german
+dispersal_term,harte Samenschale,hard seed coat,german
+dispersal_term,harte Samenschalen,hard seed coat,german
+dispersal_term,harte Testa,hard testa,german
+dispersal_term,harte Testae,hard testa,german
+dispersal_term,lederige Perikarpe,leathery pericarp,german
+dispersal_term,lederiger Perikarp,leathery pericarp,german
+dispersal_term,lignifizierte Endokarpe,lignified endocarp,german
+dispersal_term,lignifizierter Endokarp,lignified endocarp,german
+dispersal_term,sklerifizierte Perikarpe,sclerified pericarp,german
+dispersal_term,sklerifizierter Perikarp,sclerified pericarp,german
+dispersal_term,schalenförmig,shell-like,german
+dispersal_term,schalenförmige,shell-like,german
+dispersal_term,Steinkern,stone,german
+dispersal_term,Steinkerne,stone,german
+dispersal_term,steinige Endokarpe,stony endocarp,german
+dispersal_term,steiniger Endokarp,stony endocarp,german
+dispersal_term,dicke Samenschale,thick seed coat,german
+dispersal_term,dicke Samenschalen,thick seed coat,german
+dispersal_term,dicke Testa,thick testa,german
+dispersal_term,dicke Testae,thick testa,german
+dispersal_term,dickwandige Frucht,thick-walled fruit,german
+dispersal_term,dickwandige Früchte,thick-walled fruit,german
+dispersal_term,holzige Endokarpe,woody endocarp,german
+dispersal_term,holziger Endokarp,woody endocarp,german
+dispersal_term,Scheinfrucht,accessory fruit,german
+dispersal_term,Scheinfrüchte,accessory fruit,german
+dispersal_term,Sammelfrucht,aggregate fruit,german
+dispersal_term,Sammelfrüchte,aggregate fruit,german
+dispersal_term,zusammengesetzte Frucht,compound fruit,german
+dispersal_term,zusammengesetzte Früchte,compound fruit,german
+dispersal_term,Fruchtverband,multiple fruit,german
+dispersal_term,Fruchtverbände,multiple fruit,german
+dispersal_term,achaenia alata,winged achene,latin
+dispersal_term,achaenium alatum,winged achene,latin
+dispersal_term,achaenia,achene,latin
+dispersal_term,achaenium,achene,latin
+dispersal_term,cypsela,cypsela,latin
+dispersal_term,cypselae,cypsela,latin
+dispersal_term,anthocarpia,anthocarp,latin
+dispersal_term,anthocarpium,anthocarp,latin
+dispersal_term,amphisarca,amphisarca,latin
+dispersal_term,amphisarcae,amphisarca,latin
+dispersal_term,arillocarpia,arillocarpium,latin
+dispersal_term,arillocarpium,arillocarpium,latin
+dispersal_term,balaustae,balausta,latin
+dispersal_term,bacca,berry,latin
+dispersal_term,baccae,berry,latin
+dispersal_term,cactidia,cactidium,latin
+dispersal_term,epispermati a,epispermatium,latin
+dispersal_term,epispermatium,epispermatium,latin
+dispersal_term,bacca carnosa,fleshy berry,latin
+dispersal_term,baccae carnosae,fleshy berry,latin
+dispersal_term,hesperidia,hesperidium,latin
+dispersal_term,hesperidium,hesperidium,latin
+dispersal_term,pepones,pepo,latin
+dispersal_term,bacca pulposa,pulpy berry,latin
+dispersal_term,baccae pulposae,pulpy berry,latin
+dispersal_term,syncarpia,syncarp,latin
+dispersal_term,syncarpium,syncarp,latin
+dispersal_term,capsula,capsule,latin
+dispersal_term,capsulae,capsule,latin
+dispersal_term,circumscissa,circumscissile,latin
+dispersal_term,circumscissi,circumscissile,latin
+dispersal_term,circumscissum,circumscissile,latin
+dispersal_term,circumscissus,circumscissile,latin
+dispersal_term,capsula circumscissa,circumscissile capsule,latin
+dispersal_term,capsulae circumscissae,circumscissile capsule,latin
+dispersal_term,loculicidi,loculicidal,latin
+dispersal_term,loculicidum,loculicidal,latin
+dispersal_term,loculicidus,loculicidal,latin
+dispersal_term,capsula loculicida,loculicidal capsule,latin
+dispersal_term,capsulae loculicidae,loculicidal capsule,latin
+dispersal_term,poricidi,poricidal,latin
+dispersal_term,poricidum,poricidal,latin
+dispersal_term,poricidus,poricidal,latin
+dispersal_term,capsula poricida,poricidal capsule,latin
+dispersal_term,capsulae poricidae,poricidal capsule,latin
+dispersal_term,pyxis,pyxis,latin
+dispersal_term,septicida,septicidal,latin
+dispersal_term,septicidi,septicidal,latin
+dispersal_term,septicidum,septicidal,latin
+dispersal_term,septicidus,septicidal,latin
+dispersal_term,capsula septicida,septicidal capsule,latin
+dispersal_term,capsulae septicidae,septicidal capsule,latin
+dispersal_term,silicula,silicle,latin
+dispersal_term,siliculae,silicle,latin
+dispersal_term,siliquae,silique,latin
+dispersal_term,caryopsis,grain,latin
+dispersal_term,drupa aggregata,aggregate drupe,latin
+dispersal_term,drupae aggregatae,aggregate drupe,latin
+dispersal_term,drupa composita,compound drupe,latin
+dispersal_term,drupae compositae,compound drupe,latin
+dispersal_term,drupae,drupe,latin
+dispersal_term,drupella,drupelet,latin
+dispersal_term,drupellae,drupelet,latin
+dispersal_term,drupeta,drupetum,latin
+dispersal_term,drupetum,drupetum,latin
+dispersal_term,pseudodrupae,pseudodrupe,latin
+dispersal_term,fructus drupacei,stone fruit,latin
+dispersal_term,fructus drupaceus,stone fruit,latin
+dispersal_term,folliculi,follicle,latin
+dispersal_term,folliculus,follicle,latin
+dispersal_term,megastrobili,megastrobilus,latin
+dispersal_term,megastrobilus,megastrobilus,latin
+dispersal_term,microstrobili,microstrobilus,latin
+dispersal_term,microstrobilus,microstrobilus,latin
+dispersal_term,strobili ovuliferi,ovulate cone,latin
+dispersal_term,strobilus ovulifer,ovulate cone,latin
+dispersal_term,strobili polliniferi,pollen cone,latin
+dispersal_term,strobilus pollinifer,pollen cone,latin
+dispersal_term,strobili seminiferi,seed cone,latin
+dispersal_term,strobilus seminifer,seed cone,latin
+dispersal_term,strobili,strobilus,latin
+dispersal_term,strobilus,strobilus,latin
+dispersal_term,strobili bacciformes,berry-like cone,latin
+dispersal_term,strobilus bacciformis,berry-like cone,latin
+dispersal_term,galbuli,galbulus,latin
+dispersal_term,galbulus,galbulus,latin
+dispersal_term,lomenta,loment,latin
+dispersal_term,lomentum,loment,latin
+dispersal_term,legumen,pod,latin
+dispersal_term,legumina,pod,latin
+dispersal_term,nuces alatae,winged nut,latin
+dispersal_term,nux alata,winged nut,latin
+dispersal_term,nuces,nut,latin
+dispersal_term,nux,nut,latin
+dispersal_term,nucula,nutlet,latin
+dispersal_term,nuculae,nutlet,latin
+dispersal_term,nuculania,nuculanium,latin
+dispersal_term,poma,pome,latin
+dispersal_term,pomum,pome,latin
+dispersal_term,samara,samaras,latin
+dispersal_term,samarae,samaras,latin
+dispersal_term,samaroidea,samaroid,latin
+dispersal_term,samara alata,winged samara,latin
+dispersal_term,samarae alatae,winged samara,latin
+dispersal_term,camerae,camara,latin
+dispersal_term,carceruli,carcerulus,latin
+dispersal_term,carcerulus,carcerulus,latin
+dispersal_term,cremocarpia,cremocarp,latin
+dispersal_term,cremocarpium,cremocarp,latin
+dispersal_term,mericarpia,mericarp,latin
+dispersal_term,mericarpium,mericarp,latin
+dispersal_term,regmata,regma,latin
+dispersal_term,schizocarpia,schizocarp,latin
+dispersal_term,schizocarpium,schizocarp,latin
+dispersal_term,syconia,syconium,latin
+dispersal_term,syconium,syconium,latin
+dispersal_term,utriculi,utricle,latin
+dispersal_term,utriculus,utricle,latin
+dispersal_term,alae,wing,latin
+dispersal_term,alata,winged,latin
+dispersal_term,alati,winged,latin
+dispersal_term,alatum,winged,latin
+dispersal_term,alatus,winged,latin
+dispersal_term,fructus alati,winged fruit,latin
+dispersal_term,fructus alatus,winged fruit,latin
+dispersal_term,semen alatum,winged seed,latin
+dispersal_term,semina alata,winged seed,latin
+dispersal_term,aristae,awn,latin
+dispersal_term,aristata,awned,latin
+dispersal_term,aristati,awned,latin
+dispersal_term,aristatum,awned,latin
+dispersal_term,aristatus,awned,latin
+dispersal_term,comae,coma,latin
+dispersal_term,comosi,comose,latin
+dispersal_term,comosum,comose,latin
+dispersal_term,comosus,comose,latin
+dispersal_term,papposa,pappose,latin
+dispersal_term,papposi,pappose,latin
+dispersal_term,papposum,pappose,latin
+dispersal_term,papposus,pappose,latin
+dispersal_term,pappi,pappus,latin
+dispersal_term,plumata,plumed,latin
+dispersal_term,plumati,plumed,latin
+dispersal_term,plumatum,plumed,latin
+dispersal_term,plumatus,plumed,latin
+dispersal_term,plumosi,plumose,latin
+dispersal_term,plumosum,plumose,latin
+dispersal_term,plumosus,plumose,latin
+dispersal_term,pili seminales,seed hairs,latin
+dispersal_term,pilus seminalis,seed hairs,latin
+dispersal_term,pili sericei,silky hairs,latin
+dispersal_term,pilus sericeus,silky hairs,latin
+dispersal_term,fasciculi pilorum,tuft of hairs,latin
+dispersal_term,fasciculus pilorum,tuft of hairs,latin
+dispersal_term,arilli,aril,latin
+dispersal_term,arillus,aril,latin
+dispersal_term,arillata,arillate,latin
+dispersal_term,arillati,arillate,latin
+dispersal_term,arillatum,arillate,latin
+dispersal_term,arillatus,arillate,latin
+dispersal_term,semen arillatum,arillate seed,latin
+dispersal_term,semina arillata,arillate seed,latin
+dispersal_term,arilloidea,arillode,latin
+dispersal_term,arilloideum,arillode,latin
+dispersal_term,pulpa edulis,edible pulp,latin
+dispersal_term,pulpae edules,edible pulp,latin
+dispersal_term,carnosi,fleshy,latin
+dispersal_term,carnosum,fleshy,latin
+dispersal_term,carnosus,fleshy,latin
+dispersal_term,fructus carnosi,fleshy fruit,latin
+dispersal_term,fructus carnosus,fleshy fruit,latin
+dispersal_term,mesocarpia carnosa,fleshy mesocarp,latin
+dispersal_term,mesocarpium carnosum,fleshy mesocarp,latin
+dispersal_term,pericarpia carnosa,fleshy pericarp,latin
+dispersal_term,pericarpium carnosum,fleshy pericarp,latin
+dispersal_term,testae carnosae,fleshy testa,latin
+dispersal_term,succosa,juicy,latin
+dispersal_term,succosi,juicy,latin
+dispersal_term,succosum,juicy,latin
+dispersal_term,succosus,juicy,latin
+dispersal_term,fructus succosi,juicy fruit,latin
+dispersal_term,fructus succosus,juicy fruit,latin
+dispersal_term,pulposi,pulpy,latin
+dispersal_term,pulposum,pulpy,latin
+dispersal_term,pulposus,pulpy,latin
+dispersal_term,fructus pulposi,pulpy fruit,latin
+dispersal_term,fructus pulposus,pulpy fruit,latin
+dispersal_term,sarcotestae,sarcotesta,latin
+dispersal_term,semen arillo inclusum,seed enclosed in aril,latin
+dispersal_term,semina arillo inclusa,seed enclosed in aril,latin
+dispersal_term,succulenta,succulent,latin
+dispersal_term,succulenti,succulent,latin
+dispersal_term,succulentum,succulent,latin
+dispersal_term,succulentus,succulent,latin
+dispersal_term,fructus succulenti,succulent fruit,latin
+dispersal_term,fructus succulentus,succulent fruit,latin
+dispersal_term,pulpa dulcis,sweet pulp,latin
+dispersal_term,pulpae dulces,sweet pulp,latin
+dispersal_term,barbata,barbed,latin
+dispersal_term,barbati,barbed,latin
+dispersal_term,barbatum,barbed,latin
+dispersal_term,barbatus,barbed,latin
+dispersal_term,barbae,barbs,latin
+dispersal_term,glomosa,burr-like,latin
+dispersal_term,glomosi,burr-like,latin
+dispersal_term,glomosum,burr-like,latin
+dispersal_term,glomosus,burr-like,latin
+dispersal_term,glomera,burrs,latin
+dispersal_term,glomus,burrs,latin
+dispersal_term,adhaerens,clinging,latin
+dispersal_term,adhaerentes,clinging,latin
+dispersal_term,glochidia,glochidia,latin
+dispersal_term,glochidium,glochidia,latin
+dispersal_term,uncini,hooks,latin
+dispersal_term,uncinus,hooks,latin
+dispersal_term,retrorsi,retrorse,latin
+dispersal_term,retrorsum,retrorse,latin
+dispersal_term,retrorsus,retrorse,latin
+dispersal_term,spina,spines,latin
+dispersal_term,spinae,spines,latin
+dispersal_term,spinosa,spiny,latin
+dispersal_term,spinosi,spiny,latin
+dispersal_term,spinosum,spiny,latin
+dispersal_term,spinosus,spiny,latin
+dispersal_term,uncinata,uncinate,latin
+dispersal_term,uncinati,uncinate,latin
+dispersal_term,uncinatum,uncinate,latin
+dispersal_term,uncinatus,uncinate,latin
+dispersal_term,adhaesiva,adhesive,latin
+dispersal_term,adhaesivi,adhesive,latin
+dispersal_term,adhaesivum,adhesive,latin
+dispersal_term,adhaesivus,adhesive,latin
+dispersal_term,glutinosi,glutinous,latin
+dispersal_term,glutinosum,glutinous,latin
+dispersal_term,glutinosus,glutinous,latin
+dispersal_term,gummosa,gummy,latin
+dispersal_term,gummosi,gummy,latin
+dispersal_term,gummosum,gummy,latin
+dispersal_term,gummosus,gummy,latin
+dispersal_term,mucilagines,mucilage,latin
+dispersal_term,mucilago,mucilage,latin
+dispersal_term,mucilaginosi,mucilaginous,latin
+dispersal_term,mucilaginosum,mucilaginous,latin
+dispersal_term,mucilaginosus,mucilaginous,latin
+dispersal_term,resinosi,resinous,latin
+dispersal_term,resinosum,resinous,latin
+dispersal_term,resinosus,resinous,latin
+dispersal_term,adhaesa,sticky,latin
+dispersal_term,adhaesi,sticky,latin
+dispersal_term,adhaesum,sticky,latin
+dispersal_term,adhaesus,sticky,latin
+dispersal_term,semen adhaesum,sticky seed,latin
+dispersal_term,semina adhaesa,sticky seed,latin
+dispersal_term,viscosi,viscid,latin
+dispersal_term,viscosum,viscid,latin
+dispersal_term,viscosus,viscid,latin
+dispersal_term,semen viscosum,viscid seed,latin
+dispersal_term,semina viscosa,viscid seed,latin
+dispersal_term,myrmecochora,ant-dispersed,latin
+dispersal_term,myrmecochori,ant-dispersed,latin
+dispersal_term,myrmecochorum,ant-dispersed,latin
+dispersal_term,myrmecochorus,ant-dispersed,latin
+dispersal_term,caruncula,caruncle,latin
+dispersal_term,carunculae,caruncle,latin
+dispersal_term,carunculata,carunculate,latin
+dispersal_term,carunculati,carunculate,latin
+dispersal_term,carunculatum,carunculate,latin
+dispersal_term,carunculatus,carunculate,latin
+dispersal_term,elaiosoma,elaiosome,latin
+dispersal_term,elaiosomata,elaiosome,latin
+dispersal_term,myrmecochoria,myrmecochory,latin
+dispersal_term,myrmecochoriae,myrmecochory,latin
+dispersal_term,camera aeris,air chambers,latin
+dispersal_term,camerae aeris,air chambers,latin
+dispersal_term,aere plena,air-filled,latin
+dispersal_term,aere plenum,air-filled,latin
+dispersal_term,aere plenus,air-filled,latin
+dispersal_term,vesiculosi,bladdery,latin
+dispersal_term,vesiculosum,bladdery,latin
+dispersal_term,vesiculosus,bladdery,latin
+dispersal_term,pericarpia natantia,buoyant pericarp,latin
+dispersal_term,pericarpium natans,buoyant pericarp,latin
+dispersal_term,suberosi,corky,latin
+dispersal_term,suberosum,corky,latin
+dispersal_term,suberosus,corky,latin
+dispersal_term,pericarpia fibrosa,fibrous pericarp,latin
+dispersal_term,pericarpium fibrosum,fibrous pericarp,latin
+dispersal_term,natans,float,latin
+dispersal_term,natare,float,latin
+dispersal_term,natans,floating,latin
+dispersal_term,natantes,floating,latin
+dispersal_term,natant,floats,latin
+dispersal_term,natat,floats,latin
+dispersal_term,fructus inflati,inflated fruit,latin
+dispersal_term,fructus inflatus,inflated fruit,latin
+dispersal_term,spongiosa,spongy,latin
+dispersal_term,spongiosi,spongy,latin
+dispersal_term,spongiosum,spongy,latin
+dispersal_term,spongiosus,spongy,latin
+dispersal_term,ballistica,ballistic,latin
+dispersal_term,ballistici,ballistic,latin
+dispersal_term,ballisticum,ballistic,latin
+dispersal_term,ballisticus,ballistic,latin
+dispersal_term,catapultae,catapult,latin
+dispersal_term,elasticodehiscens,elastically dehiscent,latin
+dispersal_term,elasticodehiscentes,elastically dehiscent,latin
+dispersal_term,explosivi,explosive,latin
+dispersal_term,explosivum,explosive,latin
+dispersal_term,explosivus,explosive,latin
+dispersal_term,dehiscentia explosiva,explosive dehiscence,latin
+dispersal_term,dehiscentiae explosivae,explosive dehiscence,latin
+dispersal_term,vi dehiscens,forcefully dehiscent,latin
+dispersal_term,vi dehiscentes,forcefully dehiscent,latin
+dispersal_term,ejaculatio seminum,seed ejection,latin
+dispersal_term,ejaculationes seminum,seed ejection,latin
+dispersal_term,seminalia ejecta,seeds ejected,latin
+dispersal_term,glandes,acorn,latin
+dispersal_term,glans,acorn,latin
+dispersal_term,testa coriacea,coriaceous testa,latin
+dispersal_term,testae coriaceae,coriaceous testa,latin
+dispersal_term,endocarpia fibrosa,fibrous endocarp,latin
+dispersal_term,endocarpium fibrosum,fibrous endocarp,latin
+dispersal_term,testae durae,hard testa,latin
+dispersal_term,pericarpia coriacea,leathery pericarp,latin
+dispersal_term,pericarpium coriaceum,leathery pericarp,latin
+dispersal_term,endocarpia lignificata,lignified endocarp,latin
+dispersal_term,endocarpium lignificatum,lignified endocarp,latin
+dispersal_term,pericarpia sclerificata,sclerified pericarp,latin
+dispersal_term,pericarpium sclerificatum,sclerified pericarp,latin
+dispersal_term,conchiformis,shell-like,latin
+dispersal_term,putamen,stone,latin
+dispersal_term,putamina,stone,latin
+dispersal_term,endocarpia lapidea,stony endocarp,latin
+dispersal_term,endocarpium lapideum,stony endocarp,latin
+dispersal_term,testa crassa,thick testa,latin
+dispersal_term,testae crassae,thick testa,latin
+dispersal_term,fructus pariete crasso,thick-walled fruit,latin
+dispersal_term,endocarpia lignea,woody endocarp,latin
+dispersal_term,endocarpium ligneum,woody endocarp,latin
+dispersal_term,fructus accessorii,accessory fruit,latin
+dispersal_term,fructus accessorius,accessory fruit,latin
+dispersal_term,fructus aggregati,aggregate fruit,latin
+dispersal_term,fructus aggregatus,aggregate fruit,latin
+dispersal_term,fructus compositi,compound fruit,latin
+dispersal_term,fructus compositus,compound fruit,latin
+dispersal_term,fructus multiplex,multiple fruit,latin
+dispersal_term,fructus multiplices,multiple fruit,latin
+dispersal_term,aquénio alado,winged achene,portuguese
+dispersal_term,aquénios alados,winged achene,portuguese
+dispersal_term,aquénio,achene,portuguese
+dispersal_term,aquénios,achene,portuguese
+dispersal_term,arilocárpio,arillocarpium,portuguese
+dispersal_term,arilocárpios,arillocarpium,portuguese
+dispersal_term,baga,berry,portuguese
+dispersal_term,bagas,berry,portuguese
+dispersal_term,cactídio,cactidium,portuguese
+dispersal_term,cactídios,cactidium,portuguese
+dispersal_term,epispermátio,epispermatium,portuguese
+dispersal_term,epispermátios,epispermatium,portuguese
+dispersal_term,baga carnosa,fleshy berry,portuguese
+dispersal_term,bagas carnosas,fleshy berry,portuguese
+dispersal_term,hespéridio,hesperidium,portuguese
+dispersal_term,hespéridios,hesperidium,portuguese
+dispersal_term,baga polposa,pulpy berry,portuguese
+dispersal_term,bagas polposas,pulpy berry,portuguese
+dispersal_term,circuncísis,circumscissile,portuguese
+dispersal_term,cápsulas circuncísis,circumscissile capsule,portuguese
+dispersal_term,pixídio,pyxis,portuguese
+dispersal_term,pixídios,pyxis,portuguese
+dispersal_term,cariopse,grain,portuguese
+dispersal_term,drupa composta,compound drupe,portuguese
+dispersal_term,drupas compostas,compound drupe,portuguese
+dispersal_term,cone,cone,portuguese
+dispersal_term,cones,cone,portuguese
+dispersal_term,megastróbilo,megastrobilus,portuguese
+dispersal_term,megastróbilos,megastrobilus,portuguese
+dispersal_term,microstróbilo,microstrobilus,portuguese
+dispersal_term,microstróbilos,microstrobilus,portuguese
+dispersal_term,cone ovulífero,ovulate cone,portuguese
+dispersal_term,cones ovulíferos,ovulate cone,portuguese
+dispersal_term,cone polinífero,pollen cone,portuguese
+dispersal_term,cones poliníferos,pollen cone,portuguese
+dispersal_term,cone seminífero,seed cone,portuguese
+dispersal_term,cones seminíferos,seed cone,portuguese
+dispersal_term,cone baciforme,berry-like cone,portuguese
+dispersal_term,cones baciformes,berry-like cone,portuguese
+dispersal_term,legume,legume,portuguese
+dispersal_term,legumes,legume,portuguese
+dispersal_term,vagem,pod,portuguese
+dispersal_term,vagens,pod,portuguese
+dispersal_term,noz alada,winged nut,portuguese
+dispersal_term,nozes aladas,winged nut,portuguese
+dispersal_term,noz,nut,portuguese
+dispersal_term,nozes,nut,portuguese
+dispersal_term,nuculânio,nuculanium,portuguese
+dispersal_term,nuculânios,nuculanium,portuguese
+dispersal_term,sâmara,samaras,portuguese
+dispersal_term,sâmaras,samaras,portuguese
+dispersal_term,sâmara alada,winged samara,portuguese
+dispersal_term,sâmaras aladas,winged samara,portuguese
+dispersal_term,câmara,camara,portuguese
+dispersal_term,câmaras,camara,portuguese
+dispersal_term,mericárpio,mericarp,portuguese
+dispersal_term,mericárpios,mericarp,portuguese
+dispersal_term,sorose,sorosis,portuguese
+dispersal_term,soroses,sorosis,portuguese
+dispersal_term,sicônio,syconium,portuguese
+dispersal_term,sicônios,syconium,portuguese
+dispersal_term,asa,wing,portuguese
+dispersal_term,asas,wing,portuguese
+dispersal_term,semente alada,winged seed,portuguese
+dispersal_term,sementes aladas,winged seed,portuguese
+dispersal_term,pelo seminífero,seed hairs,portuguese
+dispersal_term,pelos seminíferos,seed hairs,portuguese
+dispersal_term,tufo de pelos,tuft of hairs,portuguese
+dispersal_term,tufos de pelos,tuft of hairs,portuguese
+dispersal_term,semente arilada,arillate seed,portuguese
+dispersal_term,sementes ariladas,arillate seed,portuguese
+dispersal_term,arilódio,arillode,portuguese
+dispersal_term,arilódios,arillode,portuguese
+dispersal_term,pulpa comestível,edible pulp,portuguese
+dispersal_term,pulpas comestíveis,edible pulp,portuguese
+dispersal_term,tegumento seminal carnoso,fleshy seed coat,portuguese
+dispersal_term,tegumentos seminais carnosos,fleshy seed coat,portuguese
+dispersal_term,polposa,pulpy,portuguese
+dispersal_term,polposas,pulpy,portuguese
+dispersal_term,polposo,pulpy,portuguese
+dispersal_term,polposos,pulpy,portuguese
+dispersal_term,fruto polposo,pulpy fruit,portuguese
+dispersal_term,frutos polposos,pulpy fruit,portuguese
+dispersal_term,semente inclusa em arilo,seed enclosed in aril,portuguese
+dispersal_term,sementes inclusas em arilo,seed enclosed in aril,portuguese
+dispersal_term,pulpa doce,sweet pulp,portuguese
+dispersal_term,pulpas doces,sweet pulp,portuguese
+dispersal_term,carrapichosa,burr-like,portuguese
+dispersal_term,carrapichosas,burr-like,portuguese
+dispersal_term,carrapichoso,burr-like,portuguese
+dispersal_term,carrapichosos,burr-like,portuguese
+dispersal_term,carrapicho,burrs,portuguese
+dispersal_term,carrapichos,burrs,portuguese
+dispersal_term,aderente,clinging,portuguese
+dispersal_term,aderentes,clinging,portuguese
+dispersal_term,gloquídeo,glochidia,portuguese
+dispersal_term,gloquídeos,glochidia,portuguese
+dispersal_term,espinho,spines,portuguese
+dispersal_term,espinhos,spines,portuguese
+dispersal_term,espinhosa,spiny,portuguese
+dispersal_term,espinhosas,spiny,portuguese
+dispersal_term,espinhoso,spiny,portuguese
+dispersal_term,espinhosos,spiny,portuguese
+dispersal_term,adesiva,adhesive,portuguese
+dispersal_term,adesivas,adhesive,portuguese
+dispersal_term,adesivo,adhesive,portuguese
+dispersal_term,adesivos,adhesive,portuguese
+dispersal_term,mucilagem,mucilage,portuguese
+dispersal_term,mucilagens,mucilage,portuguese
+dispersal_term,semente pegajosa,sticky seed,portuguese
+dispersal_term,sementes pegajosas,sticky seed,portuguese
+dispersal_term,semente viscosa,viscid seed,portuguese
+dispersal_term,sementes viscosas,viscid seed,portuguese
+dispersal_term,elaióssomo,elaiosome,portuguese
+dispersal_term,elaióssomos,elaiosome,portuguese
+dispersal_term,câmara de ar,air chambers,portuguese
+dispersal_term,câmaras de ar,air chambers,portuguese
+dispersal_term,cheia de ar,air-filled,portuguese
+dispersal_term,cheio de ar,air-filled,portuguese
+dispersal_term,pericarpo flutuante,buoyant pericarp,portuguese
+dispersal_term,pericarpos flutuantes,buoyant pericarp,portuguese
+dispersal_term,suberosa,corky,portuguese
+dispersal_term,suberosas,corky,portuguese
+dispersal_term,suberoso,corky,portuguese
+dispersal_term,suberosos,corky,portuguese
+dispersal_term,flutuando,float,portuguese
+dispersal_term,flutuar,float,portuguese
+dispersal_term,flutuante,floating,portuguese
+dispersal_term,flutuantes,floating,portuguese
+dispersal_term,flutua,floats,portuguese
+dispersal_term,flutuam,floats,portuguese
+dispersal_term,deiscente elasticamente,elastically dehiscent,portuguese
+dispersal_term,deiscentes elasticamente,elastically dehiscent,portuguese
+dispersal_term,deiscência explosiva,explosive dehiscence,portuguese
+dispersal_term,deiscências explosivas,explosive dehiscence,portuguese
+dispersal_term,deiscente violentamente,forcefully dehiscent,portuguese
+dispersal_term,deiscentes violentamente,forcefully dehiscent,portuguese
+dispersal_term,ejecção de sementes,seed ejection,portuguese
+dispersal_term,ejecções de sementes,seed ejection,portuguese
+dispersal_term,semente ejectada,seeds ejected,portuguese
+dispersal_term,sementes ejectadas,seeds ejected,portuguese
+dispersal_term,bolota,acorn,portuguese
+dispersal_term,bolotas,acorn,portuguese
+dispersal_term,tegumento seminal duro,hard seed coat,portuguese
+dispersal_term,tegumentos seminais duros,hard seed coat,portuguese
+dispersal_term,caroço,stone,portuguese
+dispersal_term,caroços,stone,portuguese
+dispersal_term,tegumento seminal espesso,thick seed coat,portuguese
+dispersal_term,tegumentos seminais espessos,thick seed coat,portuguese
+dispersal_term,testa espessa,thick testa,portuguese
+dispersal_term,testas espessas,thick testa,portuguese
+dispersal_term,fruto de parede espessa,thick-walled fruit,portuguese
+dispersal_term,frutos de parede espessa,thick-walled fruit,portuguese
+dispersal_term,endocarpo lenhoso,woody endocarp,portuguese
+dispersal_term,endocarpos lenhosos,woody endocarp,portuguese
+dispersal_term,fruto acessório,accessory fruit,portuguese
+dispersal_term,frutos acessórios,accessory fruit,portuguese
+dispersal_term,fruto composto,compound fruit,portuguese
+dispersal_term,frutos compostos,compound fruit,portuguese
+dispersal_term,fruto múltiplo,multiple fruit,portuguese
+dispersal_term,frutos múltiplos,multiple fruit,portuguese
+dispersal_term,aquenio alado,winged achene,spanish
+dispersal_term,aquenios alados,winged achene,spanish
+dispersal_term,aquenio,achene,spanish
+dispersal_term,aquenios,achene,spanish
+dispersal_term,cipsela,cypsela,spanish
+dispersal_term,cipselas,cypsela,spanish
+dispersal_term,antocarpo,anthocarp,spanish
+dispersal_term,antocarpos,anthocarp,spanish
+dispersal_term,anfisarca,amphisarca,spanish
+dispersal_term,anfisarcas,amphisarca,spanish
+dispersal_term,arilocarpio,arillocarpium,spanish
+dispersal_term,arilocarpios,arillocarpium,spanish
+dispersal_term,balausta,balausta,spanish
+dispersal_term,balaustas,balausta,spanish
+dispersal_term,baya,berry,spanish
+dispersal_term,bayas,berry,spanish
+dispersal_term,cactidio,cactidium,spanish
+dispersal_term,cactidios,cactidium,spanish
+dispersal_term,epispermatio,epispermatium,spanish
+dispersal_term,epispermatios,epispermatium,spanish
+dispersal_term,baya carnosa,fleshy berry,spanish
+dispersal_term,bayas carnosas,fleshy berry,spanish
+dispersal_term,hesperidio,hesperidium,spanish
+dispersal_term,hesperidios,hesperidium,spanish
+dispersal_term,pepo,pepo,spanish
+dispersal_term,pepos,pepo,spanish
+dispersal_term,baya pulposa,pulpy berry,spanish
+dispersal_term,bayas pulposas,pulpy berry,spanish
+dispersal_term,sincarpo,syncarp,spanish
+dispersal_term,sincarpos,syncarp,spanish
+dispersal_term,cápsula,capsule,spanish
+dispersal_term,cápsulas,capsule,spanish
+dispersal_term,circuncísil,circumscissile,spanish
+dispersal_term,circuncísiles,circumscissile,spanish
+dispersal_term,cápsula circuncísil,circumscissile capsule,spanish
+dispersal_term,cápsulas circuncísiles,circumscissile capsule,spanish
+dispersal_term,loculicida,loculicidal,spanish
+dispersal_term,loculicidas,loculicidal,spanish
+dispersal_term,cápsula loculicida,loculicidal capsule,spanish
+dispersal_term,cápsulas loculicidas,loculicidal capsule,spanish
+dispersal_term,poricida,poricidal,spanish
+dispersal_term,poricidas,poricidal,spanish
+dispersal_term,cápsula poricida,poricidal capsule,spanish
+dispersal_term,cápsulas poricidas,poricidal capsule,spanish
+dispersal_term,pixidio,pyxis,spanish
+dispersal_term,pixidios,pyxis,spanish
+dispersal_term,septícida,septicidal,spanish
+dispersal_term,septícidas,septicidal,spanish
+dispersal_term,cápsula septícida,septicidal capsule,spanish
+dispersal_term,cápsulas septícidas,septicidal capsule,spanish
+dispersal_term,silícula,silicle,spanish
+dispersal_term,silículas,silicle,spanish
+dispersal_term,siliqua,silique,spanish
+dispersal_term,siliquas,silique,spanish
+dispersal_term,cariopses,grain,spanish
+dispersal_term,cariopsis,grain,spanish
+dispersal_term,drupa agregada,aggregate drupe,spanish
+dispersal_term,drupas agregadas,aggregate drupe,spanish
+dispersal_term,drupa compuesta,compound drupe,spanish
+dispersal_term,drupas compuestas,compound drupe,spanish
+dispersal_term,drupa,drupe,spanish
+dispersal_term,drupas,drupe,spanish
+dispersal_term,drupéola,drupelet,spanish
+dispersal_term,drupéolas,drupelet,spanish
+dispersal_term,drupeto,drupetum,spanish
+dispersal_term,drupetos,drupetum,spanish
+dispersal_term,pseudodrupa,pseudodrupe,spanish
+dispersal_term,pseudodrupas,pseudodrupe,spanish
+dispersal_term,fruto drupáceo,stone fruit,spanish
+dispersal_term,frutos drupáceos,stone fruit,spanish
+dispersal_term,folículo,follicle,spanish
+dispersal_term,folículos,follicle,spanish
+dispersal_term,cono,cone,spanish
+dispersal_term,conos,cone,spanish
+dispersal_term,megastrobilo,megastrobilus,spanish
+dispersal_term,megastrobilos,megastrobilus,spanish
+dispersal_term,microstrobilo,microstrobilus,spanish
+dispersal_term,microstrobilos,microstrobilus,spanish
+dispersal_term,cono ovulífero,ovulate cone,spanish
+dispersal_term,conos ovulíferos,ovulate cone,spanish
+dispersal_term,cono polinífero,pollen cone,spanish
+dispersal_term,conos poliníferos,pollen cone,spanish
+dispersal_term,cono seminífero,seed cone,spanish
+dispersal_term,conos seminíferos,seed cone,spanish
+dispersal_term,estróbilo,strobilus,spanish
+dispersal_term,estróbilos,strobilus,spanish
+dispersal_term,cono bacciforme,berry-like cone,spanish
+dispersal_term,conos bacciformes,berry-like cone,spanish
+dispersal_term,gálbulo,galbulus,spanish
+dispersal_term,gálbulos,galbulus,spanish
+dispersal_term,legumbre,legume,spanish
+dispersal_term,legumbres,legume,spanish
+dispersal_term,lomento,loment,spanish
+dispersal_term,lomentos,loment,spanish
+dispersal_term,nueces aladas,winged nut,spanish
+dispersal_term,nuez alada,winged nut,spanish
+dispersal_term,nueces,nut,spanish
+dispersal_term,nuez,nut,spanish
+dispersal_term,núcula,nutlet,spanish
+dispersal_term,núculas,nutlet,spanish
+dispersal_term,nuculanio,nuculanium,spanish
+dispersal_term,nuculanios,nuculanium,spanish
+dispersal_term,pomo,pome,spanish
+dispersal_term,pomos,pome,spanish
+dispersal_term,sámara,samaras,spanish
+dispersal_term,sámaras,samaras,spanish
+dispersal_term,samaroide,samaroid,spanish
+dispersal_term,samaroides,samaroid,spanish
+dispersal_term,sámara alada,winged samara,spanish
+dispersal_term,sámaras aladas,winged samara,spanish
+dispersal_term,cámara,camara,spanish
+dispersal_term,cámaras,camara,spanish
+dispersal_term,cárcerulo,carcerulus,spanish
+dispersal_term,cárcerulos,carcerulus,spanish
+dispersal_term,coco,coccus,spanish
+dispersal_term,cocos,coccus,spanish
+dispersal_term,cremocarpo,cremocarp,spanish
+dispersal_term,cremocarpos,cremocarp,spanish
+dispersal_term,mericarpio,mericarp,spanish
+dispersal_term,mericarpos,mericarp,spanish
+dispersal_term,regma,regma,spanish
+dispersal_term,regmas,regma,spanish
+dispersal_term,esquizocarpo,schizocarp,spanish
+dispersal_term,esquizocarpos,schizocarp,spanish
+dispersal_term,sorosis,sorosis,spanish
+dispersal_term,sicono,syconium,spanish
+dispersal_term,siconos,syconium,spanish
+dispersal_term,utrículo,utricle,spanish
+dispersal_term,utrículos,utricle,spanish
+dispersal_term,ala,wing,spanish
+dispersal_term,alas,wing,spanish
+dispersal_term,alada,winged,spanish
+dispersal_term,aladas,winged,spanish
+dispersal_term,alado,winged,spanish
+dispersal_term,alados,winged,spanish
+dispersal_term,fruto alado,winged fruit,spanish
+dispersal_term,frutos alados,winged fruit,spanish
+dispersal_term,semilla alada,winged seed,spanish
+dispersal_term,semillas aladas,winged seed,spanish
+dispersal_term,arista,awn,spanish
+dispersal_term,aristas,awn,spanish
+dispersal_term,aristada,awned,spanish
+dispersal_term,aristadas,awned,spanish
+dispersal_term,aristado,awned,spanish
+dispersal_term,aristados,awned,spanish
+dispersal_term,coma,coma,spanish
+dispersal_term,comas,coma,spanish
+dispersal_term,comosa,comose,spanish
+dispersal_term,comosas,comose,spanish
+dispersal_term,comoso,comose,spanish
+dispersal_term,comosos,comose,spanish
+dispersal_term,paposa,pappose,spanish
+dispersal_term,paposas,pappose,spanish
+dispersal_term,paposo,pappose,spanish
+dispersal_term,paposos,pappose,spanish
+dispersal_term,papo,pappus,spanish
+dispersal_term,papos,pappus,spanish
+dispersal_term,plumada,plumed,spanish
+dispersal_term,plumadas,plumed,spanish
+dispersal_term,plumado,plumed,spanish
+dispersal_term,plumados,plumed,spanish
+dispersal_term,plumosa,plumose,spanish
+dispersal_term,plumosas,plumose,spanish
+dispersal_term,plumoso,plumose,spanish
+dispersal_term,plumosos,plumose,spanish
+dispersal_term,pelo seminal,seed hairs,spanish
+dispersal_term,pelos seminales,seed hairs,spanish
+dispersal_term,pelo sedoso,silky hairs,spanish
+dispersal_term,pelos sedosos,silky hairs,spanish
+dispersal_term,penacho de pelos,tuft of hairs,spanish
+dispersal_term,penachos de pelos,tuft of hairs,spanish
+dispersal_term,arilo,aril,spanish
+dispersal_term,arilos,aril,spanish
+dispersal_term,arilada,arillate,spanish
+dispersal_term,ariladas,arillate,spanish
+dispersal_term,arilado,arillate,spanish
+dispersal_term,arilados,arillate,spanish
+dispersal_term,semilla arilada,arillate seed,spanish
+dispersal_term,semillas ariladas,arillate seed,spanish
+dispersal_term,arilodio,arillode,spanish
+dispersal_term,arilodios,arillode,spanish
+dispersal_term,pulpa comestible,edible pulp,spanish
+dispersal_term,pulpas comestibles,edible pulp,spanish
+dispersal_term,carnosa,fleshy,spanish
+dispersal_term,carnosas,fleshy,spanish
+dispersal_term,carnoso,fleshy,spanish
+dispersal_term,carnosos,fleshy,spanish
+dispersal_term,fruto carnoso,fleshy fruit,spanish
+dispersal_term,frutos carnosos,fleshy fruit,spanish
+dispersal_term,mesocarpo carnoso,fleshy mesocarp,spanish
+dispersal_term,mesocarpos carnosos,fleshy mesocarp,spanish
+dispersal_term,pericarpo carnoso,fleshy pericarp,spanish
+dispersal_term,pericarpos carnosos,fleshy pericarp,spanish
+dispersal_term,cubierta seminal carnosa,fleshy seed coat,spanish
+dispersal_term,cubiertas seminales carnosas,fleshy seed coat,spanish
+dispersal_term,testa carnosa,fleshy testa,spanish
+dispersal_term,testas carnosas,fleshy testa,spanish
+dispersal_term,jugosa,juicy,spanish
+dispersal_term,jugosas,juicy,spanish
+dispersal_term,jugoso,juicy,spanish
+dispersal_term,jugosos,juicy,spanish
+dispersal_term,fruto jugoso,juicy fruit,spanish
+dispersal_term,frutos jugosos,juicy fruit,spanish
+dispersal_term,pulposa,pulpy,spanish
+dispersal_term,pulposas,pulpy,spanish
+dispersal_term,pulposo,pulpy,spanish
+dispersal_term,pulposos,pulpy,spanish
+dispersal_term,fruto pulposo,pulpy fruit,spanish
+dispersal_term,frutos pulposos,pulpy fruit,spanish
+dispersal_term,sarcotesta,sarcotesta,spanish
+dispersal_term,sarcotestas,sarcotesta,spanish
+dispersal_term,semilla incluida en arilo,seed enclosed in aril,spanish
+dispersal_term,semillas incluidas en arilo,seed enclosed in aril,spanish
+dispersal_term,suculenta,succulent,spanish
+dispersal_term,suculentas,succulent,spanish
+dispersal_term,suculento,succulent,spanish
+dispersal_term,suculentos,succulent,spanish
+dispersal_term,fruto suculento,succulent fruit,spanish
+dispersal_term,frutos suculentos,succulent fruit,spanish
+dispersal_term,pulpa dulce,sweet pulp,spanish
+dispersal_term,pulpas dulces,sweet pulp,spanish
+dispersal_term,barbada,barbed,spanish
+dispersal_term,barbadas,barbed,spanish
+dispersal_term,barbado,barbed,spanish
+dispersal_term,barbados,barbed,spanish
+dispersal_term,barba,barbs,spanish
+dispersal_term,barbas,barbs,spanish
+dispersal_term,cadillosa,burr-like,spanish
+dispersal_term,cadillosas,burr-like,spanish
+dispersal_term,cadilloso,burr-like,spanish
+dispersal_term,cadillosos,burr-like,spanish
+dispersal_term,cadillo,burrs,spanish
+dispersal_term,cadillos,burrs,spanish
+dispersal_term,adherente,clinging,spanish
+dispersal_term,adherentes,clinging,spanish
+dispersal_term,gloquidio,glochidia,spanish
+dispersal_term,gloquidios,glochidia,spanish
+dispersal_term,gancho,hooks,spanish
+dispersal_term,ganchos,hooks,spanish
+dispersal_term,retrorsa,retrorse,spanish
+dispersal_term,retrorsas,retrorse,spanish
+dispersal_term,retrorso,retrorse,spanish
+dispersal_term,retrorsos,retrorse,spanish
+dispersal_term,espina,spines,spanish
+dispersal_term,espinas,spines,spanish
+dispersal_term,espinosa,spiny,spanish
+dispersal_term,espinosas,spiny,spanish
+dispersal_term,espinoso,spiny,spanish
+dispersal_term,espinosos,spiny,spanish
+dispersal_term,uncinada,uncinate,spanish
+dispersal_term,uncinadas,uncinate,spanish
+dispersal_term,uncinado,uncinate,spanish
+dispersal_term,uncinados,uncinate,spanish
+dispersal_term,adhesiva,adhesive,spanish
+dispersal_term,adhesivas,adhesive,spanish
+dispersal_term,adhesivo,adhesive,spanish
+dispersal_term,adhesivos,adhesive,spanish
+dispersal_term,glutinosa,glutinous,spanish
+dispersal_term,glutinosas,glutinous,spanish
+dispersal_term,glutinoso,glutinous,spanish
+dispersal_term,glutinosos,glutinous,spanish
+dispersal_term,gomosa,gummy,spanish
+dispersal_term,gomosas,gummy,spanish
+dispersal_term,gomoso,gummy,spanish
+dispersal_term,gomosos,gummy,spanish
+dispersal_term,mucílago,mucilage,spanish
+dispersal_term,mucílagos,mucilage,spanish
+dispersal_term,mucilaginosa,mucilaginous,spanish
+dispersal_term,mucilaginosas,mucilaginous,spanish
+dispersal_term,mucilaginoso,mucilaginous,spanish
+dispersal_term,mucilaginosos,mucilaginous,spanish
+dispersal_term,resinosa,resinous,spanish
+dispersal_term,resinosas,resinous,spanish
+dispersal_term,resinoso,resinous,spanish
+dispersal_term,resinosos,resinous,spanish
+dispersal_term,pegajosa,sticky,spanish
+dispersal_term,pegajosas,sticky,spanish
+dispersal_term,pegajoso,sticky,spanish
+dispersal_term,pegajosos,sticky,spanish
+dispersal_term,semilla pegajosa,sticky seed,spanish
+dispersal_term,semillas pegajosas,sticky seed,spanish
+dispersal_term,viscosa,viscid,spanish
+dispersal_term,viscosas,viscid,spanish
+dispersal_term,viscoso,viscid,spanish
+dispersal_term,viscosos,viscid,spanish
+dispersal_term,semilla viscosa,viscid seed,spanish
+dispersal_term,semillas viscosas,viscid seed,spanish
+dispersal_term,mirmecócoro,ant-dispersed,spanish
+dispersal_term,mirmecócoros,ant-dispersed,spanish
+dispersal_term,carúncula,caruncle,spanish
+dispersal_term,carúnculas,caruncle,spanish
+dispersal_term,carunculada,carunculate,spanish
+dispersal_term,carunculadas,carunculate,spanish
+dispersal_term,carunculado,carunculate,spanish
+dispersal_term,carunculados,carunculate,spanish
+dispersal_term,elaiósoma,elaiosome,spanish
+dispersal_term,elaiósomas,elaiosome,spanish
+dispersal_term,mirmecocoria,myrmecochory,spanish
+dispersal_term,mirmecocorias,myrmecochory,spanish
+dispersal_term,cámara de aire,air chambers,spanish
+dispersal_term,cámaras de aire,air chambers,spanish
+dispersal_term,llena de aire,air-filled,spanish
+dispersal_term,lleno de aire,air-filled,spanish
+dispersal_term,vesiculosa,bladdery,spanish
+dispersal_term,vesiculosas,bladdery,spanish
+dispersal_term,vesiculoso,bladdery,spanish
+dispersal_term,vesiculosos,bladdery,spanish
+dispersal_term,pericarpo flotante,buoyant pericarp,spanish
+dispersal_term,pericarpos flotantes,buoyant pericarp,spanish
+dispersal_term,corchosa,corky,spanish
+dispersal_term,corchosas,corky,spanish
+dispersal_term,corchoso,corky,spanish
+dispersal_term,corchosos,corky,spanish
+dispersal_term,pericarpo fibroso,fibrous pericarp,spanish
+dispersal_term,pericarpos fibrosos,fibrous pericarp,spanish
+dispersal_term,flotando,float,spanish
+dispersal_term,flotar,float,spanish
+dispersal_term,flotante,floating,spanish
+dispersal_term,flotantes,floating,spanish
+dispersal_term,flota,floats,spanish
+dispersal_term,flotan,floats,spanish
+dispersal_term,fruto inflado,inflated fruit,spanish
+dispersal_term,frutos inflados,inflated fruit,spanish
+dispersal_term,esponjosa,spongy,spanish
+dispersal_term,esponjosas,spongy,spanish
+dispersal_term,esponjoso,spongy,spanish
+dispersal_term,esponjosos,spongy,spanish
+dispersal_term,balística,ballistic,spanish
+dispersal_term,balísticas,ballistic,spanish
+dispersal_term,balístico,ballistic,spanish
+dispersal_term,balísticos,ballistic,spanish
+dispersal_term,catapulta,catapult,spanish
+dispersal_term,catapultas,catapult,spanish
+dispersal_term,dehiscente elásticamente,elastically dehiscent,spanish
+dispersal_term,dehiscentes elásticamente,elastically dehiscent,spanish
+dispersal_term,explosiva,explosive,spanish
+dispersal_term,explosivas,explosive,spanish
+dispersal_term,explosivo,explosive,spanish
+dispersal_term,explosivos,explosive,spanish
+dispersal_term,dehiscencia explosiva,explosive dehiscence,spanish
+dispersal_term,dehiscencias explosivas,explosive dehiscence,spanish
+dispersal_term,dehiscente a la fuerza,forcefully dehiscent,spanish
+dispersal_term,dehiscentes a la fuerza,forcefully dehiscent,spanish
+dispersal_term,eyecciones de semillas,seed ejection,spanish
+dispersal_term,eyección de semillas,seed ejection,spanish
+dispersal_term,semilla eyectada,seeds ejected,spanish
+dispersal_term,semillas eyectadas,seeds ejected,spanish
+dispersal_term,bellota,acorn,spanish
+dispersal_term,bellotas,acorn,spanish
+dispersal_term,testa coriácea,coriaceous testa,spanish
+dispersal_term,testas coriáceas,coriaceous testa,spanish
+dispersal_term,endocarpo fibroso,fibrous endocarp,spanish
+dispersal_term,endocarpos fibrosos,fibrous endocarp,spanish
+dispersal_term,cubierta seminal dura,hard seed coat,spanish
+dispersal_term,cubiertas seminales duras,hard seed coat,spanish
+dispersal_term,testa dura,hard testa,spanish
+dispersal_term,testas duras,hard testa,spanish
+dispersal_term,pericarpo coriáceo,leathery pericarp,spanish
+dispersal_term,pericarpos coriáceos,leathery pericarp,spanish
+dispersal_term,endocarpo lignificado,lignified endocarp,spanish
+dispersal_term,endocarpos lignificados,lignified endocarp,spanish
+dispersal_term,pericarpo esclerificado,sclerified pericarp,spanish
+dispersal_term,pericarpos esclerificados,sclerified pericarp,spanish
+dispersal_term,conchiforme,shell-like,spanish
+dispersal_term,conchiformes,shell-like,spanish
+dispersal_term,hueso,stone,spanish
+dispersal_term,huesos,stone,spanish
+dispersal_term,endocarpo pétreo,stony endocarp,spanish
+dispersal_term,endocarpos pétreos,stony endocarp,spanish
+dispersal_term,cubierta seminal gruesa,thick seed coat,spanish
+dispersal_term,cubiertas seminales gruesas,thick seed coat,spanish
+dispersal_term,testa gruesa,thick testa,spanish
+dispersal_term,testas gruesas,thick testa,spanish
+dispersal_term,fruto de pared gruesa,thick-walled fruit,spanish
+dispersal_term,frutos de pared gruesa,thick-walled fruit,spanish
+dispersal_term,endocarpo leñoso,woody endocarp,spanish
+dispersal_term,endocarpos leñosos,woody endocarp,spanish
+dispersal_term,fruto accesorio,accessory fruit,spanish
+dispersal_term,frutos accesorios,accessory fruit,spanish
+dispersal_term,fruto agregado,aggregate fruit,spanish
+dispersal_term,frutos agregados,aggregate fruit,spanish
+dispersal_term,fruto compuesto,compound fruit,spanish
+dispersal_term,frutos compuestos,compound fruit,spanish
+dispersal_term,fruto múltiple,multiple fruit,spanish
+dispersal_term,frutos múltiples,multiple fruit,spanish
+dispersal_term,kanatlı aken,winged achene,turkish
+dispersal_term,kanatlı akenler,winged achene,turkish
+dispersal_term,aken,achene,turkish
+dispersal_term,akenler,achene,turkish
+dispersal_term,sipsela,cypsela,turkish
+dispersal_term,sipselalar,cypsela,turkish
+dispersal_term,antokarp,anthocarp,turkish
+dispersal_term,antokarplar,anthocarp,turkish
+dispersal_term,amfisarka,amphisarca,turkish
+dispersal_term,amfisarkalar,amphisarca,turkish
+dispersal_term,arillokarpyum,arillocarpium,turkish
+dispersal_term,arillokarpyumlar,arillocarpium,turkish
+dispersal_term,balaustalar,balausta,turkish
+dispersal_term,bakka,berry,turkish
+dispersal_term,bakkalar,berry,turkish
+dispersal_term,kaktidyum,cactidium,turkish
+dispersal_term,kaktidyumlar,cactidium,turkish
+dispersal_term,epispermatyum,epispermatium,turkish
+dispersal_term,epispermatyumlar,epispermatium,turkish
+dispersal_term,etli bakka,fleshy berry,turkish
+dispersal_term,etli bakkalar,fleshy berry,turkish
+dispersal_term,hesperidyum,hesperidium,turkish
+dispersal_term,hesperidyumlar,hesperidium,turkish
+dispersal_term,pepolar,pepo,turkish
+dispersal_term,pulplu bakka,pulpy berry,turkish
+dispersal_term,pulplu bakkalar,pulpy berry,turkish
+dispersal_term,sinkarp,syncarp,turkish
+dispersal_term,sinkarplar,syncarp,turkish
+dispersal_term,kapsül,capsule,turkish
+dispersal_term,kapsüller,capsule,turkish
+dispersal_term,sirkumskisil,circumscissile,turkish
+dispersal_term,sirkumskisiller,circumscissile,turkish
+dispersal_term,sirkumskisil kapsül,circumscissile capsule,turkish
+dispersal_term,sirkumskisil kapsüller,circumscissile capsule,turkish
+dispersal_term,lokulisidal,loculicidal,turkish
+dispersal_term,lokulisidaller,loculicidal,turkish
+dispersal_term,lokulisidal kapsül,loculicidal capsule,turkish
+dispersal_term,lokulisidal kapsüller,loculicidal capsule,turkish
+dispersal_term,porisidal,poricidal,turkish
+dispersal_term,porisidaller,poricidal,turkish
+dispersal_term,porisidal kapsül,poricidal capsule,turkish
+dispersal_term,porisidal kapsüller,poricidal capsule,turkish
+dispersal_term,piksis,pyxis,turkish
+dispersal_term,piksisler,pyxis,turkish
+dispersal_term,septisidal,septicidal,turkish
+dispersal_term,septisidaller,septicidal,turkish
+dispersal_term,septisidal kapsül,septicidal capsule,turkish
+dispersal_term,septisidal kapsüller,septicidal capsule,turkish
+dispersal_term,silikula,silicle,turkish
+dispersal_term,silikulalar,silicle,turkish
+dispersal_term,siliqualar,silique,turkish
+dispersal_term,karyopsis,grain,turkish
+dispersal_term,karyopsisler,grain,turkish
+dispersal_term,agregat drupa,aggregate drupe,turkish
+dispersal_term,agregat drupalar,aggregate drupe,turkish
+dispersal_term,kompozit drupa,compound drupe,turkish
+dispersal_term,kompozit drupalar,compound drupe,turkish
+dispersal_term,drupalar,drupe,turkish
+dispersal_term,drupçuk,drupelet,turkish
+dispersal_term,drupçuklar,drupelet,turkish
+dispersal_term,drupetumlar,drupetum,turkish
+dispersal_term,psödodrupa,pseudodrupe,turkish
+dispersal_term,psödodrupalar,pseudodrupe,turkish
+dispersal_term,taş çekirdekli meyve,stone fruit,turkish
+dispersal_term,taş çekirdekli meyveler,stone fruit,turkish
+dispersal_term,folikül,follicle,turkish
+dispersal_term,foliküller,follicle,turkish
+dispersal_term,megastrobiluslar,megastrobilus,turkish
+dispersal_term,mikrostrobilus,microstrobilus,turkish
+dispersal_term,mikrostrobiluslar,microstrobilus,turkish
+dispersal_term,ovül taşıyan kozalak,ovulate cone,turkish
+dispersal_term,ovül taşıyan kozalaklar,ovulate cone,turkish
+dispersal_term,polen kozalak,pollen cone,turkish
+dispersal_term,polen kozalaklar,pollen cone,turkish
+dispersal_term,tohum kozalak,seed cone,turkish
+dispersal_term,tohum kozalaklar,seed cone,turkish
+dispersal_term,strobiluslar,strobilus,turkish
+dispersal_term,bakkamsı kozalak,berry-like cone,turkish
+dispersal_term,bakkamsı kozalaklar,berry-like cone,turkish
+dispersal_term,galbuluslar,galbulus,turkish
+dispersal_term,legüm,legume,turkish
+dispersal_term,legümler,legume,turkish
+dispersal_term,lomentler,loment,turkish
+dispersal_term,bakla,pod,turkish
+dispersal_term,baklalar,pod,turkish
+dispersal_term,kanatlı nut,winged nut,turkish
+dispersal_term,kanatlı nutlar,winged nut,turkish
+dispersal_term,nut,nut,turkish
+dispersal_term,nutlar,nut,turkish
+dispersal_term,nutçuk,nutlet,turkish
+dispersal_term,nutçuklar,nutlet,turkish
+dispersal_term,nukulanyum,nuculanium,turkish
+dispersal_term,nukulanyumlar,nuculanium,turkish
+dispersal_term,pom,pome,turkish
+dispersal_term,pomlar,pome,turkish
+dispersal_term,samaralar,samaras,turkish
+dispersal_term,samaroidler,samaroid,turkish
+dispersal_term,kanatlı samara,winged samara,turkish
+dispersal_term,kanatlı samaralar,winged samara,turkish
+dispersal_term,kamara,camara,turkish
+dispersal_term,kamaralar,camara,turkish
+dispersal_term,karserulus,carcerulus,turkish
+dispersal_term,karseruluslar,carcerulus,turkish
+dispersal_term,kokkus,coccus,turkish
+dispersal_term,kokkuslar,coccus,turkish
+dispersal_term,kremokarp,cremocarp,turkish
+dispersal_term,kremokarplar,cremocarp,turkish
+dispersal_term,merikarp,mericarp,turkish
+dispersal_term,merikarplar,mericarp,turkish
+dispersal_term,regmalar,regma,turkish
+dispersal_term,şizokarp,schizocarp,turkish
+dispersal_term,şizokarplar,schizocarp,turkish
+dispersal_term,sorozis,sorosis,turkish
+dispersal_term,sorozisler,sorosis,turkish
+dispersal_term,sikonyum,syconium,turkish
+dispersal_term,sikonyumlar,syconium,turkish
+dispersal_term,utrikel,utricle,turkish
+dispersal_term,utrikeller,utricle,turkish
+dispersal_term,kanat,wing,turkish
+dispersal_term,kanatlar,wing,turkish
+dispersal_term,kanatlı,winged,turkish
+dispersal_term,kanatlı meyve,winged fruit,turkish
+dispersal_term,kanatlı meyveler,winged fruit,turkish
+dispersal_term,kanatlı tohum,winged seed,turkish
+dispersal_term,kanatlı tohumlar,winged seed,turkish
+dispersal_term,aristalar,awn,turkish
+dispersal_term,aristalı,awned,turkish
+dispersal_term,koma,coma,turkish
+dispersal_term,komalar,coma,turkish
+dispersal_term,komoz,comose,turkish
+dispersal_term,pappoz,pappose,turkish
+dispersal_term,pappuslar,pappus,turkish
+dispersal_term,plümlü,plumed,turkish
+dispersal_term,plumoz,plumose,turkish
+dispersal_term,tohum kılları,seed hairs,turkish
+dispersal_term,tohum kılı,seed hairs,turkish
+dispersal_term,ipeksi kıl,silky hairs,turkish
+dispersal_term,ipeksi kıllar,silky hairs,turkish
+dispersal_term,kıl demeti,tuft of hairs,turkish
+dispersal_term,kıl demetleri,tuft of hairs,turkish
+dispersal_term,aril,aril,turkish
+dispersal_term,ariller,aril,turkish
+dispersal_term,arilli,arillate,turkish
+dispersal_term,arilli tohum,arillate seed,turkish
+dispersal_term,arilli tohumlar,arillate seed,turkish
+dispersal_term,arillod,arillode,turkish
+dispersal_term,arillodlar,arillode,turkish
+dispersal_term,yenilebilir pulpa,edible pulp,turkish
+dispersal_term,yenilebilir pulpalar,edible pulp,turkish
+dispersal_term,etli,fleshy,turkish
+dispersal_term,etli meyve,fleshy fruit,turkish
+dispersal_term,etli meyveler,fleshy fruit,turkish
+dispersal_term,etli mezokarp,fleshy mesocarp,turkish
+dispersal_term,etli mezokarplar,fleshy mesocarp,turkish
+dispersal_term,etli perikarp,fleshy pericarp,turkish
+dispersal_term,etli perikarplar,fleshy pericarp,turkish
+dispersal_term,etli tohum kabukları,fleshy seed coat,turkish
+dispersal_term,etli tohum kabuğu,fleshy seed coat,turkish
+dispersal_term,etli testa,fleshy testa,turkish
+dispersal_term,etli testalar,fleshy testa,turkish
+dispersal_term,sulu,juicy,turkish
+dispersal_term,sulu meyve,juicy fruit,turkish
+dispersal_term,sulu meyveler,juicy fruit,turkish
+dispersal_term,pulplu,pulpy,turkish
+dispersal_term,pulplu meyve,pulpy fruit,turkish
+dispersal_term,pulplu meyveler,pulpy fruit,turkish
+dispersal_term,sarkotesta,sarcotesta,turkish
+dispersal_term,sarkotestalar,sarcotesta,turkish
+dispersal_term,aril içinde tohum,seed enclosed in aril,turkish
+dispersal_term,aril içinde tohumlar,seed enclosed in aril,turkish
+dispersal_term,sukulent,succulent,turkish
+dispersal_term,sukulentler,succulent,turkish
+dispersal_term,sukulent meyve,succulent fruit,turkish
+dispersal_term,sukulent meyveler,succulent fruit,turkish
+dispersal_term,tatlı pulpa,sweet pulp,turkish
+dispersal_term,tatlı pulpalar,sweet pulp,turkish
+dispersal_term,barbalı,barbed,turkish
+dispersal_term,barbalar,barbs,turkish
+dispersal_term,pıtraklı,burr-like,turkish
+dispersal_term,pıtrak,burrs,turkish
+dispersal_term,pıtraklar,burrs,turkish
+dispersal_term,yapışıcı,clinging,turkish
+dispersal_term,yapışıcılar,clinging,turkish
+dispersal_term,glokid,glochidia,turkish
+dispersal_term,glokidler,glochidia,turkish
+dispersal_term,kancalı,hooked,turkish
+dispersal_term,kanca,hooks,turkish
+dispersal_term,kancalar,hooks,turkish
+dispersal_term,diken,spines,turkish
+dispersal_term,dikenler,spines,turkish
+dispersal_term,dikenli,spiny,turkish
+dispersal_term,müsilaj,mucilage,turkish
+dispersal_term,müsilajlar,mucilage,turkish
+dispersal_term,müsilajlı,mucilaginous,turkish
+dispersal_term,reçineli,resinous,turkish
+dispersal_term,yapışkan,sticky,turkish
+dispersal_term,yapışkanlar,sticky,turkish
+dispersal_term,yapışkan tohum,sticky seed,turkish
+dispersal_term,yapışkan tohumlar,sticky seed,turkish
+dispersal_term,viskoz,viscid,turkish
+dispersal_term,viskozlar,viscid,turkish
+dispersal_term,mirmekoşor,ant-dispersed,turkish
+dispersal_term,mirmekoşorlar,ant-dispersed,turkish
+dispersal_term,karunkül,caruncle,turkish
+dispersal_term,karunküller,caruncle,turkish
+dispersal_term,karunküllü,carunculate,turkish
+dispersal_term,elayozom,elaiosome,turkish
+dispersal_term,elayozomlar,elaiosome,turkish
+dispersal_term,mirmekoşori,myrmecochory,turkish
+dispersal_term,mirmekoşoriler,myrmecochory,turkish
+dispersal_term,hava odacıkları,air chambers,turkish
+dispersal_term,hava odacığı,air chambers,turkish
+dispersal_term,hava dolu,air-filled,turkish
+dispersal_term,veziküler,bladdery,turkish
+dispersal_term,yüzer perikarp,buoyant pericarp,turkish
+dispersal_term,yüzer perikarplar,buoyant pericarp,turkish
+dispersal_term,mantarımsı,corky,turkish
+dispersal_term,lifli perikarp,fibrous pericarp,turkish
+dispersal_term,lifli perikarplar,fibrous pericarp,turkish
+dispersal_term,yüzerek,float,turkish
+dispersal_term,yüzmek,float,turkish
+dispersal_term,yüzen,floats,turkish
+dispersal_term,yüzer,floats,turkish
+dispersal_term,şişkin meyve,inflated fruit,turkish
+dispersal_term,şişkin meyveler,inflated fruit,turkish
+dispersal_term,süngersi,spongy,turkish
+dispersal_term,balistik,ballistic,turkish
+dispersal_term,balistikler,ballistic,turkish
+dispersal_term,katapult,catapult,turkish
+dispersal_term,katapultlar,catapult,turkish
+dispersal_term,elastik dehisent,elastically dehiscent,turkish
+dispersal_term,elastik dehisentler,elastically dehiscent,turkish
+dispersal_term,eksploziv,explosive,turkish
+dispersal_term,eksplozivler,explosive,turkish
+dispersal_term,eksploziv dehissens,explosive dehiscence,turkish
+dispersal_term,eksploziv dehissensler,explosive dehiscence,turkish
+dispersal_term,şiddetli dehisent,forcefully dehiscent,turkish
+dispersal_term,şiddetli dehisentler,forcefully dehiscent,turkish
+dispersal_term,tohum fırlatma,seed ejection,turkish
+dispersal_term,tohum fırlatmalar,seed ejection,turkish
+dispersal_term,palamut,acorn,turkish
+dispersal_term,palamutlar,acorn,turkish
+dispersal_term,sert tohum kabukları,hard seed coat,turkish
+dispersal_term,sert tohum kabuğu,hard seed coat,turkish
+dispersal_term,kalın duvarlı meyve,thick-walled fruit,turkish
+dispersal_term,kalın duvarlı meyveler,thick-walled fruit,turkish
+dispersal_term,aksesuar meyve,accessory fruit,turkish
+dispersal_term,aksesuar meyveler,accessory fruit,turkish
+dispersal_term,agregat meyve,aggregate fruit,turkish
+dispersal_term,agregat meyveler,aggregate fruit,turkish
+dispersal_term,kompozit meyve,compound fruit,turkish
+dispersal_term,kompozit meyveler,compound fruit,turkish
+dispersal_term,mültipl meyve,multiple fruit,turkish
+dispersal_term,mültipl meyveler,multiple fruit,turkish
