@@ -52,7 +52,8 @@ test_result_old
 sample_wfo_data
 sample_wfo_result
 sample_wfo_result_old
-random_samples
+random_samples*
 spanish_result
 spanish_flora_traiter
 full_flora_traiter
+.DS_Store

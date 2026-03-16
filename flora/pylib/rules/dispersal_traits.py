@@ -88,6 +88,18 @@ class DispersalTraits(Linkable):
     def _sanitize_keyword(self, keyword: str) -> str:
         return (keyword or "").replace(" ", "_").replace("-", "_").lower()
 
+    @classmethod
+    def _replace_get(cls, key: str) -> str:
+        """Case-insensitive replace lookup so e.g. 'granne' finds CSV pattern 'Granne' -> 'awn'."""
+        v = cls.replace.get(key)
+        if v is not None:
+            return v
+        key_lower = key.lower()
+        for k, v in cls.replace.items():
+            if (k or "").lower() == key_lower:
+                return v
+        return key
+
     def to_dwc(self, dwc) -> DarwinCore:
         # Use unique key per (part, keyword) so multiple matches for same part don't overwrite
         dyn_key = self.key
@@ -153,7 +165,7 @@ class DispersalTraits(Linkable):
         matched_keyword = None
         if dispersal_tokens:
             key = " ".join(t.lower_ for t in dispersal_tokens).strip()
-            norm = cls.replace.get(key, key)
+            norm = cls._replace_get(key)
             # Use mapping CSV for trait(s); absence terms use type_; otherwise unknown
             mapping = cls._get_keyword_to_traits()
             if norm in mapping:
