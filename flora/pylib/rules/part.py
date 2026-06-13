@@ -17,7 +17,7 @@ from .linkable import Linkable
 @dataclass(eq=False)
 class Part(Linkable):
     # Class vars ----------
-    part_csv: ClassVar[Path] = Path(__file__).parent / "terms" / "part_terms.csv"
+    part_csv: ClassVar[Path] = Path(__file__).parent / "terms" / "part_terms_expanded.csv"
     all_csvs: ClassVar[list[Path]] = [
         part_csv,
         Path(t_terms.__file__).parent / "missing_terms.csv",

@@ -101,7 +101,7 @@ class Taxa:
             Path(t_terms.__file__).parent / "us_location_terms.csv",
             Path(terms.__file__).parent / "habit_terms.csv",
             Path(terms.__file__).parent / "numeric_terms.csv",
-            Path(terms.__file__).parent / "part_terms.csv",
+            Path(terms.__file__).parent / "part_terms_expanded.csv",
             Path(terms.__file__).parent / "rank_terms.csv",
             Path(terms.__file__).parent / "shape_terms.csv",
             Path(terms.__file__).parent / "surface_terms.csv",

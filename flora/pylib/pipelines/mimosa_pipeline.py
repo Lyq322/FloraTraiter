@@ -40,16 +40,24 @@ from flora.pylib.rules.woodiness import Woodiness
 
 # from traiter.pylib.pipes import debug
 
+# spaCy default is 1_000_000 chars (E088). Main nlp and traiter's Sentence pipe each
+# load en_core_web_md; Sentence keeps separate nlp_d / nlp_s with their own limits.
+DOC_MAX_LENGTH = 5_000_000
+
 
 def build():
     extensions.add_extensions()
 
     nlp = spacy.load("en_core_web_md", exclude=["ner"])
+    nlp.max_length = DOC_MAX_LENGTH
 
     tokenizer.setup_tokenizer(nlp)
 
     config = {"base_model": "en_core_web_md"}
     nlp.add_pipe(sentence.SENTENCES, config=config, before="parser")
+    sent_pipe = nlp.get_pipe(sentence.SENTENCES)
+    sent_pipe.nlp_d.max_length = DOC_MAX_LENGTH
+    sent_pipe.nlp_s.max_length = DOC_MAX_LENGTH
 
     Date.pipe(nlp)
 

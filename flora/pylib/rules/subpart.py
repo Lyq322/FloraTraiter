@@ -18,7 +18,7 @@ class Subpart(Linkable):
     # Class vars ----------
     all_csvs: ClassVar[list[Path]] = [
         Path(__file__).parent / "terms" / "subpart_terms.csv",
-        Path(__file__).parent / "terms" / "part_terms.csv",
+        Path(__file__).parent / "terms" / "part_terms_expanded.csv",
         Path(t_terms.__file__).parent / "missing_terms.csv",
     ]
 

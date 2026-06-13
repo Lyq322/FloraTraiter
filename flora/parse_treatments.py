@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse
+import logging
 import textwrap
 from pathlib import Path
 
@@ -15,10 +16,19 @@ def main():
     args = parse_args()
 
     batch_dirs = _batch_dirs(args.treatment_dir)
+    batch_dirs = _slice_batches_from(batch_dirs, args.start_batch)
     single_batch = len(batch_dirs) == 1 and batch_dirs[0] == args.treatment_dir
 
-    for batch_dir in batch_dirs:
-        treatments: Treatments = Treatments(batch_dir, args.limit, args.offset)
+    for i, batch_dir in enumerate(batch_dirs, start=1):
+        logging.info(
+            "Processing batch %d/%d: %s",
+            i,
+            len(batch_dirs),
+            batch_dir.resolve(),
+        )
+        treatments: Treatments = Treatments(
+            batch_dir, args.limit, args.offset, args.parse_timeout
+        )
         treatments.parse(encoding=args.encoding)
 
         html_path = (
@@ -65,6 +75,21 @@ def _batch_dirs(treatment_dir: Path) -> list[Path]:
     return [treatment_dir]
 
 
+def _slice_batches_from(batch_dirs: list[Path], start_batch: str | None) -> list[Path]:
+    """Keep batches from the first whose name matches ``start_batch`` onward (sorted order)."""
+    if not start_batch:
+        return batch_dirs
+    names = [p.name for p in batch_dirs]
+    try:
+        idx = names.index(start_batch)
+    except ValueError:
+        raise SystemExit(
+            f"--start-batch {start_batch!r} not found under treatment dir. "
+            f"Available batch folder names ({len(names)}): {', '.join(names)}",
+        ) from None
+    return batch_dirs[idx:]
+
+
 def _batch_output_path(output_file: Path | None, batch_dir: Path, suffix: str) -> Path | None:
     """Per-batch output path: same parent as output_file, filename is batch_dir.name + suffix."""
     if output_file is None:
@@ -89,6 +114,14 @@ def parse_args() -> argparse.Namespace:
         type=Path,
         required=True,
         help="""Directory containing the input treatment text files.""",
+    )
+
+    arg_parser.add_argument(
+        "--start-batch",
+        metavar="NAME",
+        help="""When treatment-dir has batch subfolders (sorted by name), begin processing
+            at the subfolder named NAME and continue with the rest. Ignored when
+            treatment-dir is a single batch (no subfolders).""",
     )
 
     arg_parser.add_argument(
@@ -141,7 +174,19 @@ def parse_args() -> argparse.Namespace:
         (default: %(default)s)""",
     )
 
+    arg_parser.add_argument(
+        "--parse-timeout",
+        type=float,
+        default=120.0,
+        metavar="SECONDS",
+        help="""Skip a treatment if parsing takes longer than this many seconds.
+            The hung worker is killed and processing continues. Use 0 to disable.
+            (default: %(default)s)""",
+    )
+
     args = arg_parser.parse_args()
+    if args.parse_timeout is not None and args.parse_timeout <= 0:
+        args.parse_timeout = None
     return args
 
 
